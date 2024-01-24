@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: dlinfo
+Version: 1.2.1
+Summary: Python wrapper for libc's dlinfo and dyld_find on Mac
+Home-page: https://github.com/cloudflightio/python-dlinfo
+Maintainer: Cloudflight Space
+Maintainer-email: aerospace@cloudflight.io
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: POSIX :: Linux
+
+python-dlinfo
+=============
+
+Python wrapper for libc's dlinfo
+
+Install
+-------
+
+.. code:: sh
+
+   pip install dlinfo
+   # or
+   pipenv install dlinfo
+
+Usage
+-----
+
+.. code:: python
+
+   >>> from dlinfo import DLInfo
+   >>> lib = ctypes.cdll.LoadLibrary(ctypes.util.find_library('c'))
+   >>> dlinfo = DLInfo(lib)
+   >>> dlinfo.path
+   '/lib/x86_64-linux-gnu/libc.so.6'
+
+

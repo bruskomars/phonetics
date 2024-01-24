@@ -1,0 +1,3 @@
+[console_scripts]
+phonemize = phonemizer.main:main
+
