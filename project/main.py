@@ -8,7 +8,7 @@ EspeakWrapper.set_library(_ESPEAK_LIBRARY)
 
 ###################################################
 
-# with open('street_list_012424.csv', 'r') as file:
+# with open('unique_names_splitted.csv', 'r') as file:
 #
 #     data = csv.reader(file)
 #     name = []
@@ -31,31 +31,31 @@ EspeakWrapper.set_library(_ESPEAK_LIBRARY)
 #                 name.append(row[0])
 #                 break
 #
-# Language
+# ## Language
 # a = 'en-gb-x-gbclan'
-b = 'en-us'
+# b = 'en-us'
 #
 #
 # no_dup = list(set(name))
 # no_dup.sort()
 #
-# FOR IPA
+# ##FOR IPA
 # phonetics_ipa = []
 # for name in no_dup:
 #     phonetics_ipa.append(ipa.convert(name))
 #     print(name)
 #
-# # df = pd.DataFrame(phonetics_ipa, columns=['phonemizer'])
-# # df.to_csv('name-IPA.txt', index=False, sep='\t')
+# df = pd.DataFrame(phonetics_ipa, columns=['phonemizer'])
+# df.to_csv('name-IPA.txt', index=False, sep='\t')
 #
-# FOR phonemizer
-# phonetics = phonemize(no_dup, language=a, backend='espeak')
+# ##FOR phonemizer
+# # phonetics = phonemize(no_dup, language=b, backend='espeak')
+# #
+# # df = pd.DataFrame(phonetics, columns=['phonemizer'])
+# # df.to_csv('name-phonemizer-en-us.txt', index=False, sep='\t')
 #
-# df = pd.DataFrame(phonetics, columns=['phonemizer'])
-# df.to_csv('name-phonemizer-engb.txt', index=False, sep='\t')
-#
-# NAME FILE
-# df = pd.DataFrame(no_dup, columns=['name'])
-# df.to_csv('name3.txt', index=False, sep='\t')
+# ##NAME FILE
+# # df = pd.DataFrame(no_dup, columns=['name'])
+# # df.to_csv('name.txt', index=False, sep='\t')
 
-print(phonemize("ricardo", language=b, backend='espeak'))
+print(phonemize("street", language='en-us', backend='espeak'))
