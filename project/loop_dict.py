@@ -14,24 +14,14 @@ with open('name_list_test.csv', 'r') as file:
         name = str(row[0])
 #
         name_split = name.split()
-        # print(name_split)
         name_split_converted = []
 
         for i in name_split:
             for key, value in dict2.items():
                 if i == str(key):
                     name = name.replace(str(key), value)
-                    # name_split_converted.append(value)
-                    # print(i, "-", value)
-                    # my_str = i.replace(str(key), value)
                 else:
                     continue
 
-        #     name_join = ' '.join(name_split_converted)
-        #     print(name_join)
-        # name_split.append(name_join)
-        print(name)
-        # for key, value in dict2.items():
-        #     name = name.replace(str(key), value)
-        #
-        # print(name)
+        name_list.append(name)
+print(name_list)
