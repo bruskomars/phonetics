@@ -1,6 +1,54 @@
 phonemizer
 ""
+""
+(bagacay*)
+(banna*)
+(calanasan*)
+(cantilever*)
+(compostela*
+(daang*
+(dalemdem*
+(ˈdeɪvoʊ
+(duəl)
+(ɛb)
+(ist
+(goʊə)
+(iloilo*)
+(ˈʤəŋkʃən
+(kabankalan*
+(km*
+(lz*)
+(lɑ
+(lupao*)
+(mn*)
+(malalag*
+(ˈmɛksəˌkoʊ
+(ˈmunjoʊz)
+(naga*
+(ˈnɔrθbaʊnd)
+(oʊld)
+(poblacion*)
+(ˈpraɪvət
+(ˈpəblɪk
+(purok*
+(kˈwɪkˌsænd)
+(raɪt
+(sɑˈlʧeɪdoʊ)
+(sæn
+(sindalan*)
+(saʊθ)
+(ˈsaʊθˌbaʊnd)
+(surigao*
+(tər)
+(tnr*)
+(tanza*)
+(tinambac*)
+(ˈtrɪnɪˌdæd)
+(tuying*)
+(wb*)
+(wɛst
 1
+10
 10
 100
 101
@@ -224,6 +272,7 @@ phonemizer
 1e*
 1st*
 2
+2
 20
 200
 2000
@@ -326,9 +375,13 @@ phonemizer
 258
 259
 25a*
+25a*
 25b*
 25c*
+25c*
 25f*
+25f*
+25th*
 25th*
 26
 260
@@ -342,8 +395,10 @@ phonemizer
 268
 269
 26a*
+26a*
 26b*
 26f*
+26th*
 26th*
 27
 270
@@ -354,16 +409,22 @@ phonemizer
 275
 276
 27a*
+27a*
+27b*
 27b*
 27c*
 27e*
 27f*
+27f*
+27th*
 27th*
 28
 281
 283
 288
 28a*
+28a*
+28b*
 28b*
 28c*
 28f*
@@ -374,15 +435,23 @@ phonemizer
 295
 29a*
 29b*
+29b*
 29c*
 29th*
 2a*
+2a*
+2b*
 2b*
 2c*
+2c*
+2d*
+2e*
 2e*
 2f*
 2d*
 2nd*
+2nd*
+3
 3
 3
 30
@@ -413,6 +482,7 @@ phonemizer
 318
 319
 31st*
+31st*
 32
 320
 321
@@ -426,19 +496,27 @@ phonemizer
 326
 327
 32a*
+32a*
+32b*
 32b*
 32d*
+32d*
+32e*
 32e*
 32f*
+32f*
 32g*
+32i*
 32i*
 32j*
 32k*
 32l*
 32m*
 32n*
+32n*
 32o*
 32p*
+32q*
 32q*
 32r*
 32nd*
@@ -450,11 +528,14 @@ phonemizer
 333
 334
 33a*
+33a*
 33b*
+33c*
 33c*
 33d*
 33rd*
 34
+34a*
 34a*
 34d*
 34th*
@@ -466,6 +547,7 @@ phonemizer
 36
 360
 36th*
+36th*
 37
 37a*
 37e*
@@ -473,6 +555,8 @@ phonemizer
 37th*
 38
 38a*
+38a*
+38b*
 38b*
 38c*
 38d*
@@ -480,19 +564,27 @@ phonemizer
 38f*
 38g*
 38h*
+38h*
 38th*
 39
 39a*
 39d*
 39e*
+39e*
+39f*
 39f*
 39th*
 3a*
+3a*
+3b*
 3b*
 3c*
+3c*
+3d*
 3d*
 3e*
 3nd*
+3rd*
 3rd*
 4
 40
@@ -510,8 +602,11 @@ phonemizer
 40b*
 40f*
 40g*
+40g*
 40i*
 40j*
+40j*
+40k*
 40k*
 40th*
 41
@@ -529,6 +624,7 @@ phonemizer
 41b*
 41d*
 41l*
+41st*
 41st*
 42
 420
@@ -549,6 +645,7 @@ phonemizer
 43d*
 43e*
 43f*
+43f*
 43rd*
 44
 447
@@ -565,12 +662,17 @@ phonemizer
 45b*
 45c*
 45d*
+45d*
+45e*
 45e*
 45f*
 45g*
+45g*
+45h*
 45h*
 45i*
 45j*
+45th*
 45th*
 46
 46a*
@@ -583,16 +685,20 @@ phonemizer
 47th*
 48
 48e*
+48e*
 48f*
 48g*
 48h*
 48i*
+48i*
+48j*
 48j*
 48th*
 49
 49a*
 49b*
 49c*
+49d*
 49d*
 49g*
 49h*
@@ -601,14 +707,20 @@ phonemizer
 49th*
 4a*
 4b*
+4b*
+4c*
 4c*
 4d*
+4d*
 4e*
+4a*
+4th*
 4th*
 5
 50
 50b*
 50c*
+50e*
 50e*
 50f*
 50th*
@@ -620,6 +732,8 @@ phonemizer
 526
 527
 52a*
+52a*
+52b*
 52b*
 52nd*
 53
@@ -651,10 +765,15 @@ phonemizer
 59
 59th*
 5a*
+5a*
 5b*
+5b*
+5c*
 5c*
 5d*
 5e*
+5e*
+5th*
 5th*
 6
 6
@@ -692,6 +811,7 @@ phonemizer
 627
 628
 629
+62nd*
 62nd*
 63
 630
@@ -734,17 +854,23 @@ phonemizer
 68th*
 69
 69a*
+69a*
 69b*
+69th*
 69th*
 6a*
 6a*,
 6b*
 6b*,
+6c*
 6d*
+6d*
+6e*
 6e*
 6a*
 6b*
 6c*
+6th*
 6th*
 7
 70
@@ -782,19 +908,27 @@ phonemizer
 79
 79th*
 7a*
+7a*
+7b*
 7b*
 7c*
+7c*
 7d*
+7d*
+7e*
 7e*
 7h*
 7up*
 7th*
+7th*
+8
 8
 80
 803
 804
 805
 809
+80a*
 80a*
 80th*
 81
@@ -885,6 +1019,8 @@ phonemizer
 9f*
 9th*
 ə
+ə.
+eɪz.
 eɪeɪ
 ˈeɪˌbiˌsi
 abcd*
@@ -1107,6 +1243,7 @@ acharon*
 achemar*
 əˈkɪliz
 achuete*
+acias*
 ˈæsəd
 acidilla*
 aciento*
@@ -1145,6 +1282,7 @@ adalem*
 adalhia*
 ɑˈdɑliə
 adalla*
+adalo*
 ˈædəm
 adama*
 adamos*
@@ -1153,7 +1291,6 @@ adamos*
 adante*
 adao*
 adap*
-adarlo*
 adarna*
 ˈeɪdəz
 adasa*
@@ -1176,6 +1313,7 @@ adelfilla*
 adelia*
 adelina*
 adelino*
+adelita*
 əˈdɛlfə
 ˈædəlsən
 adelwisa*
@@ -1211,6 +1349,7 @@ adonay*
 ɑˈdɔr
 ɑˈdɔrə
 əˈdɔrəbəl
+adoracion*
 ˌædərˈeɪʃən
 adorco*
 adou*
@@ -1491,6 +1630,7 @@ alaminos*
 ˈæləmoʊ
 ˈæləmoʊz
 ˌæləˈmoʊsə
+ˈælən
 alandy*
 alang*
 alangalang*
@@ -1645,6 +1785,7 @@ alfine*
 alfon*
 alfonsa*
 ˌælˈfɑnsoʊ
+ˌælˈfɑnzoʊ
 alfoso*
 ˈælfrɪd
 ˌælˈfreɪdoʊ
@@ -1683,6 +1824,7 @@ alijis*
 alila*
 alilem*
 alilio*
+alilo*
 alim*
 aliman*
 alimango*
@@ -1746,6 +1888,7 @@ allesandra*
 allesandria*
 allessanora*
 ˈæli
+alley1*
 alliage*
 əˈlaɪəns
 allianigue*
@@ -1985,6 +2128,7 @@ ambalite*
 ambangeg*
 ambangonan*
 ambani*
+ambasador*
 ambasing*
 æmˈbæsədər
 ambat*
@@ -2001,6 +2145,7 @@ ambonao*
 ambongdolan*
 amborcia*
 ˈæmbɔɪ
+ambrocia*
 ambrocio*
 ˌæmˈbroʊʤioʊ
 ˈæmˌbroʊz
@@ -2120,6 +2265,7 @@ anastacia*
 anastacio*
 ænəˈsteɪʒə
 anatalia*
+anatalio*
 ˌænəˈtoʊliə
 anawaan*
 anayan*
@@ -2223,10 +2369,12 @@ anguno*
 angwin*
 anhawon*
 ani*
+aniano*
 anibong*
 anibongan*
 anibongon*
 aniceta*
+aniceto*
 anicia*
 anievas*
 anigan*
@@ -2244,6 +2392,7 @@ anislag*
 aniston*
 əˈnitə
 anjou*
+anka*
 æn
 ˈænə
 annadels*
@@ -2286,6 +2435,8 @@ antazo*
 antenor*
 antequera*
 antequisa*
+antera*
+antero*
 ˈænθiə
 ˈænθəm
 ˈænθɔˌni
@@ -2302,6 +2453,7 @@ antiporda*
 ænˈtik
 antivo*
 ˈæntlər
+ɑntˈwɑn
 ˌæntwəˈnɛt
 antolin*
 ˈænˌtɔn
@@ -2350,6 +2502,7 @@ apayao*
 eɪp
 apelado*
 apelles*
+apelo*
 ˌæfrəˈdaɪti
 apiat*
 apigo*
@@ -2370,6 +2523,7 @@ apolinario*
 apollos*
 apolona*
 apolonia*
+apolonio*
 apopong*
 aporbo*
 əˈpɔsəl
@@ -2511,6 +2665,7 @@ arceli*
 arcenas*
 ˈɑrsioʊ
 ˌɑrˈkeɪnʤəl
+ˈɑrʧˈbɪʃəp
 ˈɑrʧər
 archerfish*
 ˈɑrʧəri
@@ -2518,6 +2673,7 @@ archerfish*
 archidona*
 archilleus*
 ˌɑrkəˈmidiz
+ˈɑrkəˌtɛkt
 arciaga*
 arcilla*
 arcillas*
@@ -2615,12 +2771,14 @@ arlegui*
 ˈɑˌrlin
 ˈɑrlɪŋtən
 ɑrˈmɑdə
+ˌɑrˈmɑnd
 ɑrˈmɑndoʊ
 ˌɑrˈmɑni
 ˈɑrməz
 ɑrˈminiə
 armeno*
 armi*
+ɑrˈmidə
 armidele*
 ˈɑrmən
 ˈɑrmər
@@ -2639,6 +2797,7 @@ arnica*
 ˈɑrnoʊ
 arnol*
 ˈɑrnəld
+ɑrˈnəlfoʊ
 ˈɑroʊ
 arocena*
 ərˈoʊmə
@@ -2692,6 +2851,7 @@ artamisa*
 artap*
 artcho*
 arteche*
+artemio*
 artemis*
 artena*
 ɑrˈtɪriəl
@@ -2737,6 +2897,7 @@ asana*
 asanza*
 ascalon*
 ascalona*
+ascario*
 ascencion*
 əˈsɛnʃən
 ascoli*
@@ -2804,6 +2965,7 @@ assa*
 əˈsoʊʃiˌeɪts
 assumpta*
 əˈsəmpʃən
+assy*.
 əˈsɪriə
 ˈɑstə
 astelero*
@@ -2840,6 +3002,7 @@ atal*
 atanacia*
 atanacio*
 atancio*
+atang*
 atanoza*
 atao*
 atate*
@@ -2862,6 +3025,7 @@ ather*
 ati*
 ɑˈtinzə
 atijera*
+atila*
 ɑtiˈlɑnoʊ
 atillo*
 atimonan*
@@ -2877,11 +3041,14 @@ ato*
 atok*
 atolia*
 əˈtɑn
+atong*
 əˈtɑp
 ˈeɪtriəm
 attaban*
 ˈætɪkə
 əˈtɪlə
+əˈtərni
+əˈtərni.
 attraente*
 atugan*
 atupan*
@@ -2931,6 +3098,7 @@ austero*
 ˈɔstriə
 ˈɔtəm
 auxtero*
+ˈeɪvə
 ˈævəˌlɑn
 avan*
 avancena*
@@ -2940,6 +3108,7 @@ avante*
 ˈɑˌveɪ
 avecida*
 avecilla*
+avelina*
 avelino*
 avellana*
 ˌævəˈlinoʊ
@@ -3037,7 +3206,11 @@ azuro*
 azusa*
 ɑtˈsɑroʊ
 bi
+bi.
+b.f*.
+b.m*.
 b3*
+baes*
 bbl*
 bcdo*
 bck*
@@ -3155,6 +3328,7 @@ badalona*
 badbad*
 badbaranan*
 badelles*
+ˈbeɪdən
 badenas*
 ˈbæʤər
 badian*
@@ -3174,7 +3348,6 @@ badoc*
 badoy*
 badtasan*
 baduang*
-baes*
 baesa*
 baetiong*
 baffin*
@@ -3190,6 +3363,7 @@ bagalay*
 bagalongon*
 bagang*
 baganga*
+bagani*
 baganzo*
 bagaoisan*
 bagar*
@@ -3296,6 +3470,7 @@ bæk
 bakabakahan*
 bakakeng*
 bakal*
+bakal*)
 bakalaw*
 bakan*
 bakauan*
@@ -3970,6 +4145,7 @@ basilicata*
 bɑˈsilioʊ
 basilisa*
 basillo*
+basilyo*
 basinillo*
 bəˈsɪstə
 basit*
@@ -4043,6 +4219,7 @@ batino*
 batis*
 batisan*
 bəˈtɪstɑ
+batistastreet*
 batitang*
 batitinan*
 bato*
@@ -4107,7 +4284,6 @@ bayambang*
 bayan*
 bayanacon*
 bayanag*
-bayanan*
 bayang*
 bayani*
 bayanihan*
@@ -4166,6 +4342,7 @@ bayview*
 baywalk*
 baywood*
 baza*
+bb*.
 bi
 biʧ
 beachcraft*
@@ -4340,6 +4517,7 @@ bɛnt
 ˈbɛntən
 bentony*
 bɛnz
+bepto*
 ber*
 berana*
 berane*
@@ -4438,6 +4616,7 @@ besseya*
 ˈbeɪtə
 betany*
 ˈbɛtəl
+bɛθ
 ˈbɛθəni
 ˈbɛθəl
 ˈbɛθlɪˌhɛm
@@ -4757,6 +4936,7 @@ blutitt*
 ˈbʊləˌvɑrd
 blaɪð
 boʊ
+boʊ.
 boʊə
 boac*
 boado*
@@ -4910,6 +5090,7 @@ bɑn
 ˈbɑnəˌvɪl
 bonnicelle*
 bonnington*
+ˈbɑni
 ˈboʊnoʊ
 bonoan*
 bonoy*
@@ -4991,7 +5172,9 @@ bouldero*
 boulemane*
 ˈbʊləˌvɑrd
 baʊnd
+baʊnd)
 ˈbaʊndəri
+ˈbaʊndəri)
 ˈbaʊnti
 buˈkeɪ
 ˈbərbən
@@ -5013,11 +5196,12 @@ boxelder*
 ˈbɑksˌwʊd
 bɔɪ
 boyie*
+boying*
 bɔɪl
 bɔɪlz
 ˈbɔɪsən
 boz*
-br*
+br*.
 brɑ
 braceros*
 braceville*
@@ -5089,6 +5273,7 @@ bretana*
 bruər
 ˈbruəri
 brezlin*
+brgy*
 braɪən
 briarwood*
 ˈbraɪdəl
@@ -5105,6 +5290,7 @@ bridgeway*
 bridgewood*
 ˈbraɪdəl
 brigada*
+ˌbrɪgəˈdɪr
 brigde*
 briget*
 ˈbrɪgəm
@@ -5134,6 +5320,7 @@ brises*
 ˈbrɪsəl
 bristlecone*
 ˈbrɪstəl
+briston*
 ˈbrɪtən
 britan*
 britanico*
@@ -5146,6 +5333,7 @@ briviesca*
 brixton*
 brixtonhills*
 briz*
+broʊ.
 broadbill*
 broaddent*
 ˈbrɔdhərst
@@ -5195,8 +5383,10 @@ brownville*
 ˈbraʊzər
 bruan*
 brucal*
+brus
 brucelas*
 bruger*
+ˈbrunə
 bruˈnaɪ
 ˈbrunoʊ
 brəʃ
@@ -5208,6 +5398,7 @@ braɪənt
 braɪs
 buacan*
 buacao*
+buadi*
 buadiposo*
 buagan*
 buan*
@@ -5543,6 +5734,8 @@ buyuyungan*
 ˈbaɪrən
 ˈbɪzənˌtin
 si
+si.
+c.b*.
 ˈsiˈfaɪv
 caa*
 caic*
@@ -6231,6 +6424,7 @@ kəˈmɪlə
 kəˈmil
 kəˈmɪloʊ
 camillus*
+camilo*
 caminawit*
 camindangan*
 kəˈminoʊ
@@ -6399,6 +6593,7 @@ canjela*
 canjulao*
 canjumangit*
 canlalay*
+canlamay*
 canlangit*
 canlaon*
 canlapan*
@@ -6460,7 +6655,6 @@ canterton*
 cantigdas*
 cantila*
 cantilan*
-cantilever*
 cantiller*
 cantillon*
 cantimbuhan*
@@ -6553,6 +6747,7 @@ kəˈpris
 capricho*
 ˈkæprəkɔrn
 capring*
+caprizo*
 capsicum*
 ˈkæptən
 ˈkæptənz
@@ -6674,6 +6869,7 @@ carluen*
 ˈkɑrməl
 kɑrˈmɛlɑ
 carmelia*
+carmelino*
 kɑrməˈlitɑ
 ˈkɑrməˌlaɪt
 kɑrˈmɛloʊ
@@ -6797,6 +6993,7 @@ casia*
 casiama*
 casiana*
 casiang*
+kɑsiˈɑnoʊ
 casigan*
 casignia*
 casiguran*
@@ -6808,6 +7005,7 @@ casili*
 casiligan*
 casilihan*
 casimero*
+casimira*
 kɑsiˈmɪroʊ
 casinagan*
 casinala*
@@ -6904,6 +7102,7 @@ cataingan*
 ˈkætɑˌlɑn
 catalat*
 ˌkætəˈlinə
+catalino*
 ˌkætəˈloʊnjə
 catalpa*
 cataluna*
@@ -7008,6 +7207,7 @@ cavinti*
 cavitan*
 cavite*
 caviteno*
+cavo*
 cawa*
 cawacat*
 cawas*
@@ -7077,6 +7277,7 @@ celdran*
 celebes*
 celedio*
 celedonia*
+celedonio*
 celeridad*
 celerina*
 celerio*
@@ -7186,6 +7387,7 @@ cez*
 ˌsɛˈzæn
 cezia*
 cezzane*
+ch*.
 ʧɑ
 chabita*
 ˈʧækən
@@ -7234,6 +7436,7 @@ chapparal*
 ʧæps
 charbel*
 ˈʧɑrʤər
+charina*
 charing*
 kərˈɪzmə
 charisse*
@@ -7248,6 +7451,7 @@ charlestone*
 charleyville*
 ˈʧɑrli
 charlieville*
+charlito*
 ˈʃɑrlət
 charmagne*
 ʃɑrˈmeɪn
@@ -7384,6 +7588,7 @@ chorillo*
 chosol*
 ʧu
 ʧaʊ
+chrispin*
 kraɪst
 christelle*
 ˈkrɪsti
@@ -7433,6 +7638,7 @@ cideon*
 cielito*
 cielo*
 cienega*
+cieto*
 cieza*
 cilacap*
 sɪˈlænˌtroʊ
@@ -7450,6 +7656,7 @@ cio*
 ciocon*
 cipres*
 ʧipriˈɑnoʊ
+ciraco*
 ˈsərkəl
 ˈsərkɑn
 ˈsərkət
@@ -7509,6 +7716,8 @@ clareon*
 claret*
 claridades*
 clarin*
+clarina*
+klərˈɪndə
 ˌklɛrəˈnɛt
 clarino*
 ˈklɛriən
@@ -7550,12 +7759,14 @@ clemencia*
 ˈklɛmənz
 ˈklɛmənt
 kləˈmɛnti
+clementino*
 cleofas*
 cleofe*
 cleofer*
 ˌkliəˈpætrə
 clerici*
 ˈklɛrˌmɑnt
+cleto*
 cletus*
 ˈklivlənd
 clevelano*
@@ -7572,6 +7783,7 @@ klɪnt
 ˈklɪpər
 cloma*
 kloʊz
+clotilde*
 clove*
 ˈkloʊvər
 cloverdale*
@@ -7633,6 +7845,7 @@ koʊən
 coimbra*
 koʊˈwɑŋkoʊ
 col*
+col*.
 colago*
 colambugon*
 colasi*
@@ -7699,6 +7912,7 @@ columbrez*
 kəˈləmbəs
 colveta*
 colwyn*
+kɑm.
 ˈkoʊmə
 kəˈmænʧi
 ˌkoʊmənˈdɑnteɪ
@@ -7715,6 +7929,7 @@ comiran*
 comiso*
 comita*
 kəˈmænd
+kəˈmændər
 kəˈmænˌdoʊ
 kəˌmɛmərˈeɪʃən
 ˈkɑmərs
@@ -7745,6 +7960,7 @@ compostela*
 ˈkɑmptən
 compund*
 kəmˈpjutər
+ˈkɑmˌræd
 comun*
 conalum*
 kənˌsɛpsiˈoʊn
@@ -7761,6 +7977,7 @@ concon*
 ˈkɑnˌkɔrd
 ˈkɑnˌkɔrd
 concordia*
+concordio*
 ˈkɑnkrit
 concubierta*
 kɑnd
@@ -7800,6 +8017,7 @@ conie*
 conil*
 conilon*
 kəˈnɛtəkət
+kəˈnɛktɪŋ
 kəˈnɛktər
 connejo*
 ˈkɑnər
@@ -7813,6 +8031,7 @@ consenza*
 ˌkɑnsərˈveɪʃən
 consesa*
 consing*
+conso*
 consocep*
 consolacion*
 kənˈsɑləˌdeɪtəd
@@ -7939,6 +8158,7 @@ coronella*
 ˈkɔrəˈnɛt
 coronon*
 corotan*
+ˈkɔrpərəl
 ˈkɔrpərət
 ˌkɔrpərˈeɪʃən
 ˈkɔrpəs
@@ -8017,6 +8237,7 @@ cotoner*
 ˈkɑtənˌwʊd
 ˈkoʊti
 ˈkugər
+ˈkaʊnsɪlər
 kaʊnt
 ˈkaʊntəs
 ˈkəntri
@@ -8069,6 +8290,7 @@ crempts*
 ˈkrɛnˌʃɔ
 ˈkrɛsənt
 crescini*
+cresencio*
 cresente*
 cresini*
 ˈkrɛspi
@@ -8092,6 +8314,7 @@ criselda*
 crisenciano*
 crisfield*
 crisinal*
+crislo*
 ˈkrɪsmən
 crismor*
 crismore*
@@ -8106,6 +8329,7 @@ kriˈspinə
 ˈkrispoʊ
 crispulo*
 crispus*
+krɪst
 ˈkrɪstə
 criste*
 cristelle*
@@ -8115,9 +8339,11 @@ cristimar*
 krɪˈstinə
 cristine*
 cristino*
+cristito*
 ˈkrɪˌstoʊ
 cristoba*
 ˈkrɪstəbəl
+cristoforo*
 kroʊˈeɪʃə
 ˈkroʊkəs
 croesus*
@@ -8161,7 +8387,7 @@ cruzero*
 ˈkrɪstəl
 ˈkrɪstəˌlaɪn
 kɔrt
-ctr*
+kɔrt.
 cu*
 cua*
 cuabo*
@@ -8254,6 +8480,7 @@ kəp
 cupa*
 cupang*
 ˈkəpˌkeɪk
+cura*
 curacha*
 curadang*
 curambao*
@@ -8317,6 +8544,8 @@ czarina*
 ˌʧɛkəsloʊˈvɑkiə
 di
 d'lotilla*
+di.
+d.v.s*.
 dapecol*
 darbci*
 dbp*
@@ -8397,7 +8626,6 @@ dagami*
 dagang*
 dagani*
 dagat*
-dagatan*
 ˈdægər
 daghoy*
 dago*
@@ -8578,6 +8806,7 @@ danicop*
 dænˈjɛlə
 ˌdænˈjɛlə
 ˌdænˈjɛl
+danilo*
 danipog*
 daniw*
 danlag*
@@ -8585,6 +8814,7 @@ danleg*
 danlig*
 dannah*
 dannevirke*
+ˈdæni
 ˈdɑnoʊ
 danreb*
 dans*
@@ -8822,6 +9052,7 @@ dɛˈlunə
 delupio*
 delverde*
 dely*
+dema*
 demesa*
 demester*
 dɪˈmitər
@@ -8830,12 +9061,14 @@ demetillo*
 dɪˈmɛtriə
 dɪˈmɛtrioʊ
 dɪmɛˈtriu
+ˈdɛmi
 demirin*
 demitillo*
 demition*
 demnate*
 democracia*
 ˈdɛməˌkræt
+democrito*
 democritus*
 demokrasya*
 demoloc*
@@ -8843,6 +9076,7 @@ demolok*
 ˌdɛmənˈstreɪʃən
 demora*
 dempro*
+dɛn.
 denali*
 denara*
 denayao*
@@ -8914,13 +9148,14 @@ dewata*
 dui
 dewplant*
 ˈdɛkstər
-dexterville*
 dɛkˈstɛrɪti
+dexterville*
 deytiquez*
 deza*
 ˈdɑbi
 ˈdɑkə
 dhalia*
+dharr*
 dhaulagiri*
 dhy*
 ˈdiə
@@ -9015,6 +9250,7 @@ dilis*
 dɪl
 dilla*
 diloy*
+dima*
 dimaano*
 dimabiling*
 dimacali*
@@ -9092,6 +9328,7 @@ diɔr
 diora*
 diorella*
 ˈdioʊs
+dioscoro*
 diosdado*
 diosma*
 dioso*
@@ -9110,6 +9347,7 @@ dipuyai*
 dirain*
 dɪˈrɛkt
 directo*
+dɪˈrɛktər
 direksyon*
 dirham*
 dirian*
@@ -9223,10 +9461,12 @@ donacia*
 donada*
 donafield*
 donak*
+ˈdɑnəld
 donan*
 dəˈnɑtə
 donatello*
 dəˈnɑtoʊ
+dondoy*
 doneney*
 dənz
 doneza*
@@ -9289,6 +9529,7 @@ downeys*
 ˈdaʊnˈtaʊn
 doylestown*
 doyong*
+doña*
 dracaena*
 dracena*
 ˈdrækmə
@@ -9311,13 +9552,13 @@ drilon*
 drimitivo*
 driod*
 draɪv
+ˈdraɪvˌweɪ
 ˈdraɪvɪŋ
 drɔp
 ˈdruri
 ˈdraɪzˌdeɪl
 də
 dua*
-duəl
 duale*
 dualing*
 dˈwɑrˌteɪ
@@ -9462,7 +9703,7 @@ daɪk
 ˈdaɪnəsti
 dyos*
 i
-ɛb
+i.
 ecb*
 edsa*
 i
@@ -9510,6 +9751,7 @@ ebarle*
 ˈɛbər
 eberia*
 ˈɛbərˌsoʊl
+ebo*
 ˈɛbəni
 ebreo*
 ˈiˌbroʊ
@@ -9539,6 +9781,7 @@ ecoville*
 ecozone*
 ˈɛkru
 ˈɛkwəˌdɔr
+ɛd
 ˈidə
 edades*
 edang*
@@ -9547,9 +9790,11 @@ edanol*
 edderton*
 ˈɛdi
 edejer*
+edelmiro*
 ˈeɪdəlˌvaɪs
 ˈidən
 ederadan*
+edgardo*
 ɛʤ
 ˈɛʤərtən
 edgeware*
@@ -9560,6 +9805,7 @@ edilberto*
 ˈɛdənbəroʊ
 ˈɛdɪsən
 ˈɛdɪðə
+edito*
 ˌɛdəˈtɔriəl
 edlimar*
 edmalin*
@@ -9579,11 +9825,13 @@ edvil*
 edville*
 ˈɛdwərd
 ˈɛdwərdz
+ˈɛdwɪn
 ɛdˈwinə
 efficience*
 ɪˈfɪʃənsi
 ˈɛfi
 efondo*
+efrain*
 efren*
 egaa*
 egat*
@@ -9594,6 +9842,7 @@ egeria*
 eguna*
 ˈiʤɪpt
 eɪθ
+aɪˈlin
 einaldi*
 ˈaɪnstaɪn
 einthoven*
@@ -9605,6 +9854,7 @@ ejercito*
 eksplorasyon*
 ɛl
 ˈɛlə
+eladia*
 ˌiˈleɪn
 ɪˈleɪn
 elang*
@@ -9644,6 +9894,7 @@ eleutaria*
 eleuteria*
 eleuterio*
 elevado*
+ˈɛləˌveɪtɪd
 ˈilɛvən
 ɛlf
 ɪlˈgɑ
@@ -9656,8 +9907,9 @@ elicano*
 elicio*
 elida*
 eligardi*
-ɛˈlaɪʤə
+eligio*
 elim*
+elino*
 ˈɛliət
 əˈlizə
 ɪˈlɪzəbɪθ
@@ -9707,12 +9959,14 @@ elpidio*
 elpis*
 elquiero*
 ˈɛlsˌwɛr
+ˈɛlsi
 elsol*
 elvazia*
 elverta*
 ɛlˈvaɪrə
 elvissa*
 ˈɛlˌwʊd
+ˈilaɪ
 ˈɛlɪˌsi
 elysian*
 emano*
@@ -9735,6 +9989,8 @@ emetrio*
 əˈmiliə
 emiliana*
 emiliani*
+emiliano*
+emilina*
 əˈmilioʊ
 emillia*
 ˈɛmɪli
@@ -9752,6 +10008,7 @@ enage*
 enam*
 enamo*
 enarzo*
+enc*.
 encalipto*
 encantar*
 ɛnˌkɑrnɑsˈjɔn
@@ -9786,6 +10043,7 @@ engkanto*
 ˈɪŋlɪʃ
 engracia*
 engracion*
+enilio*
 enjoie*
 enna*
 ˈinək
@@ -9833,8 +10091,10 @@ equia*
 equidad*
 ˈɛkwɪtəbəl
 ˈɪrə
+erano*
 ɪˈræstəs
 erato*
+eraño*
 erba*
 ercilla*
 erecia*
@@ -9853,6 +10113,7 @@ eris*
 erlazado*
 erlinda*
 erlyn*
+ˈərmɪn
 ermita*
 ermitano*
 ˈərnɪst
@@ -9889,8 +10150,10 @@ escobia*
 escobido*
 escobillo*
 escoda*
+escolano*
 escolar*
 escolastica*
+escolastico*
 escolta*
 escombro*
 escopa*
@@ -9914,6 +10177,7 @@ eskwela*
 esla*
 esleigue*
 esmeralda*
+esmeraldo*
 esmeria*
 eɪˈspɑdə
 ɛˈspænjə
@@ -9940,6 +10204,7 @@ eɪˈspinoʊ
 ˌɛˈspɪrɪtoʊ
 ɛspɪˈriʧu
 espital*
+espitano*
 esplana*
 ˌɛspləˈnɑd
 espoleto*
@@ -9951,6 +10216,7 @@ esquejo*
 esquerra*
 esquerta*
 esquibal*
+esquinita*
 eɪskwiˈvɛl
 essaquira*
 essel*
@@ -9984,6 +10250,7 @@ estelita*
 estephano*
 ˈɛstər
 esterelle*
+estero*
 ɛˈsteɪvɛs
 ɛˈsteɪvɛz
 ˈɛstər
@@ -10006,6 +10273,7 @@ estrellas*
 estremadura*
 estreras*
 estrillas*
+estro*
 estupin*
 etcubanes*
 eternidad*
@@ -10023,6 +10291,7 @@ etruiste*
 eufemia*
 eufemio*
 eufracia*
+eufracio*
 eufrocia*
 ˈjuʤin
 ˌjuˈʤiniə
@@ -10083,17 +10352,20 @@ evora*
 evozone*
 eway*
 ɛks
+ɛks.
 exaltacion*
 ɪgˈzæmənər
 ˌɛkˈskæləbər
 ˈɛksələns
 ɪksˈʧeɪnʤ
+ˌɛgˈzɛk.
 ɪgˈzɛkjətɪv
 exekiel*
 exelcior*
 exequiel*
 ˈɛksərˌsaɪz
 ˈɛksɪtər
+exiquiel*
 ˈɛksət
 exodo*
 ˈɛksədəs
@@ -10103,6 +10375,7 @@ exodo*
 exportbank*
 ɪkˈsprɛsˌweɪ
 ɪkˈstɛnʃən
+extention*
 ˈɛkstrə
 extremadura*
 aɪ
@@ -10113,6 +10386,7 @@ ezequiel*
 ezrah*
 eztanza*
 ɛf
+ɛf.
 fæb
 fbc*
 ffhnas*
@@ -10232,6 +10506,7 @@ fɑr
 faranal*
 faraon*
 farconville*
+fardo*
 fɑrʤ
 fərˈinəz
 fariwood*
@@ -10254,6 +10529,7 @@ farview*
 ˈfæʃən
 fæst
 feɪt
+ˈfɑðər
 ˈfɑðərz
 ˈfɑðərz'
 ˈfæθɪmə
@@ -10264,6 +10540,7 @@ faura*
 ˈfɔstoʊ
 favali*
 faveo*
+faviano*
 favila*
 favis*
 ˈfeɪvər
@@ -10309,17 +10586,21 @@ felicima*
 felicisimo*
 felicita*
 felicitas*
+felicito*
 fɪˈlɪsəti
+felimino*
 felimon*
 felina*
 felino*
 felipa*
 fəˈlip
+fəˈlip)
 felipecacio*
 felisa*
 felisario*
 felissa*
 ˈfilɪks
+felixberto*
 ˈfɛlɪz
 feliza*
 felizana*
@@ -10424,15 +10705,18 @@ figurin*
 figworth*
 ˈfiʤi
 fɪl
+filadelfo*
 filaro*
 filbern*
 ˈfɪlbərt
 fildela*
+filemon*
 fileu*
 filheights*
 fili*
 filia*
 filibusterismo*
+filimon*
 filinvest*
 filipina*
 filipinas*
@@ -10446,6 +10730,7 @@ filipos*
 filomenas*
 filomeno*
 filonila*
+filoteo*
 filriter*
 fɪlˈtreɪʃən
 fɪn
@@ -10503,6 +10788,7 @@ flagini*
 fleɪm
 fləˈmɛŋˌkoʊ
 flamengco*
+flamera*
 flametree*
 ˈfleɪmɪŋ
 fləˈmɪŋgoʊ
@@ -10554,6 +10840,7 @@ florfina*
 ˈflɔrɪdə
 floridablanca*
 florido*
+florito*
 flormata*
 ˈflɔroʊ
 florpina*
@@ -10606,8 +10893,10 @@ fontimayor*
 fud
 fʊt
 ˈfʊtˌbɔl
+footbridge*
 ˈfʊˌthɪl
 ˈfʊtˌpæθ
+footway*
 ˈfɔrə
 ˈfɔrɪʤ
 fɔrbz
@@ -10676,6 +10965,7 @@ foxglobe*
 ˈfɑksˌhoʊl
 ˈfɑkˌsteɪl
 ˈfɑkstrɑt
+fr*.
 ˈfrɑgə
 ˈfreɪmɪŋˌhæm
 frammel*
@@ -10692,6 +10982,7 @@ frænˈsin
 francisca*
 frænˈsɪskən
 frænˈsɪskoʊ
+frænˈsɪskoʊ)
 frænˈsisoʊ
 ˈfræŋkoʊ
 frænsˈwɑz
@@ -10706,6 +10997,7 @@ franville*
 frəˈtərnəl
 fraternidad*
 fratinna*
+frɛd
 fredel*
 ˈfrɛdrɪk
 ˈfrɛdərɪk
@@ -10797,6 +11089,9 @@ fˈjuʒən
 futuna*
 fˈjuʧər
 ʤi
+ʤi)
+ʤi.
+g.c*
 ghq*
 gk*
 gma*
@@ -11061,6 +11356,7 @@ gastambide*
 ˈgæstən
 gastuslao*
 gæt
+gata*
 gatang*
 gatas*
 gatbo*
@@ -11071,6 +11367,7 @@ gatdula*
 geɪt
 ˈgeɪtɪd
 geɪts
+ˈgeɪtˌweɪ
 gatis*
 gatlabayan*
 gatmaitan*
@@ -11088,6 +11385,7 @@ gaudencio*
 gaudi*
 gaudier*
 gɔdiˈoʊsoʊ
+gaudisio*
 gaurano*
 ˈgeɪvən
 gavilan*
@@ -11122,6 +11420,7 @@ geminiano*
 ʤɛmz
 gemstar*
 gemumua*
+ʤɛn
 ˈʤɛnə
 genalina*
 genaro*
@@ -11234,6 +11533,7 @@ gijon*
 gikd*
 gɪl
 ˈgɪlbərt
+gɪlˈbɛrˌtoʊ
 gilboa*
 gilbraltar*
 gilbraltarr*
@@ -11258,6 +11558,7 @@ gimlina*
 gimotea*
 ʤɪn
 ˈʤinə
+ginang*
 ginatilan*
 giner*
 ʤaɪnz
@@ -11300,6 +11601,7 @@ gitagum*
 gitna*
 gitnang*
 gɪˈvɛnʧi
+glaciano*
 ˈgleɪʃər
 gleɪd
 gleɪdz
@@ -11328,6 +11630,7 @@ glensperry*
 glenway*
 ˈglɛnˌwʊd
 glenwoods*
+glicerio*
 glinoga*
 ˈgloʊbəl
 gloʊb
@@ -11356,7 +11659,9 @@ gochan*
 goco*
 ˈgɑdərd
 godet*
+ˈgoʊdɪŋ
 godod*
+godofredo*
 ˈgɑdɔɪ
 goduno*
 godwit*
@@ -11453,7 +11758,6 @@ gotianuy*
 gotladera*
 gotokan*
 gotozon*
-gəv
 ˈgəvərnmənt
 ˈgəvərnər
 ˈgəvərnərz
@@ -11474,6 +11778,7 @@ gracera*
 graceville*
 ˈgrɑʧə
 graciae*
+grɑʧiˈɑnoʊ
 graciela*
 gracioso*
 greɪd
@@ -11626,6 +11931,7 @@ gˌwɑdəlkəˈnæl
 guadaloupe*
 gˌwɑdəˈlupeɪ
 guɑdɑˈrɑmə
+guading*
 guadix*
 guadiz*
 guagua*
@@ -11873,6 +12179,7 @@ gaɪən
 ʤɪm
 ˈʤaɪˌroʊ
 eɪʧ
+eɪʧ.
 hoa*
 hpa*
 hq*
@@ -12089,7 +12396,7 @@ heɪz
 ˈheɪzəlˌnət
 ˈheɪzəltən
 ˈheɪzəltən
-hda*
+hda*.
 hɛd
 ˈhɛˌdlaɪn
 hɑrt
@@ -12147,9 +12454,11 @@ henafel*
 henares*
 ˈhɛndərsən
 ˈhɛndrɪks
+heneral*
 heneveci*
 ˈhɛnə
 ˈhɛnəsi
+ˌɔˈri
 ˌhɛnriˈɛt
 ˈhɛnri
 ˈhɛnsən
@@ -12173,14 +12482,21 @@ heriberta*
 ˈhɛrɪtɪʤ
 hermacon*
 ˈhərmən
+hermana*
 hermanas*
 hermano*
 hermanos*
 ˈhərmiz
+hermiano*
 ˈhərmi
 hermilinda*
+hermilio*
+ˈhərmɪnə
+hermingildo*
 hɛrˈminiə
 herminigilda*
+herminigildo*
+herminio*
 ˈhərmətəʤ
 hermogena*
 hermogenes*
@@ -12266,6 +12582,7 @@ hilao*
 hilapnitan*
 hiˈlɑriə
 hiˈlɑrioʊ
+hilarion*
 ˈhɪləri
 ˈhɪldə
 ˈhɪldəˌgɑrd
@@ -12415,6 +12732,7 @@ honisto*
 honoban*
 ˌhɑnəˈlulu
 ˈɑnər
+ˈɑnərəbəl
 honorata*
 ˈɑnəˌreɪ
 ɑˈnəriə
@@ -12562,6 +12880,7 @@ hypnos*
 hystiresis*
 ˈhənˌdeɪ
 aɪ
+aɪ.
 ibc*
 ibp*
 icag*
@@ -12573,6 +12892,7 @@ irc*
 iscof*
 itc*
 iv*
+ˈiən
 ˈibə
 ibaa*
 ibaan*
@@ -12635,6 +12955,7 @@ idogan*
 ifrane*
 ifugao*
 ifurung*
+iga*
 igacos*
 igang*
 igat*
@@ -12642,6 +12963,7 @@ igay*
 igbabje*
 igbaras*
 igcawayan*
+igcawayan*)
 igcocolo*
 igdalig*
 iggy*
@@ -12695,6 +13017,7 @@ aɪˈleɪdoʊ
 iligan*
 ilihan*
 ilijan*
+ilino*
 iliona*
 iliza*
 ilkley*
@@ -12864,7 +13187,7 @@ instruccion*
 ˈɪnsəˌleɪtər
 ˌɪnˈʃʊrəns
 ˌɪnˈʃʊr
-int*
+int*.
 intalan*
 ˈɪntən
 intavas*
@@ -12959,6 +13282,7 @@ isabela*
 isabelita*
 ˌɪzəˈbɛlə
 ˈɪzəˌbɛl
+isabelo*
 isagani*
 ˌaɪˈzeɪə
 isaias*
@@ -12970,6 +13294,7 @@ isiah*
 isian*
 isidora*
 ˈɪzɪˌdɔr
+isidoro*
 isidra*
 isidro*
 isinai*
@@ -13039,6 +13364,9 @@ izmart*
 iznart*
 ɪˈzumi
 ʤeɪ
+ʤeɪ.
+j.d.a*.
+j.p*.
 ʤæs
 jcl*
 jcmc*
@@ -13092,6 +13420,7 @@ jaguros*
 jainero*
 jairus*
 ʤəˈkɑrtə
+ʤeɪk
 jakosalem*
 jala*
 jalajala*
@@ -13115,7 +13444,9 @@ jamerol*
 ʤeɪmz
 jamesonite*
 jamias*
+ˈʤeɪmi
 jamilan*
+jamille*
 jamin*
 jamindan*
 jamir*
@@ -13130,6 +13461,7 @@ jamyme*
 ʤeɪn
 ʤəˈnɛˌroʊ
 ˈʤænɪt
+janhendrick*
 ˈʤænɪs
 janipa*
 janipaan*
@@ -13145,6 +13477,7 @@ janopol*
 ˈʤænjuˌɛri
 jao*
 jaoquin*
+japal*
 ʤəˈpæn
 ˌʤæpəˈniz
 japhet*
@@ -13172,6 +13505,7 @@ jaskie*
 jaspher*
 jasponica*
 jaucian*
+jaunita*
 ˈʤɑvə
 javalde*
 javalera*
@@ -13267,10 +13601,12 @@ jintotolo*
 jipapad*
 jireh*
 jison*
+ʤoʊ
 ʤoʊn
 joana*
 joanino*
 ʤoʊˈænə
+ʤoʊæn
 ˌwɑˈkin
 joaquino*
 ʤɑb
@@ -13280,6 +13616,7 @@ jocels*
 ˈʤɑki
 joco*
 jocson*
+ʤoʊ
 joebel*
 joei*
 joeilane*
@@ -13295,6 +13632,7 @@ johnmary*
 ˈʤɑnsənz
 ˈʤɑnstən
 ˈʤɑnzˌtaʊn
+ˈʤɑni
 johor*
 johova*
 joinville*
@@ -13325,11 +13663,13 @@ jorenz*
 ˈhɔrheɪ
 josane*
 ˌhoʊˈzeɪ
+ˌhoʊˈzeɪ.
 ˈʤoʊsəf
 josefa*
 ʤoʊzəˈfinə
 joseling*
 joselito*
+josemaria*
 ˈʤoʊzəf
 ˈʤoʊsəˌfin
 ˈʤoʊzər
@@ -13345,6 +13685,7 @@ jota*
 jovellanos*
 jovellar*
 joven*
+jovencio*
 jover*
 jovillar*
 jəˈvaɪtə
@@ -13363,6 +13704,7 @@ juaning*
 ˌʤuəˈnitə
 juanitez*
 juanito*
+juaquin*
 juaquina*
 ˈwɑˌrɛz
 juaton*
@@ -13420,6 +13762,7 @@ jumamil*
 jumao*
 jumawan*
 ˈʤəmboʊ
+ʤən
 juna*
 junas*
 junatas*
@@ -13451,11 +13794,13 @@ justicia*
 juˈstinə
 ʤəˈstin
 justinian*
+ʤustiniˈɑnoʊ
 ʤəˈstinoʊ
 ˈʤəstoʊ
 juvic*
 juvilla*
 keɪ
+keɪ.
 kc*
 ˈkeɪˈkeɪˈkeɪ
 klm*
@@ -13531,6 +13876,7 @@ kadawngan*
 kadena*
 kadilingan*
 kadingilan*
+kadir*
 kadiwa*
 kadlum*
 kadon*
@@ -13792,11 +14138,12 @@ kapisanan*
 kapit*
 kapitagan*
 ˈkæpɪtən
+kapitana*
 kapitangan*
 kapitolyo*
 kapok*
 ˈkæpə
-kapt*
+kapt*.
 kapulong*
 kapuluan*
 kaputian*
@@ -14181,7 +14528,6 @@ klaɪn
 kleopatra*
 klinan*
 ˈklɑnˌdaɪk
-km*
 kneedler*
 naɪt
 naɪts
@@ -14209,6 +14555,7 @@ komblum*
 komite*
 komotal*
 komprey*
+kɑn.
 ˈkoʊnə
 konagia*
 konami*
@@ -14225,6 +14572,7 @@ kore*
 ˌkɔˈriən
 ˈkɔrən
 korienza*
+korina*
 kornisa*
 koronadal*
 koronel*
@@ -14270,6 +14618,7 @@ kuizon*
 kulaman*
 kulambo*
 kulantro*
+ˈkjuləz
 kulasian*
 kulasihan*
 kulasing*
@@ -14313,6 +14662,7 @@ kwɔŋ
 kwuntong*
 ˈkjoʊtoʊ
 ɛl
+ɛl.
 lbk*
 lcc*
 lgr*
@@ -14322,7 +14672,6 @@ lrt*
 ltdi*
 lv*
 lwcp*
-lz*
 lɑ
 laab*
 laak*
@@ -14411,6 +14760,8 @@ ladiana*
 ladiero*
 ladiola*
 ladioray*
+ladislao*
+ladislaw*
 ladislawa*
 lado*
 ladrido*
@@ -14507,6 +14858,7 @@ leɪks
 laktaw*
 lakyan*
 ˈlɑlə
+lalaine*
 lalak*
 lalakhan*
 lalapoy*
@@ -14751,6 +15103,7 @@ larkhill*
 ˈlɑrkˌspər
 laron*
 larrazabal*
+ˈlɛri
 ˈlɑrsən
 larton*
 laryuhan*
@@ -14773,6 +15126,7 @@ latana*
 latania*
 latap*
 latayan*
+ˈlætərəl
 lateris*
 lathyrus*
 latican*
@@ -14805,6 +15159,7 @@ lɔˈrinoʊ
 laurelwood*
 ˈlɔrən
 lɔˈrɛnə
+ˈlɔrəns
 laurencio*
 laureno*
 laurente*
@@ -14976,10 +15331,12 @@ leonardwood*
 leonca*
 leoncia*
 leoncio*
+leoncito*
 liˈoʊn
 leonforte*
 leongson*
 liˌɔˈnidəz
+leonido*
 leonila*
 leonina*
 leono*
@@ -15056,6 +15413,7 @@ liangan*
 liantada*
 lias*
 liasan*
+liat*
 libaan*
 libacao*
 libag*
@@ -15086,6 +15444,7 @@ liboron*
 liboton*
 ˈlibrɑ
 librada*
+librado*
 libre*
 libres*
 librinca*
@@ -15099,6 +15458,7 @@ liburon*
 libutad*
 ˈlɪˌbiə
 licab*
+licantro*
 licao*
 licaong*
 licaros*
@@ -15119,6 +15479,7 @@ lidlidda*
 lidong*
 laɪ
 liʤ
+luˈtɛnənt
 liezel*
 laɪf
 liga*
@@ -15318,6 +15679,7 @@ liteng*
 ˈlɪθiəm
 ˌlɪθəˈweɪniə
 litid*
+lito*
 liton*
 litonjua*
 ˈlɪtəl
@@ -15334,6 +15696,7 @@ livelo*
 ˈlɪvɪŋstən
 livistonia*
 livorno*
+liwa*
 liwaan*
 liwag*
 liwan*
@@ -15463,6 +15826,7 @@ lookan*
 lun
 lʊŋ
 lup
+loʊp
 lopena*
 ˈloʊpɛz
 ləˈpɪntoʊ
@@ -15583,6 +15947,7 @@ lucing*
 ˈlusioʊ
 lək
 ˈləki
+lucresio*
 lucsuan*
 lucsuhin*
 lucung*
@@ -15750,6 +16115,7 @@ lystra*
 lyza*
 ɛm
 m'lang*
+ɛm.
 mb*
 mbp*
 mcb1*
@@ -15766,7 +16132,6 @@ mjs*
 mm*
 mmr*
 mmw*
-mn*
 mnr*
 moa*
 mrc*
@@ -15783,6 +16148,7 @@ mvp*
 mwcr*
 mwss*
 mɑ
+mɑ.
 maaasahan*
 maaba*
 maabilidad*
@@ -16046,6 +16412,7 @@ maerghereta*
 maestrang*
 maestranza*
 maestre*
+ˈmaɪstroʊ
 maetree*
 mæg
 magabito*
@@ -16107,6 +16474,7 @@ magilas*
 magiliw*
 maginhawa*
 maginoo*
+magistrado*
 magiting*
 magkaisa*
 magkalinis*
@@ -16192,6 +16560,7 @@ meɪən
 mahaplag*
 maharlika*
 mahatao*
+məˈhɑtmə
 mahayag*
 mahayahay*
 mahayhay*
@@ -16417,6 +16786,7 @@ malcampo*
 malcorot*
 maldanum*
 ˈmɔlˌdaɪvz
+maldo*
 malgapo*
 malha*
 malhacan*
@@ -16999,6 +17369,7 @@ marcons*
 marcosin*
 marcosina*
 marcoville*
+ˈmɑrkəs
 marcusin*
 marcventure*
 mɛr
@@ -17017,6 +17388,7 @@ mɑrˈgoʊ
 margelo*
 marges*
 margherita*
+ˈmɑrʤi
 ˈmɑrʤənəl
 ˈmɑrgoʊ
 margosatubig*
@@ -17039,6 +17411,7 @@ maricaban*
 maricalum*
 maricar*
 maricel*
+marichu*
 marick*
 maricudo*
 marida*
@@ -17129,6 +17502,7 @@ marquitos*
 ˈmærəˌkɛʃ
 ˈmɛriət
 ˈmɛrən
+ˈmɛri
 mɑrz
 mɑrˈsaɪl
 mɑrˈsaɪz
@@ -17456,11 +17830,14 @@ mawab*
 mawang*
 mawaque*
 mawi*
+mæks
 maxilom*
 ˈmæksəmə
 maximiano*
+ˌmæksɪˈmɪliən
 maximillian*
 maximina*
+maximino*
 maximo*
 ˈmækˌsɪməs
 maxingal*
@@ -17567,6 +17944,7 @@ mecono*
 mecury*
 mɛd
 ˈmɛdəl
+medalla*
 məˈdæljən
 medan*
 meddela*
@@ -17616,17 +17994,21 @@ mejilla*
 mejorada*
 meknes*
 ˈmeɪkɑŋ
+mɛl
 melalcalde*
 melani*
 melania*
 ˈmɛləni
 melanio*
+melano*
 melantic*
+melaño*
 ˈmɛlbə
 ˈmɛlbərn
 mɛlkiˈɔreɪ
 melchira*
 ˈmɛlʧər
+melchora*
 melecena*
 melegrito*
 meleguas*
@@ -17912,6 +18294,7 @@ mɪˈnərvə
 maɪnz
 minesota*
 mɪˈnɛt
+mɪŋ
 minglana*
 minglanilla*
 ˈmaɪnɪŋ
@@ -18128,6 +18511,7 @@ mənˈroʊ
 mons*
 monserate*
 monserrat*
+mɑnˈsinjər
 ˈmɑnsɑd
 mɑnt
 ˈmɑntəˌgju
@@ -18308,7 +18692,9 @@ movido*
 mɔɪ
 mozar*
 ˈmoʊzɑrt
-mɪz
+ˈmɪstər.
+ˈmɪsɪz.
+mɪz.
 mua*
 mualbual*
 ˈməʧə
@@ -18399,7 +18785,7 @@ muyas*
 muyco*
 muzon*
 mwaan*
-maɪ
+maɪ.
 maɪər
 mykenae*
 mylene*
@@ -18411,6 +18797,8 @@ mynah*
 mystica*
 ˈmɪstɪkəl
 ɛn
+ɛn.
+n.s.m.s*
 naia*
 ˈnælkoʊ
 namria*
@@ -18562,6 +18950,7 @@ nalzaro*
 namamparan*
 namayacan*
 nambaran*
+neɪm
 namie*
 namnam*
 namnama*
@@ -18598,6 +18987,7 @@ nanjen*
 nanka*
 nannette*
 nanogod*
+nanoy*
 nansangaan*
 nanunga*
 naova*
@@ -18659,9 +19049,11 @@ nasugbo*
 nasugbu*
 naswe*
 nəˈtɑljə
+ˈnætəli
 natalio*
 ˈneɪtən
 natanauan*
+natangcop*
 natayag*
 natera*
 ˈneɪθən
@@ -18751,6 +19143,7 @@ neithaniel*
 nejal*
 ˈnɛliə
 ˈnɛli
+ˈnɛlsən
 nemesia*
 nemuel*
 nena*
@@ -18769,11 +19162,13 @@ nephtali*
 nepo*
 nepoli*
 nepomuceno*
+neptali*
 neptis*
 ˈnɛptun
 neptuno*
 ner*
 nera*
+nerealiza*
 nereus*
 ˈnɛri
 nerissa*
@@ -18875,8 +19270,10 @@ nimfa*
 ˈninə
 ninang*
 ninang's*
+ninay*
 ninebark*
 nɪŋ
+nini*
 nining*
 ninio*
 ˈninoʊ
@@ -18942,6 +19339,7 @@ nɔˈrɛkoʊ
 nori*
 ˌnɔriˈeɪgə
 noriel*
+norio*
 norius*
 ˈnɔrmə
 ˈnɔrməl
@@ -18953,7 +19351,6 @@ nɔrt
 nɔrθ
 ˌnɔrˈθæmptən
 northbend*
-ˈnɔrθbaʊnd
 ˈnɔrθˌbrʊk
 northcliffe*
 northcrest*
@@ -19042,6 +19439,9 @@ nuyoa*
 nypa*
 nyuste*
 oʊ
+oʊ.
+o.k*.
+o.l*.
 ohns*
 olv*
 ˈɑmni
@@ -19140,6 +19540,7 @@ oʊˈfeɪliə
 offarel*
 ˈɔfəs
 ˈɔfɪsərz
+ofilada*
 oflaria*
 ofracio*
 ogalino*
@@ -19194,6 +19595,7 @@ olermo*
 olgado*
 olicanto*
 oliman*
+olimpia*
 oling*
 oliphindo*
 olisihan*
@@ -19225,6 +19627,7 @@ olutanga*
 oʊlˈvɛrə
 oʊˈlɪmpiə
 oʊˈlɪmpɪk
+olympio*
 oʊˈlɪmpəs
 ˈoʊməˌhɑ
 omalia*
@@ -19245,6 +19648,7 @@ onay*
 oncidium*
 onda*
 wən
+onelia*
 ɔŋ
 ongan*
 ongking*
@@ -19276,6 +19680,7 @@ opol*
 opon*
 oposcolo*
 oppus*
+ˈoʊprə
 ˈɑptɪk
 opulencia*
 oʊkˈwɛndoʊ
@@ -19368,7 +19773,7 @@ ortal*
 ortanez*
 ɔrˈteɪgə
 ortigas*
-ortigassouthbound*
+ortigas(southbound*)
 ortile*
 ˌɔrˈtiz
 ortona*
@@ -19405,6 +19810,7 @@ ospedale*
 ostini*
 ˈɑstrənd
 ˈɔstrɪʧ
+osumundo*
 oʊˈsunə
 otabon*
 otek*
@@ -19439,6 +19845,7 @@ ovido*
 oʊviˈeɪdoʊ
 ˈoʊvjul
 owak*
+oʊən
 oʊənz
 aʊl
 oxales*
@@ -19457,6 +19864,9 @@ ozaete*
 ozamis*
 ozamiz*
 pi
+pi.
+p.a*.
+p.f*.
 p10*
 p4*
 pæk
@@ -19486,6 +19896,7 @@ pnb*
 pnoc*
 pnp*
 pnr*
+poʊ
 ppa*
 ppc*
 ppnr*
@@ -19515,6 +19926,7 @@ pabingwit*
 pablico*
 pablito*
 ˈpɑbloʊ
+pabo*
 pabondia*
 pabriga*
 pabustan*
@@ -19559,6 +19971,7 @@ pəˈdɪlə
 padoca*
 padonia*
 padova*
+ˈpæˌdreɪ
 ˈpæˌdreɪz
 padriga*
 padrigal*
@@ -19606,6 +20019,7 @@ pagdalagan*
 pagdanganan*
 pagdanicon*
 pagdaraoan*
+pagday*
 pagdilao*
 peɪʤ
 pagga*
@@ -19700,6 +20114,7 @@ palabrica*
 palac*
 ˈpæləs
 palacian*
+palacian*)
 pəˈleɪsioʊ
 pɑlɑˈsioʊz
 palacol*
@@ -19939,6 +20354,7 @@ panay*
 panayaman*
 panaytayon*
 pance*
+ˈpænʧoʊ
 pancian*
 pancracio*
 pancratius*
@@ -19962,6 +20378,7 @@ pandol*
 pandoro*
 pandurucan*
 peɪnz
+panfilo*
 panforte*
 pangablan*
 pangako*
@@ -20105,9 +20522,11 @@ papertrend*
 papillon*
 pæˈpoʊ
 pəˈprikə
+papu*
 ˈpæpjuə
 paquibato*
 paquita*
+paquito*
 paraan*
 paracale*
 paracelis*
@@ -20226,6 +20645,7 @@ parungao*
 pasacao*
 pasacola*
 ˌpæsəˈdinər
+pasaje*
 pasajes*
 pasalan*
 pasaleng*
@@ -20244,6 +20664,7 @@ pɑˈskuə
 ˈpæskuəl
 ˈpæskuəl,
 pascuala*
+pascualita*
 pasedena*
 pɑˈseɪˌoʊ
 pasia*
@@ -20286,6 +20707,7 @@ pasupil*
 pasuquin*
 pasville*
 pasyagan*
+pæt
 pata*
 patac*
 patag*
@@ -20307,6 +20729,7 @@ pɑˈtɛrnoʊ
 pateros*
 pæθ
 pathwalk*
+ˈpæθˌweɪ
 pati*
 paticua*
 ˈpeɪʃəns
@@ -20342,6 +20765,7 @@ patrocinio*
 patrocino*
 ˈpætsi
 pattung*
+ˈpæti
 patubig*
 patul*
 patulangan*
@@ -20406,6 +20830,7 @@ pis
 piʧ
 peachbell*
 ˈpiʧɪz
+peachie*
 ˈpiʧˌtri
 ˈpiʧi
 ˈpiˌkɑk
@@ -20424,6 +20849,7 @@ pearwood*
 ˈpɛbəl
 pebblewood*
 ˈpiˌkɑn
+peceso*
 pechay*
 pecker*
 pecson*
@@ -20443,6 +20869,7 @@ pedrozo*
 pɪr
 ˈpiˌwi
 ˈpɛgəsəs
+ˈpɛgi
 pegion*
 pegley*
 pegunal*
@@ -20481,6 +20908,7 @@ penayo*
 pendatun*
 pendon*
 pendragon*
+pene*
 pəˈnɛləpi
 penesa*
 penettone*
@@ -20506,6 +20934,7 @@ pentonville*
 ˈpɛpi
 peperidge*
 peping*
+pɛˈpitə
 pepito*
 ˈpɛpər
 peppergrass*
@@ -20621,6 +21050,7 @@ petron*
 petrona*
 pɛˈtroʊniə
 petronila*
+petronilo*
 petsay*
 petuna*
 pəˈtunjə
@@ -20726,6 +21156,7 @@ pɪrs
 piere*
 pierno*
 pierra*
+piɛr
 pieta*
 pietrino*
 ˈpaɪəti
@@ -20881,6 +21312,7 @@ pinos*
 pinoy*
 pinpin*
 pinsao*
+pinsin*
 pinsuya*
 pintados*
 pintail*
@@ -20946,6 +21378,7 @@ pitik*
 pitiliano*
 pitimi*
 pitimini*
+pitlane*
 pitogo*
 pitong*
 pitpit*
@@ -20955,6 +21388,7 @@ pitta*
 ˈpɪtsfild
 pitunia*
 paɪəs
+piy*
 piyape*
 pizarra*
 pɪˈzɑroʊ
@@ -21040,7 +21474,6 @@ pocdol*
 pocna*
 poctoy*
 podaca*
-poʊ
 pogi*
 ˈpoʊˌgoʊ
 pogomboa*
@@ -21151,6 +21584,8 @@ porais*
 porcentro*
 porche*
 porciuncula*
+porferio*
+porfirio*
 pormentera*
 poro*
 porong*
@@ -21228,6 +21663,7 @@ prayville*
 prechnite*
 preciosa*
 ˈprɛʃəs
+prefetiza*
 prelaya*
 prɛˈmɪr
 prɛˈmɪr
@@ -21235,7 +21671,7 @@ prɛˈmɪr
 prenda*
 ˈprɛnsə
 prenza*
-prɛz
+prɛz.
 presbitero*
 prescila*
 prescilla*
@@ -21296,8 +21732,10 @@ prise*
 pristina*
 ˈpraɪvət
 procesa*
+ˌproʊˈsɛsoʊ
 ˈprɑsɛsɪŋ
 prəˈsɛʃənəl
+proʊˈkoʊpioʊ
 prodon*
 pərˈdəkʃən
 ˌproʊdəkˈtɪvɪti
@@ -21324,11 +21762,14 @@ prɑsərˈpinə
 prosperidad*
 prosperine*
 prɑˈspɛrəti
+prospero*
 protacio*
 protea*
 prəˈtɛkʃən
 ˈproʊtəˌkɔl
+protolico*
 ˈproʊˌtɑn
+prov*.
 ˈproʊvəns
 provenir*
 ˈprɑvərb
@@ -21349,7 +21790,7 @@ prunz
 sɑm
 sɑmz
 saɪˈkɑləʤi
-pt*
+pt*.
 pu
 pualas*
 puan*
@@ -21456,6 +21897,7 @@ pureza*
 puripikasyon*
 purisima*
 purisma*
+purita*
 ˈpjʊrətən
 ˈpjʊrɪti
 puro*
@@ -21498,8 +21940,10 @@ pyrope*
 pyrus*
 pythagoras*
 kju
+kju.
 qc*
 ˌkəˈtɑr
+quadrangle*
 quaher*
 kweɪl
 kˈwɑləti
@@ -21560,7 +22004,6 @@ quiasan*
 quibaol*
 quibranza*
 quibuar*
-kˈwɪkˌsænd
 quidalos*
 quierez*
 quieta*
@@ -21619,6 +22062,7 @@ quirante*
 quirat*
 quiray*
 quiricada*
+quirico*
 quirinal*
 quirino*
 quirno*
@@ -21640,6 +22084,10 @@ quizon*
 quotiz*
 qurino*
 ɑr
+ɑr.
+r.c*.
+r.g*.
+r.t.r*.
 r1*
 r2*
 r3*
@@ -21681,9 +22129,11 @@ racat*
 ˈrækə
 reɪs
 racelis*
+ˈreɪsˌweɪ
 ˈreɪʧəl
 rəˈʃɛl
 rachilla*
+racho*
 ˈrɑdə
 radan*
 ˈreɪˌdɑr
@@ -21721,6 +22171,7 @@ ragudo*
 ragudos*
 raguindin*
 ragus*
+raha*
 rahmann*
 raiden*
 reɪl
@@ -21733,6 +22184,7 @@ reɪˈnɪr
 rainlilly*
 raintree*
 raja*
+rajah*
 rajan*
 rakim*
 ˈrɔli
@@ -21742,6 +22194,7 @@ rælf
 ræm
 ˈrɑmə
 rəˈmɑdə
+rəˈmɑdə)
 ramaida*
 ˈrɑmət
 ramax*
@@ -21766,11 +22219,13 @@ ramitex*
 rəˈmoʊn
 rəˈmoʊnə
 ramonal*
+ramoncita*
 ramones*
 ramoran*
 ˈrɑmoʊs
 ramoso*
 ramoy*
+ræmp
 ˈræmˌsiz
 ramy*
 ramylu*
@@ -21817,6 +22272,7 @@ rariza*
 ræs
 rasalan*
 rasay*
+rasing*
 rasonabe*
 raspado*
 raspador*
@@ -21979,7 +22435,9 @@ renacimiento*
 rəˈnɑtə
 rɛˈnɑtoʊ
 rɪˈnɔlt
+rencio*
 ˈrɛndoʊn
+rəˈneɪ
 renedis*
 rəˈneɪ
 renelisan*
@@ -22031,6 +22489,7 @@ restituto*
 ˈrɛstən
 resurreccion*
 ˌrɛzərˈɛkʃən
+resutito*
 ˈrɛtə
 ˈriˌteɪl
 rɪˈteɪnd
@@ -22038,6 +22497,7 @@ retales*
 rɛˈtænə
 retelco*
 reten*
+rɪˈtaɪrd
 riˈtaɪˈriz
 rɪˈtaɪərmənt
 retiro*
@@ -22052,6 +22512,7 @@ revatoris*
 revellin*
 revera*
 rɪˈvɪr
+ˈrɛvərənd
 reviera*
 revil*
 rɛˈvɪlə
@@ -22209,6 +22670,8 @@ roʊə
 roʊd
 roadilla*
 ˈroʊˌdrənər
+roʊdz
+ˈroʊdˌweɪ
 roasa*
 ˈrɑbi
 robeldela*
@@ -22231,6 +22694,7 @@ robinos*
 robredo*
 robton*
 ˌrɔˈbʊstə
+ˈrɑbɪn
 ˈroʊkə
 rocaf*
 rocbal*
@@ -22286,6 +22750,8 @@ roja*
 rojales*
 ˈroʊhɑs
 ˈroʊʤoʊ
+ˈroʊlənd
+roʊˈlɑndoʊ
 ˈroʊldən
 ˈroʊlɛks
 ˈroʊlər
@@ -22320,6 +22786,7 @@ romulo*
 ˈrɑmjələs
 romy*
 rɑn
+ˈrɑnəld
 ronaldo*
 ronamar*
 ˈrɑndə
@@ -22339,6 +22806,7 @@ roquero*
 roro*
 rorogagus*
 ˈroʊzə
+ˈroʊzəˌbɛl
 rosabella*
 rosacara*
 rəˈsɑdoʊ
@@ -22413,6 +22881,7 @@ roual*
 ˈrubəl
 rouen*
 raʊnd
+ˈraʊndəˌbaʊt
 roura*
 roussillon*
 rut
@@ -22444,6 +22913,7 @@ rubbermaster*
 ˈrubiə
 rubidium*
 rubillar*
+rubini*
 ˈrubɪnˌstin
 ˈrubioʊ
 rubium*
@@ -22465,6 +22935,7 @@ ruellos*
 ruelos*
 ruffia*
 ruffian*
+rufi*
 ruˈfinə
 rufino*
 ˈrufoʊ
@@ -22504,6 +22975,7 @@ russels*
 ˈrəʃə
 ruste*
 rustia*
+rustico*
 ruθ
 ˈrəθərfərd
 ˈrətlənd
@@ -22513,6 +22985,11 @@ raɪən
 raɪ
 ryegrass*
 ɛs
+ɛs.
+s.i.p*
+s.i.p*.
+s.n*.
+s.t.a*.
 sɑd
 sæs
 sbh*
@@ -22775,6 +23252,7 @@ salindatu*
 salinga*
 salinlahi*
 salinungan*
+salipada*
 salipsip*
 ˈsælzbəri
 salisi*
@@ -22828,6 +23306,7 @@ sɑv
 ˈsælviə
 salvosa*
 ˈsɔlzbərg
+sæm
 samaba*
 samagta*
 samahang*
@@ -23112,6 +23591,7 @@ satunina*
 ˈsæˌtɪˌdeɪ
 ˈsætərn
 saturnina*
+saturnino*
 saturno*
 sauco*
 ˈsɔdi
@@ -23227,11 +23707,15 @@ sebreno*
 sebta*
 sebu*
 ˈsɛkənd
+ˈsɛkənˌdɛri
 ˈsɛkər
 ˈsikrɪt
 ˌsɛkrɪˈtɛriət
+ˈsɛkrəˌtɛri
 sɛkt
+sɛkt)
 ˈsɛkʃən
+ˈsɛkʃən)
 sɪˈkjʊrətiz
 sɪˈkjʊrəti
 sedeno*
@@ -23241,6 +23725,7 @@ sedon*
 sedoria*
 ˈsɛdəm
 si
+sefarin*
 ˈsɛftən
 segapod*
 segismundo*
@@ -23305,6 +23790,7 @@ senilda*
 ˈsinjər
 ˈsɛnə
 seno*
+ˌsinˈjɔr
 ˌsinˈjɔrə
 senorin*
 senorita*
@@ -23388,6 +23874,7 @@ sevallos*
 severina*
 sɛvərˈinoʊ
 ˈsɛvərn
+severo*
 sevidal*
 sɛˈvɪlə
 səˈvɪl
@@ -23396,6 +23883,7 @@ soʊɪŋ
 sexon*
 ˈsɛksi
 ˈseɪʃɛlz
+señor*
 sˈfɔrzə
 ʃɑ
 ʃeɪd
@@ -23454,6 +23942,7 @@ sheringham*
 ˈʃərmən
 sherpa*
 ˈʃɛri
+sherryl*
 ˈʃərˌwʊd
 ˈʃɛrəl
 ˈʃaɪlə
@@ -23519,6 +24008,7 @@ sibesco*
 sibobo*
 sibol*
 sibonga*
+sibsib*
 sibuco*
 sibud*
 sibugay*
@@ -23540,6 +24030,7 @@ sicsican*
 sicubong*
 sida*
 saɪd
+saɪd)
 sideco*
 saɪdz
 ˈsaɪdən
@@ -23547,6 +24038,7 @@ siena*
 sienatel*
 siˈɛnə
 siˈɛrə
+siervas*
 siete*
 siffu*
 sigarillas*
@@ -23630,6 +24122,7 @@ silˈveɪstreɪ
 silvino*
 ˈsɪlvioʊ
 silway*
+sɪm
 siman*
 simandagit*
 simbahan*
@@ -23645,6 +24138,7 @@ simod*
 ˈsaɪmən
 sɪˈmoʊnə
 sɪˈmoʊn
+ˈsɪmənɛt
 simoun*
 simoy*
 simpak*
@@ -23731,6 +24225,7 @@ sinipsip*
 sinisian*
 sinmili*
 sinnabat*
+ˈsaɪnoʊ
 sinogbuhan*
 sinsano*
 sinsayon*
@@ -23870,6 +24365,7 @@ socorro*
 ˈsoʊdiəm
 sodusta*
 soʊˈfiə
+sofronio*
 sɔft
 ˈsɔfˌbɔl
 ˈsoʊgoʊ
@@ -23956,6 +24452,7 @@ soop*
 ˈsɑfəkliz
 sophora*
 sɔr
+sɔr.
 sora*
 sorabella*
 soraino*
@@ -23991,7 +24488,6 @@ saʊθ
 ˌsaʊθˈhæmptən
 southbend*
 southbord*
-ˈsaʊθˌbaʊnd
 southcom*
 ˌsaʊˈθist
 southend*
@@ -24017,6 +24513,7 @@ soverini*
 sowang*
 sɔɪ
 sɔɪəz
+sozimo*
 spadari*
 speɪn
 ˈspɔldɪŋ
@@ -24025,9 +24522,11 @@ spɑr
 ˈspɛroʊ
 ˈspɛroʊz
 ˈspɑrtɑ
+ˈspikər
 spearmint*
 ˈspɛʃəl
 ˈspɛktrəm
+ˈspidˌweɪ
 speedwell*
 ˈspɛnsər
 spezia*
@@ -24084,11 +24583,13 @@ skwaɪr
 skwərəl
 ˈsɪstər
 srasse*
-st*
+sreet*
+st*.
 ˈɛˈstiˈeɪ
 ˈstæfərd
 staghunt*
 stagno*
+ˈstɛrˌweɪ
 ˈstæljən
 stamen*
 stanai*
@@ -24220,6 +24721,7 @@ subbitern*
 subd*
 subdiviosion*
 ˈsəbdɪˌvɪʒən
+ˈsəbdɪˌvɪʒən)
 subdivison*
 subec*
 ˈsubɪk
@@ -24373,6 +24875,7 @@ supa*
 supang*
 supangan*
 ˈsupər
+ˌsupərˈhaɪˌweɪ
 superking*
 ˈsupərˌmæn
 ˈsupərˌmɑrkɪt
@@ -24426,6 +24929,7 @@ suyo*
 suyoz*
 suˈzæn
 suzarra*
+ˌsuˈzɛt
 səˈzuki
 sˈwɔloʊ
 swallowtail*
@@ -24470,9 +24974,9 @@ sysna*
 syson*
 ˈsɪstəm
 ti
+ti.
 tca*
 tci*
-tər
 tesda*
 tidh*
 tjd*
@@ -24480,7 +24984,6 @@ tlir*
 tllr*
 tmbp*
 tnhs*
-tnr*
 tplex*
 taal*
 taang*
@@ -25109,6 +25612,7 @@ tɛkˈnɑləʤi
 technopark*
 ˈtɛklə
 tecson*
+tɛd
 ˈtɛdi
 tedworth*
 ti
@@ -25148,6 +25652,7 @@ templanza*
 ˈtɛmpəl
 templo*
 templora*
+temporo*
 təˈnæsɪti
 tenan*
 tenaria*
@@ -25167,12 +25672,15 @@ tengco*
 tɛˈnɔrioʊ
 tensuan*
 tentado*
+teodolfo*
+teodolo*
 teodora*
 teodorian*
 teodorica*
 ˌtioʊˈdɔroʊ
 teodula*
 teofila*
+teofilo*
 teofisto*
 teope*
 teotimo*
@@ -25267,12 +25775,14 @@ thobakan*
 ˈθaʊzənd
 θrɪft
 thristle*
+θru
 θrəʃ
 ˈθəndərˌbərd
 thursdale*
 ˈθərzˌdeɪ
 ˈθərstən
 θaɪm
+ˈtiə
 tiabanan*
 tiago*
 tialo*
@@ -25442,6 +25952,7 @@ tining*
 tininghalang*
 tinio*
 tinkerbell*
+ˈtinoʊ
 tinoc*
 tinogdan*
 tinokol*
@@ -25548,6 +26059,8 @@ tolibao*
 toʊl
 tolosa*
 toluca*
+tɑm
+ˈtoʊmə
 tomacruz*
 tomado*
 tomagodtod*
@@ -25657,6 +26170,7 @@ tortosa*
 tortuosa*
 ˈtɔskə
 toscana*
+ˈtoʊti
 ˈtoʊtɪŋ
 toucan*
 toucanes*
@@ -25675,6 +26189,7 @@ townhomes*
 ˈtaʊnˌhaʊs
 townline*
 ˈtaʊnʃɪp
+tɔɪ
 toyoma*
 toʊˈjoʊtə
 toyoto*
@@ -25691,12 +26206,14 @@ treɪd
 ˈtreɪdərz
 trəˈfælgər
 treɪl
+trailway*
 treɪn
 ˈtreɪnɪŋ
 trajo*
 trakehner*
 tramo*
 træns
+tranquilino*
 tranquilio*
 træŋkˈwɪlɪti
 transcentral*
@@ -25759,6 +26276,7 @@ trini*
 ˈtrɪnɪˌdæd
 trining*
 ˈtrɪnɪti
+trino*
 trinoma*
 ˈtrɪpəl
 ˈtrɪpəli
@@ -25780,7 +26298,6 @@ tropez*
 trɔɪ
 trozo*
 trək
-tru
 truimfo*
 truˈhioʊ
 ˈtrumən
@@ -25926,6 +26443,7 @@ tungonan*
 ˈtəŋstən
 ˌtuˈnis
 ˌtuˈniʒə
+ˈtənəl
 tunque*
 tuntong*
 tuntungin*
@@ -25942,12 +26460,15 @@ turayong*
 turentigue*
 turibio*
 ˈtʊrɪn
+ˈtʊrɪŋ
 turingan*
 ˈtərki
+ˈtərkoʊ
 turla*
 turlock*
 turmaline*
 turmeric*
+tərn
 turnberry*
 ˈtərnər
 ˈtərnəp
@@ -25996,6 +26517,11 @@ taɪər
 ˌtaɪˈroʊn
 tytana*
 ju
+ju.
+u.m*.
+u.n*.
+juz
+juz.
 ubds*
 ue*
 uls*
@@ -26066,6 +26592,7 @@ ulhay*
 ulian*
 ulilang*
 uling*
+uling*)
 ulingan*
 ulingao*
 ulita*
@@ -26103,6 +26630,7 @@ unang*
 unbekannt*
 ˈəndər
 ˈəndərˌgraʊnd
+ˈəndərˌpæs
 ungab*
 ungbert*
 ungka*
@@ -26186,6 +26714,7 @@ usugan*
 ˈjuˌtɔ
 utalia*
 utel*
+uthman*
 juˈtɪləti
 utot*
 ˈjuˈviˈeɪ
@@ -26200,6 +26729,7 @@ uytengsu*
 uyugan*
 vi
 vi&
+vi.
 v8*
 væt
 vi
@@ -26216,6 +26746,7 @@ vadeo*
 vadevia*
 vadus*
 vaga*
+vai*
 væl
 valarao*
 valbuena*
@@ -26322,6 +26853,7 @@ vedra*
 ˈveɪgəs
 ˈvɛʤtəbəl
 ˈviɪkəl
+ˈviɪkəl)
 ˈvɛlə
 velano*
 velante*
@@ -26453,6 +26985,7 @@ vibar*
 vibora*
 vɪk
 vical*
+vaɪs
 vicelo*
 vicenca*
 vɪˈsɛnsioʊ
@@ -26463,6 +26996,8 @@ vicentillo*
 vicenza*
 vicenzo*
 ˈvaɪsrɔɪ
+vicinal*
+vɪk
 ˈvɪkər
 ˈvɪkərz
 ˈvɪki
@@ -26600,6 +27135,7 @@ vinas*
 ˈvɪŋkə
 vɪns
 ˈvɪnsɪnt
+vɪnˈʧɛnti
 vincents*
 vɪnˈsɛnzoʊ
 vinchy*
@@ -26677,6 +27213,7 @@ vitori*
 vitoria*
 vɪˈtɔriə
 viˈtɔrioʊ
+viuda*
 viudez*
 ˈvivə
 vɪˈvɑldi
@@ -26708,7 +27245,7 @@ voyageurs*
 ˈvəlʧər
 vytiaco*
 ˈdəbəlju
-wb*
+ˈdəbəlju.
 wfc*
 wlac*
 wwp*
@@ -26741,6 +27278,7 @@ waling*
 wɔk
 walkathon*
 ˈwɔkər
+ˈwɔkˌweɪ
 wɔl
 ˈwɔlɪs
 ˈwɔlˌflaʊər
@@ -26819,6 +27357,7 @@ wellsburg*
 ˈwɛlˌsprɪŋ
 wellville*
 wɛlʧ
+wenceslao*
 wencislao*
 wency*
 wensdale*
@@ -26874,6 +27413,7 @@ whortleberry*
 widdoes*
 waɪd
 widyama*
+wigberto*
 wigeon*
 wika*
 waɪld
@@ -26950,7 +27490,6 @@ woodhorse*
 ˈwʊdˌpɛkər
 woodridge*
 woodrose*
-woodrosel*
 wʊdz
 ˈwʊdˌsaɪd
 ˈwʊdˌstɑk
@@ -26992,7 +27531,7 @@ xevera*
 xians*
 xylomelum*
 xyris*
-waɪ
+waɪ.
 ysl*
 ysp*
 yabawon*
@@ -27066,6 +27605,7 @@ jɪr
 jɪrz
 yebana*
 yek*
+yelen*
 ˈjɛloʊ
 yellowbell*
 ˈjɛloʊˌstoʊn
@@ -27113,11 +27653,13 @@ youngland*
 ˈjusɛf
 juθ
 ˈjuˌtub
+ˈjoʊjoʊ
 yraola*
 yrene*
 yrizary*
 ysabel*
 ysidoro*
+ysidra*
 ysip*
 ysmael*
 ˈɪtriəm
@@ -27147,6 +27689,7 @@ yuseco*
 yuta*
 ˌɪˈvɛt
 zi
+zi.
 znac*
 zɑˈbɑlə
 zaballero*
@@ -27166,6 +27709,7 @@ zagoro*
 ˈzɑˌgrɛb
 zeɪər
 zahra*
+zeɪd
 zaide*
 zaɪɪr
 zalamea*
@@ -27258,8 +27802,10 @@ zirkon*
 zitanga*
 zˈlɔti
 ˈzoʊbəl
+zobert*
 ˈzoʊdiˌæk
 zoʊi
+zoilo*
 ˈzoʊlə
 zoleta*
 zond*
@@ -27269,6 +27815,8 @@ zorilla*
 zornosa*
 zorra*
 zorsano*
+zosimo*
+zosing*
 ʒɑ
 zubel*
 zubiri*
@@ -27304,11 +27852,13 @@ atihan*
 awon*
 eɪ
 ayan*
+bayanan*
 bʊk
 baɪ
 kæb
 caracucha*
 ˈkoʊlə
+dagatan*
 dell'amore*
 ɛnd
 gawa*
@@ -27327,12 +27877,12 @@ laan*
 laka*
 langeban*
 lɪŋ
+llfonso*
 meɪl
 mi
 mɛr
 mga*
 nɑ
-neɪm
 ˈneɪbərˌhʊd
 ni
 nɑt
@@ -27350,7 +27900,6 @@ owan*
 petekan*
 rugay*
 sɑ
-sæm
 sangaan*
 saraan*
 silim*
@@ -27366,3 +27915,4 @@ unom*
 unzo*
 upat*
 wili*
+waɪ

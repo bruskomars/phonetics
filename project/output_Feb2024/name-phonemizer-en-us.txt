@@ -1,4 +1,488 @@
 phonemizer
+juːniːk wɜːdz 
+wʌn 
+tuː 
+θɹiː 
+foːɹ 
+faɪv 
+sɪks 
+sɛvən 
+eɪt 
+naɪn 
+tɛn 
+ɪlɛvən 
+twɛlv 
+θɜːtiːn 
+foːɹtiːn 
+fɪftiːn 
+sɪkstiːn 
+sɛvəntiːn 
+eɪtiːn 
+naɪntiːn 
+twɛnti 
+twɛnti wʌn 
+twɛnti tuː 
+twɛnti θɹiː 
+twɛnti foːɹ 
+twɛnti faɪv 
+twɛnti sɪks 
+twɛnti sɛvən 
+twɛnti eɪt 
+twɛnti naɪn 
+θɜːɾi 
+θɜːɾi wʌn 
+θɜːɾi tuː 
+θɜːɾi θɹiː 
+θɜːɾi foːɹ 
+θɜːɾi faɪv 
+θɜːɾi sɪks 
+θɜːɾi sɛvən 
+θɜːɾi eɪt 
+θɜːɾi naɪn 
+foːɹɾi 
+foːɹɾi wʌn 
+foːɹɾi tuː 
+foːɹɾi θɹiː 
+foːɹɾi foːɹ 
+foːɹɾi faɪv 
+foːɹɾi sɪks 
+foːɹɾi sɛvən 
+foːɹɾi eɪt 
+foːɹɾi naɪn 
+fɪfti 
+fɪfti wʌn 
+fɪfti tuː 
+fɪfti θɹiː 
+fɪfti foːɹ 
+fɪfti faɪv 
+fɪfti sɪks 
+fɪfti sɛvən 
+fɪfti eɪt 
+fɪfti naɪn 
+sɪksti 
+sɪksti wʌn 
+sɪksti tuː 
+sɪksti θɹiː 
+sɪksti foːɹ 
+sɪksti faɪv 
+sɪksti sɪks 
+sɪksti sɛvən 
+sɪksti eɪt 
+sɪksti naɪn 
+sɛvənti 
+sɛvənti wʌn 
+sɛvənti tuː 
+sɛvənti θɹiː 
+sɛvənti foːɹ 
+sɛvənti faɪv 
+sɛvənti sɪks 
+sɛvənti sɛvən 
+sɛvənti eɪt 
+sɛvənti naɪn 
+eɪɾi 
+eɪɾi wʌn 
+eɪɾi tuː 
+eɪɾi θɹiː 
+eɪɾi foːɹ 
+eɪɾi faɪv 
+eɪɾi sɪks 
+eɪɾi sɛvən 
+eɪɾi eɪt 
+eɪɾi naɪn 
+naɪnti 
+naɪnti wʌn 
+naɪnti tuː 
+naɪnti θɹiː 
+naɪnti foːɹ 
+naɪnti faɪv 
+naɪnti sɪks 
+naɪnti sɛvən 
+naɪnti eɪt 
+naɪnti naɪn 
+wʌnhʌndɹɪd 
+wʌnhʌndɹɪd wʌn 
+wʌnhʌndɹɪd tuː 
+wʌnhʌndɹɪd θɹiː 
+wʌnhʌndɹɪd foːɹ 
+wʌnhʌndɹɪd faɪv 
+wʌnhʌndɹɪd sɪks 
+wʌnhʌndɹɪd sɛvən 
+wʌnhʌndɹɪd eɪt 
+wʌnhʌndɹɪd naɪn 
+wʌnhʌndɹɪd tɛn 
+wʌnhʌndɹɪd ɪlɛvən 
+wʌnhʌndɹɪd twɛlv 
+wʌnhʌndɹɪd θɜːtiːn 
+wʌnhʌndɹɪd foːɹtiːn 
+wʌnhʌndɹɪd fɪftiːn 
+wʌnhʌndɹɪd sɪkstiːn 
+wʌnhʌndɹɪd sɛvəntiːn 
+wʌnhʌndɹɪd eɪtiːn 
+wʌnhʌndɹɪd naɪntiːn 
+wʌnhʌndɹɪd twɛnti 
+wʌnhʌndɹɪd twɛnti wʌn 
+wʌnhʌndɹɪd twɛnti tuː 
+wʌnhʌndɹɪd twɛnti θɹiː 
+wʌnhʌndɹɪd twɛnti foːɹ 
+wʌnhʌndɹɪd twɛnti faɪv 
+wʌnhʌndɹɪd twɛnti sɪks 
+wʌnhʌndɹɪd twɛnti sɛvən 
+wʌnhʌndɹɪd twɛnti eɪt 
+wʌnhʌndɹɪd twɛnti naɪn 
+wʌnhʌndɹɪd θɜːɾi 
+wʌnhʌndɹɪd θɜːɾi wʌn 
+wʌnhʌndɹɪd θɜːɾi tuː 
+wʌnhʌndɹɪd θɜːɾi θɹiː 
+wʌnhʌndɹɪd θɜːɾi foːɹ 
+wʌnhʌndɹɪd θɜːɾi faɪv 
+wʌnhʌndɹɪd θɜːɾi sɪks 
+wʌnhʌndɹɪd θɜːɾi sɛvən 
+wʌnhʌndɹɪd θɜːɾi eɪt 
+wʌnhʌndɹɪd θɜːɾi naɪn 
+wʌnhʌndɹɪd foːɹɾi 
+wʌnhʌndɹɪd foːɹɾi wʌn 
+wʌnhʌndɹɪd foːɹɾi tuː 
+wʌnhʌndɹɪd foːɹɾi θɹiː 
+wʌnhʌndɹɪd foːɹɾi foːɹ 
+wʌnhʌndɹɪd foːɹɾi faɪv 
+wʌnhʌndɹɪd foːɹɾi sɪks 
+wʌnhʌndɹɪd foːɹɾi sɛvən 
+wʌnhʌndɹɪd foːɹɾi eɪt 
+wʌnhʌndɹɪd foːɹɾi naɪn 
+wʌnhʌndɹɪd fɪfti 
+wʌnhʌndɹɪd fɪfti wʌn 
+wʌnhʌndɹɪd fɪfti tuː 
+wʌnhʌndɹɪd fɪfti θɹiː 
+wʌnhʌndɹɪd fɪfti foːɹ 
+wʌnhʌndɹɪd fɪfti faɪv 
+wʌnhʌndɹɪd fɪfti sɪks 
+wʌnhʌndɹɪd fɪfti sɛvən 
+wʌnhʌndɹɪd fɪfti eɪt 
+wʌnhʌndɹɪd fɪfti naɪn 
+wʌnhʌndɹɪd sɪksti 
+wʌnhʌndɹɪd sɪksti wʌn 
+wʌnhʌndɹɪd sɪksti tuː 
+wʌnhʌndɹɪd sɪksti θɹiː 
+wʌnhʌndɹɪd sɪksti foːɹ 
+wʌnhʌndɹɪd sɪksti faɪv 
+wʌnhʌndɹɪd sɪksti sɪks 
+wʌnhʌndɹɪd sɪksti sɛvən 
+wʌnhʌndɹɪd sɪksti eɪt 
+wʌnhʌndɹɪd sɪksti naɪn 
+wʌnhʌndɹɪd sɛvənti 
+wʌnhʌndɹɪd sɛvənti wʌn 
+wʌnhʌndɹɪd sɛvənti tuː 
+wʌnhʌndɹɪd sɛvənti θɹiː 
+wʌnhʌndɹɪd sɛvənti foːɹ 
+wʌnhʌndɹɪd sɛvənti faɪv 
+wʌnhʌndɹɪd sɛvənti sɪks 
+wʌnhʌndɹɪd sɛvənti sɛvən 
+wʌnhʌndɹɪd sɛvənti eɪt 
+wʌnhʌndɹɪd sɛvənti naɪn 
+wʌnhʌndɹɪd eɪɾi 
+wʌnhʌndɹɪd eɪɾi wʌn 
+wʌnhʌndɹɪd eɪɾi tuː 
+wʌnhʌndɹɪd eɪɾi θɹiː 
+wʌnhʌndɹɪd eɪɾi foːɹ 
+wʌnhʌndɹɪd eɪɾi faɪv 
+wʌnhʌndɹɪd eɪɾi sɪks 
+wʌnhʌndɹɪd eɪɾi sɛvən 
+wʌnhʌndɹɪd eɪɾi eɪt 
+wʌnhʌndɹɪd eɪɾi naɪn 
+wʌnhʌndɹɪd naɪnti 
+wʌnhʌndɹɪd naɪnti wʌn 
+wʌnhʌndɹɪd naɪnti tuː 
+wʌnhʌndɹɪd naɪnti θɹiː 
+wʌnhʌndɹɪd naɪnti foːɹ 
+wʌnhʌndɹɪd naɪnti faɪv 
+wʌnhʌndɹɪd naɪnti sɪks 
+wʌnhʌndɹɪd naɪnti sɛvən 
+wʌnhʌndɹɪd naɪnti eɪt 
+wʌnhʌndɹɪd naɪnti naɪn 
+tuːhʌndɹɪd 
+tuːhʌndɹɪd wʌn 
+tuːhʌndɹɪd tuː 
+tuːhʌndɹɪd θɹiː 
+tuːhʌndɹɪd foːɹ 
+tuːhʌndɹɪd faɪv 
+tuːhʌndɹɪd sɪks 
+tuːhʌndɹɪd sɛvən 
+tuːhʌndɹɪd eɪt 
+tuːhʌndɹɪd naɪn 
+tuːhʌndɹɪd tɛn 
+tuːhʌndɹɪd ɪlɛvən 
+tuːhʌndɹɪd twɛlv 
+tuːhʌndɹɪd θɜːtiːn 
+tuːhʌndɹɪd foːɹtiːn 
+tuːhʌndɹɪd fɪftiːn 
+tuːhʌndɹɪd sɪkstiːn 
+tuːhʌndɹɪd sɛvəntiːn 
+tuːhʌndɹɪd eɪtiːn 
+tuːhʌndɹɪd naɪntiːn 
+tuːhʌndɹɪd twɛnti 
+tuːhʌndɹɪd twɛnti wʌn 
+tuːhʌndɹɪd twɛnti tuː 
+tuːhʌndɹɪd twɛnti θɹiː 
+tuːhʌndɹɪd twɛnti foːɹ 
+tuːhʌndɹɪd twɛnti faɪv 
+tuːhʌndɹɪd twɛnti sɪks 
+tuːhʌndɹɪd twɛnti sɛvən 
+tuːhʌndɹɪd twɛnti eɪt 
+tuːhʌndɹɪd twɛnti naɪn 
+tuːhʌndɹɪd θɜːɾi 
+tuːhʌndɹɪd θɜːɾi wʌn 
+tuːhʌndɹɪd θɜːɾi tuː 
+tuːhʌndɹɪd θɜːɾi θɹiː 
+tuːhʌndɹɪd θɜːɾi foːɹ 
+tuːhʌndɹɪd θɜːɾi faɪv 
+tuːhʌndɹɪd θɜːɾi sɪks 
+tuːhʌndɹɪd θɜːɾi sɛvən 
+tuːhʌndɹɪd θɜːɾi eɪt 
+tuːhʌndɹɪd θɜːɾi naɪn 
+tuːhʌndɹɪd foːɹɾi 
+tuːhʌndɹɪd foːɹɾi wʌn 
+tuːhʌndɹɪd foːɹɾi tuː 
+tuːhʌndɹɪd foːɹɾi θɹiː 
+tuːhʌndɹɪd foːɹɾi foːɹ 
+tuːhʌndɹɪd foːɹɾi faɪv 
+tuːhʌndɹɪd foːɹɾi sɪks 
+tuːhʌndɹɪd foːɹɾi sɛvən 
+tuːhʌndɹɪd foːɹɾi eɪt 
+tuːhʌndɹɪd foːɹɾi naɪn 
+tuːhʌndɹɪd fɪfti 
+tuːhʌndɹɪd fɪfti wʌn 
+tuːhʌndɹɪd fɪfti tuː 
+tuːhʌndɹɪd fɪfti θɹiː 
+tuːhʌndɹɪd fɪfti foːɹ 
+tuːhʌndɹɪd fɪfti faɪv 
+tuːhʌndɹɪd fɪfti sɪks 
+tuːhʌndɹɪd fɪfti sɛvən 
+tuːhʌndɹɪd fɪfti eɪt 
+tuːhʌndɹɪd fɪfti naɪn 
+tuːhʌndɹɪd sɪksti 
+tuːhʌndɹɪd sɪksti wʌn 
+tuːhʌndɹɪd sɪksti tuː 
+tuːhʌndɹɪd sɪksti θɹiː 
+tuːhʌndɹɪd sɪksti foːɹ 
+tuːhʌndɹɪd sɪksti faɪv 
+tuːhʌndɹɪd sɪksti sɪks 
+tuːhʌndɹɪd sɪksti sɛvən 
+tuːhʌndɹɪd sɪksti eɪt 
+tuːhʌndɹɪd sɪksti naɪn 
+tuːhʌndɹɪd sɛvənti 
+tuːhʌndɹɪd sɛvənti wʌn 
+tuːhʌndɹɪd sɛvənti tuː 
+tuːhʌndɹɪd sɛvənti θɹiː 
+tuːhʌndɹɪd sɛvənti foːɹ 
+tuːhʌndɹɪd sɛvənti faɪv 
+tuːhʌndɹɪd sɛvənti sɪks 
+tuːhʌndɹɪd eɪɾi wʌn 
+tuːhʌndɹɪd eɪɾi θɹiː 
+tuːhʌndɹɪd eɪɾi eɪt 
+tuːhʌndɹɪd naɪnti θɹiː 
+tuːhʌndɹɪd naɪnti foːɹ 
+tuːhʌndɹɪd naɪnti faɪv 
+θɹiːhʌndɹɪd 
+θɹiːhʌndɹɪd wʌn 
+θɹiːhʌndɹɪd tuː 
+θɹiːhʌndɹɪd θɹiː 
+θɹiːhʌndɹɪd foːɹ 
+θɹiːhʌndɹɪd faɪv 
+θɹiːhʌndɹɪd sɪks 
+θɹiːhʌndɹɪd sɛvən 
+θɹiːhʌndɹɪd eɪt 
+θɹiːhʌndɹɪd naɪn 
+θɹiːhʌndɹɪd tɛn 
+θɹiːhʌndɹɪd ɪlɛvən 
+θɹiːhʌndɹɪd twɛlv 
+θɹiːhʌndɹɪd θɜːtiːn 
+θɹiːhʌndɹɪd foːɹtiːn 
+θɹiːhʌndɹɪd fɪftiːn 
+θɹiːhʌndɹɪd sɪkstiːn 
+θɹiːhʌndɹɪd sɛvəntiːn 
+θɹiːhʌndɹɪd eɪtiːn 
+θɹiːhʌndɹɪd naɪntiːn 
+θɹiːhʌndɹɪd twɛnti 
+θɹiːhʌndɹɪd twɛnti wʌn 
+θɹiːhʌndɹɪd twɛnti tuː 
+θɹiːhʌndɹɪd twɛnti θɹiː 
+θɹiːhʌndɹɪd twɛnti foːɹ 
+θɹiːhʌndɹɪd twɛnti faɪv 
+θɹiːhʌndɹɪd twɛnti sɪks 
+θɹiːhʌndɹɪd twɛnti sɛvən 
+θɹiːhʌndɹɪd θɜːɾi 
+θɹiːhʌndɹɪd θɜːɾi wʌn 
+θɹiːhʌndɹɪd θɜːɾi tuː 
+θɹiːhʌndɹɪd θɜːɾi θɹiː 
+θɹiːhʌndɹɪd θɜːɾi foːɹ 
+θɹiːhʌndɹɪd sɪksti 
+foːɹhʌndɹɪd 
+foːɹhʌndɹɪd wʌn 
+foːɹhʌndɹɪd tuː 
+foːɹhʌndɹɪd θɹiː 
+foːɹhʌndɹɪd foːɹ 
+foːɹhʌndɹɪd faɪv 
+foːɹhʌndɹɪd sɪks 
+foːɹhʌndɹɪd sɛvən 
+foːɹhʌndɹɪd eɪt 
+foːɹhʌndɹɪd naɪn 
+foːɹhʌndɹɪd tɛn 
+foːɹhʌndɹɪd ɪlɛvən 
+foːɹhʌndɹɪd twɛlv 
+foːɹhʌndɹɪd θɜːtiːn 
+foːɹhʌndɹɪd foːɹtiːn 
+foːɹhʌndɹɪd fɪftiːn 
+foːɹhʌndɹɪd sɪkstiːn 
+foːɹhʌndɹɪd sɛvəntiːn 
+foːɹhʌndɹɪd eɪtiːn 
+foːɹhʌndɹɪd naɪntiːn 
+foːɹhʌndɹɪd twɛnti 
+foːɹhʌndɹɪd twɛnti wʌn 
+foːɹhʌndɹɪd twɛnti tuː 
+foːɹhʌndɹɪd twɛnti θɹiː 
+foːɹhʌndɹɪd twɛnti foːɹ 
+foːɹhʌndɹɪd θɜːɾi foːɹ 
+foːɹhʌndɹɪd θɜːɾi faɪv 
+foːɹhʌndɹɪd θɜːɾi sɪks 
+foːɹhʌndɹɪd θɜːɾi sɛvən 
+foːɹhʌndɹɪd θɜːɾi eɪt 
+foːɹhʌndɹɪd θɜːɾi naɪn 
+foːɹhʌndɹɪd foːɹɾi sɛvən 
+foːɹhʌndɹɪd foːɹɾi naɪn 
+foːɹhʌndɹɪd fɪfti 
+foːɹhʌndɹɪd fɪfti tuː 
+foːɹhʌndɹɪd fɪfti foːɹ 
+foːɹhʌndɹɪd fɪfti faɪv 
+foːɹhʌndɹɪd fɪfti sɪks 
+foːɹhʌndɹɪd fɪfti naɪn 
+faɪvhʌndɹɪd twɛnti tuː 
+faɪvhʌndɹɪd twɛnti sɪks 
+faɪvhʌndɹɪd twɛnti sɛvən 
+faɪvhʌndɹɪd θɜːɾi foːɹ 
+faɪvhʌndɹɪd θɜːɾi faɪv 
+faɪvhʌndɹɪd fɪfti wʌn 
+faɪvhʌndɹɪd fɪfti θɹiː 
+faɪvhʌndɹɪd fɪfti foːɹ 
+faɪvhʌndɹɪd fɪfti faɪv 
+faɪvhʌndɹɪd fɪfti naɪn 
+faɪvhʌndɹɪd sɪksti wʌn 
+faɪvhʌndɹɪd sɪksti tuː 
+faɪvhʌndɹɪd sɪksti θɹiː 
+sɪkshʌndɹɪd 
+sɪkshʌndɹɪd wʌn 
+sɪkshʌndɹɪd tuː 
+sɪkshʌndɹɪd θɹiː 
+sɪkshʌndɹɪd foːɹ 
+sɪkshʌndɹɪd faɪv 
+sɪkshʌndɹɪd sɪks 
+sɪkshʌndɹɪd sɛvən 
+sɪkshʌndɹɪd naɪn 
+sɪkshʌndɹɪd tɛn 
+sɪkshʌndɹɪd ɪlɛvən 
+sɪkshʌndɹɪd twɛlv 
+sɪkshʌndɹɪd θɜːtiːn 
+sɪkshʌndɹɪd foːɹtiːn 
+sɪkshʌndɹɪd fɪftiːn 
+sɪkshʌndɹɪd sɪkstiːn 
+sɪkshʌndɹɪd sɛvəntiːn 
+sɪkshʌndɹɪd eɪtiːn 
+sɪkshʌndɹɪd naɪntiːn 
+sɪkshʌndɹɪd twɛnti 
+sɪkshʌndɹɪd twɛnti wʌn 
+sɪkshʌndɹɪd twɛnti tuː 
+sɪkshʌndɹɪd twɛnti θɹiː 
+sɪkshʌndɹɪd twɛnti foːɹ 
+sɪkshʌndɹɪd twɛnti faɪv 
+sɪkshʌndɹɪd twɛnti sɪks 
+sɪkshʌndɹɪd twɛnti sɛvən 
+sɪkshʌndɹɪd twɛnti eɪt 
+sɪkshʌndɹɪd twɛnti naɪn 
+sɪkshʌndɹɪd θɜːɾi 
+sɪkshʌndɹɪd θɜːɾi wʌn 
+sɪkshʌndɹɪd θɜːɾi foːɹ 
+sɪkshʌndɹɪd θɜːɾi faɪv 
+sɪkshʌndɹɪd θɜːɾi sɪks 
+sɪkshʌndɹɪd θɜːɾi sɛvən 
+sɪkshʌndɹɪd θɜːɾi eɪt 
+sɪkshʌndɹɪd θɜːɾi naɪn 
+sɪkshʌndɹɪd foːɹɾi 
+sɪkshʌndɹɪd foːɹɾi wʌn 
+sɪkshʌndɹɪd foːɹɾi tuː 
+sɪkshʌndɹɪd foːɹɾi θɹiː 
+sɪkshʌndɹɪd foːɹɾi foːɹ 
+sɪkshʌndɹɪd foːɹɾi sɪks 
+sɪkshʌndɹɪd foːɹɾi sɛvən 
+sɪkshʌndɹɪd foːɹɾi eɪt 
+sɪkshʌndɹɪd fɪfti wʌn 
+sɪkshʌndɹɪd fɪfti foːɹ 
+sɪkshʌndɹɪd fɪfti faɪv 
+sɪkshʌndɹɪd fɪfti sɪks 
+sɪkshʌndɹɪd fɪfti sɛvən 
+sɪkshʌndɹɪd sɪksti 
+sɪkshʌndɹɪd sɪksti wʌn 
+sɪkshʌndɹɪd sɪksti tuː 
+sɪkshʌndɹɪd sɪksti θɹiː 
+sɪkshʌndɹɪd sɪksti foːɹ 
+sɛvənhʌndɹɪd tuː 
+sɛvənhʌndɹɪd eɪt 
+sɛvənhʌndɹɪd naɪntiːn 
+sɛvənhʌndɹɪd twɛnti 
+sɛvənhʌndɹɪd twɛnti wʌn 
+sɛvənhʌndɹɪd twɛnti foːɹ 
+sɛvənhʌndɹɪd twɛnti faɪv 
+sɛvənhʌndɹɪd twɛnti sɪks 
+sɛvənhʌndɹɪd twɛnti sɛvən 
+sɛvənhʌndɹɪd twɛnti eɪt 
+sɛvənhʌndɹɪd sɛvənti foːɹ 
+eɪthʌndɹɪd θɹiː 
+eɪthʌndɹɪd foːɹ 
+eɪthʌndɹɪd faɪv 
+eɪthʌndɹɪd naɪn 
+eɪthʌndɹɪd twɛlv 
+eɪthʌndɹɪd fɪfti wʌn 
+eɪthʌndɹɪd fɪfti tuː 
+eɪthʌndɹɪd fɪfti θɹiː 
+eɪthʌndɹɪd fɪfti foːɹ 
+eɪthʌndɹɪd fɪfti faɪv 
+eɪthʌndɹɪd fɪfti sɛvən 
+naɪnhʌndɹɪd wʌn 
+naɪnhʌndɹɪd tuː 
+naɪnhʌndɹɪd θɹiː 
+naɪnhʌndɹɪd foːɹ 
+naɪnhʌndɹɪd sɪks 
+naɪnhʌndɹɪd tɛn 
+naɪnhʌndɹɪd ɪlɛvən 
+naɪnhʌndɹɪd θɜːtiːn 
+naɪnhʌndɹɪd foːɹtiːn 
+naɪnhʌndɹɪd fɪftiːn 
+naɪnhʌndɹɪd sɪkstiːn 
+naɪnhʌndɹɪd sɛvəntiːn 
+naɪnhʌndɹɪd twɛnti 
+naɪnhʌndɹɪd twɛnti wʌn 
+naɪnhʌndɹɪd twɛnti tuː 
+naɪnhʌndɹɪd twɛnti θɹiː 
+naɪnhʌndɹɪd θɜːɾi wʌn 
+naɪnhʌndɹɪd θɜːɾi θɹiː 
+naɪnhʌndɹɪd θɜːɾi foːɹ 
+naɪnhʌndɹɪd θɜːɾi faɪv 
+naɪnhʌndɹɪd θɜːɾi sɪks 
+naɪnhʌndɹɪd θɜːɾi sɛvən 
+naɪnhʌndɹɪd θɜːɾi eɪt 
+naɪnhʌndɹɪd θɜːɾi naɪn 
+naɪnhʌndɹɪd foːɹɾi 
+naɪnhʌndɹɪd foːɹɾi tuː 
+wʌn θaʊzənd sɛvənti sɛvən 
+wʌn θaʊzənd wʌnhʌndɹɪd θɜːɾi θɹiː 
+wʌn θaʊzənd sɪkshʌndɹɪd sɪksti θɹiː 
+wʌn θaʊzənd sɪkshʌndɹɪd sɛvənti θɹiː 
+wʌn θaʊzənd sɛvənhʌndɹɪd wʌn 
+wʌn θaʊzənd eɪthʌndɹɪd naɪnti sɪks 
+wʌn θaʊzənd eɪthʌndɹɪd naɪnti eɪt 
+naɪntiːnhʌndɹɪd 
+naɪntiːnhʌndɹɪd twɛlv 
+naɪntiːnhʌndɹɪd sɛvənti sɪks 
+tuː θaʊzənd 
+tuː θaʊzənd faɪvhʌndɹɪd sɪkstiːn 
 ænd 
 ""
 bæɡɐkeɪ 
@@ -10,19 +494,19 @@ dɑːŋ
 deɪlmdəm 
 dævaʊ 
 duːəl 
-ɛb 
 iːst 
+ɛb 
 ɡoʊə 
 aɪlɔɪloʊ 
 dʒʌŋkʃən 
 kæbɐŋkælæn 
 keɪɛm 
-ɛlziː 
 læ 
 luːpaʊ 
-ɛmɛn 
+ɛlziː 
 mælɐlæɡ 
 mɛksɪkoʊ 
+ɛmɛn 
 muːnjoʊz 
 nɑːɡə 
 nɔːɹθbaʊnd 
@@ -39,30 +523,17 @@ sɪndɐlæn
 saʊθ 
 saʊθbaʊnd 
 sɜːɹɪɡaʊ 
-tɜː 
-tiːɛnɑːɹ 
 tænzə 
+tɜː 
 tɪnɐmbæk 
+tiːɛnɑːɹ 
 tɹɪnɪdæd 
 taɪɪŋ 
 dʌbəljuːbiː 
 wɛst 
-wʌn 
 tɛn 
-tɛn 
-wʌnhʌndɹɪd 
-wʌnhʌndɹɪd wʌn 
-wʌnhʌndɹɪd tuː 
-wʌnhʌndɹɪd θɹiː 
-wʌnhʌndɹɪd foːɹ 
-wʌnhʌndɹɪd faɪv 
-wʌnhʌndɹɪd sɪks 
-wʌnhʌndɹɪd sɛvən 
-wʌn θaʊzənd sɛvənti sɛvən 
 wʌnhʌndɹɪd sɛvən eɪ 
-wʌnhʌndɹɪd eɪt 
 wʌnhʌndɹɪd eɪt eɪ 
-wʌnhʌndɹɪd naɪn 
 tɛn eɪ 
 tɛn biː 
 tɛn siː 
@@ -70,35 +541,12 @@ tɛn diː
 tɛn ɛf 
 tɛn dʒiː 
 tɛnθ 
-ɪlɛvən 
-wʌnhʌndɹɪd tɛn 
-wʌnhʌndɹɪd ɪlɛvən 
-wʌnhʌndɹɪd twɛlv 
-wʌnhʌndɹɪd θɜːtiːn 
-wʌn θaʊzənd wʌnhʌndɹɪd θɜːɾi θɹiː 
-wʌnhʌndɹɪd foːɹtiːn 
-wʌnhʌndɹɪd fɪftiːn 
-wʌnhʌndɹɪd sɪkstiːn 
-wʌnhʌndɹɪd sɛvəntiːn 
-wʌnhʌndɹɪd eɪtiːn 
-wʌnhʌndɹɪd naɪntiːn 
 ɪlɛvən eɪ 
 ɪlɛvən biː 
 ɪlɛvən ɛf 
 ɪlɛvənst 
 ɪlɛvənθ 
-twɛlv 
-wʌnhʌndɹɪd twɛnti 
-wʌnhʌndɹɪd twɛnti wʌn 
-wʌnhʌndɹɪd twɛnti tuː 
-wʌnhʌndɹɪd twɛnti θɹiː 
-wʌnhʌndɹɪd twɛnti foːɹ 
-wʌnhʌndɹɪd twɛnti faɪv 
-wʌnhʌndɹɪd twɛnti sɪks 
-wʌnhʌndɹɪd twɛnti sɛvən 
-wʌnhʌndɹɪd twɛnti eɪt 
 wʌnhʌndɹɪd twɛnti eɪt biː 
-wʌnhʌndɹɪd twɛnti naɪn 
 twɛlv eɪ 
 twɛlv biː 
 twɛlv siː 
@@ -106,55 +554,25 @@ twɛlv diː
 twɛlv iː 
 twɛlv ɛf 
 twɛlfθ 
-θɜːtiːn 
-wʌnhʌndɹɪd θɜːɾi 
-wʌnhʌndɹɪd θɜːɾi wʌn 
-wʌnhʌndɹɪd θɜːɾi tuː 
-wʌnhʌndɹɪd θɜːɾi θɹiː 
-wʌnhʌndɹɪd θɜːɾi foːɹ 
-wʌnhʌndɹɪd θɜːɾi faɪv 
-wʌnhʌndɹɪd θɜːɾi sɪks 
-wʌnhʌndɹɪd θɜːɾi sɛvən 
-wʌnhʌndɹɪd θɜːɾi eɪt 
-wʌnhʌndɹɪd θɜːɾi naɪn 
 θɜːtiːn eɪ 
 θɜːtiːn biː 
 θɜːtiːn siː 
 θɜːtiːn diː 
 θɜːtiːnθ 
-foːɹtiːn 
-wʌnhʌndɹɪd foːɹɾi 
-wʌnhʌndɹɪd foːɹɾi wʌn 
-wʌnhʌndɹɪd foːɹɾi tuː 
-wʌnhʌndɹɪd foːɹɾi θɹiː 
-wʌnhʌndɹɪd foːɹɾi foːɹ 
-wʌnhʌndɹɪd foːɹɾi faɪv 
-wʌnhʌndɹɪd foːɹɾi sɪks 
-wʌnhʌndɹɪd foːɹɾi sɛvən 
-wʌnhʌndɹɪd foːɹɾi eɪt 
-wʌnhʌndɹɪd foːɹɾi naɪn 
 foːɹtiːn eɪ 
 foːɹtiːn biː 
 foːɹtiːn siː 
 foːɹtiːn iː 
 foːɹtiːn dʒiː 
 foːɹtiːnθ 
-fɪftiːn 
-wʌnhʌndɹɪd fɪfti 
-wʌnhʌndɹɪd fɪfti wʌn 
-wʌnhʌndɹɪd fɪfti tuː 
 wʌnhʌndɹɪd fɪfti tuː eɪ 
 wʌnhʌndɹɪd fɪfti tuː biː 
-wʌnhʌndɹɪd fɪfti θɹiː 
-wʌnhʌndɹɪd fɪfti foːɹ 
 wʌnhʌndɹɪd fɪfti foːɹ eɪ 
 wʌnhʌndɹɪd fɪfti foːɹ biː 
 wʌnhʌndɹɪd fɪfti foːɹ siː 
 wʌnhʌndɹɪd fɪfti foːɹ diː 
 wʌnhʌndɹɪd fɪfti foːɹ iː 
 wʌnhʌndɹɪd fɪfti foːɹ ɛf 
-wʌnhʌndɹɪd fɪfti faɪv 
-wʌnhʌndɹɪd fɪfti sɪks 
 wʌnhʌndɹɪd fɪfti sɪks eɪ 
 wʌnhʌndɹɪd fɪfti sɪks biː 
 wʌnhʌndɹɪd fɪfti sɪks siː 
@@ -162,17 +580,14 @@ wʌnhʌndɹɪd fɪfti sɪks diː
 wʌnhʌndɹɪd fɪfti sɪks iː 
 wʌnhʌndɹɪd fɪfti sɪks ɛf 
 wʌnhʌndɹɪd fɪfti sɪks eɪtʃ 
-wʌnhʌndɹɪd fɪfti sɛvən 
 wʌnhʌndɹɪd fɪfti sɛvən eɪ 
 wʌnhʌndɹɪd fɪfti sɛvən biː 
 wʌnhʌndɹɪd fɪfti sɛvən siː 
 wʌnhʌndɹɪd fɪfti sɛvən diː 
 wʌnhʌndɹɪd fɪfti sɛvən iː 
 wʌnhʌndɹɪd fɪfti sɛvən ɛf 
-wʌnhʌndɹɪd fɪfti eɪt 
 wʌnhʌndɹɪd fɪfti eɪt eɪ 
 wʌnhʌndɹɪd fɪfti eɪt biː 
-wʌnhʌndɹɪd fɪfti naɪn 
 wʌnhʌndɹɪd fɪfti naɪn eɪ 
 wʌnhʌndɹɪd fɪfti naɪn biː 
 wʌnhʌndɹɪd fɪfti naɪn siː 
@@ -181,83 +596,31 @@ fɪftiːn biː
 fɪftiːn siː 
 fɪftiːn ɛf 
 fɪftiːnθ 
-sɪkstiːn 
-wʌnhʌndɹɪd sɪksti 
 wʌnhʌndɹɪd sɪksti eɪ 
 wʌnhʌndɹɪd sɪksti biː 
-wʌnhʌndɹɪd sɪksti wʌn 
 wʌnhʌndɹɪd sɪksti wʌn eɪ 
 wʌnhʌndɹɪd sɪksti wʌn biː 
-wʌnhʌndɹɪd sɪksti tuː 
 wʌnhʌndɹɪd sɪksti tuː eɪ 
 wʌnhʌndɹɪd sɪksti tuː biː 
-wʌnhʌndɹɪd sɪksti θɹiː 
 wʌnhʌndɹɪd sɪksti θɹiː eɪ 
 wʌnhʌndɹɪd sɪksti θɹiː biː 
-wʌnhʌndɹɪd sɪksti foːɹ 
 wʌnhʌndɹɪd sɪksti foːɹ eɪ 
 wʌnhʌndɹɪd sɪksti foːɹ biː 
 wʌnhʌndɹɪd sɪksti foːɹ siː 
-wʌnhʌndɹɪd sɪksti faɪv 
-wʌnhʌndɹɪd sɪksti sɪks 
-wʌn θaʊzənd sɪkshʌndɹɪd sɪksti θɹiː 
-wʌnhʌndɹɪd sɪksti sɛvən 
-wʌn θaʊzənd sɪkshʌndɹɪd sɛvənti θɹiː 
-wʌnhʌndɹɪd sɪksti eɪt 
-wʌnhʌndɹɪd sɪksti naɪn 
 sɪkstiːn eɪ 
 sɪkstiːn biː 
 sɪkstiːn siː 
 sɪkstiːn iː 
 sɪkstiːnθ 
-sɛvəntiːn 
-wʌnhʌndɹɪd sɛvənti 
-wʌn θaʊzənd sɛvənhʌndɹɪd wʌn 
-wʌnhʌndɹɪd sɛvənti wʌn 
-wʌnhʌndɹɪd sɛvənti tuː 
-wʌnhʌndɹɪd sɛvənti θɹiː 
-wʌnhʌndɹɪd sɛvənti foːɹ 
-wʌnhʌndɹɪd sɛvənti faɪv 
-wʌnhʌndɹɪd sɛvənti sɪks 
-wʌnhʌndɹɪd sɛvənti sɛvən 
-wʌnhʌndɹɪd sɛvənti eɪt 
-wʌnhʌndɹɪd sɛvənti naɪn 
 sɛvəntiːn eɪ 
 sɛvəntiːn biː 
 sɛvəntiːn ɛf 
 sɛvəntiːnθ 
-eɪtiːn 
-wʌnhʌndɹɪd eɪɾi 
-wʌnhʌndɹɪd eɪɾi wʌn 
-wʌnhʌndɹɪd eɪɾi tuː 
-wʌnhʌndɹɪd eɪɾi θɹiː 
-wʌnhʌndɹɪd eɪɾi foːɹ 
-wʌnhʌndɹɪd eɪɾi faɪv 
-wʌnhʌndɹɪd eɪɾi sɪks 
-wʌnhʌndɹɪd eɪɾi sɛvən 
-wʌnhʌndɹɪd eɪɾi eɪt 
-wʌnhʌndɹɪd eɪɾi naɪn 
-wʌn θaʊzənd eɪthʌndɹɪd naɪnti sɪks 
-wʌn θaʊzənd eɪthʌndɹɪd naɪnti eɪt 
 eɪtiːn eɪ 
 eɪtiːn biː 
 eɪtiːn siː 
 eɪtiːn ɛf 
 eɪtiːnθ 
-naɪntiːn 
-wʌnhʌndɹɪd naɪnti 
-naɪntiːnhʌndɹɪd 
-wʌnhʌndɹɪd naɪnti wʌn 
-naɪntiːnhʌndɹɪd twɛlv 
-wʌnhʌndɹɪd naɪnti tuː 
-wʌnhʌndɹɪd naɪnti θɹiː 
-wʌnhʌndɹɪd naɪnti foːɹ 
-wʌnhʌndɹɪd naɪnti faɪv 
-wʌnhʌndɹɪd naɪnti sɪks 
-wʌnhʌndɹɪd naɪnti sɛvən 
-naɪntiːnhʌndɹɪd sɛvənti sɪks 
-wʌnhʌndɹɪd naɪnti eɪt 
-wʌnhʌndɹɪd naɪnti naɪn 
 naɪntiːn eɪ 
 naɪntiːn biː 
 naɪntiːn siː 
@@ -272,53 +635,18 @@ wʌn diː
 wʌn iː 
 fɜːst 
 tuː 
-tuː 
-twɛnti 
-tuːhʌndɹɪd 
-tuː θaʊzənd 
-tuːhʌndɹɪd wʌn 
-tuːhʌndɹɪd tuː 
-tuːhʌndɹɪd θɹiː 
-tuːhʌndɹɪd foːɹ 
-tuːhʌndɹɪd faɪv 
-tuːhʌndɹɪd sɪks 
-tuːhʌndɹɪd sɛvən 
-tuːhʌndɹɪd eɪt 
-tuːhʌndɹɪd naɪn 
 twɛnti eɪ 
 twɛnti biː 
 twɛnti iː 
 twɛnti ɛf 
 twɛntiəθ 
-twɛnti wʌn 
-tuːhʌndɹɪd tɛn 
-tuːhʌndɹɪd ɪlɛvən 
-tuːhʌndɹɪd twɛlv 
-tuːhʌndɹɪd θɜːtiːn 
-tuːhʌndɹɪd foːɹtiːn 
-tuːhʌndɹɪd fɪftiːn 
-tuːhʌndɹɪd sɪkstiːn 
-tuːhʌndɹɪd sɛvəntiːn 
-tuːhʌndɹɪd eɪtiːn 
-tuːhʌndɹɪd naɪntiːn 
 twɛnti wʌn eɪ 
 twɛnti wʌn biː 
 twɛnti wʌn siː 
 twɛnti wʌn iː 
 twɛnti wʌn ɛf 
 twɛnti fɜːst 
-twɛnti tuː 
-tuːhʌndɹɪd twɛnti 
-tuːhʌndɹɪd twɛnti wʌn 
-tuːhʌndɹɪd twɛnti tuː 
-tuːhʌndɹɪd twɛnti θɹiː 
 tuːhʌndɹɪd twɛnti θɹiː eɪ 
-tuːhʌndɹɪd twɛnti foːɹ 
-tuːhʌndɹɪd twɛnti faɪv 
-tuːhʌndɹɪd twɛnti sɪks 
-tuːhʌndɹɪd twɛnti sɛvən 
-tuːhʌndɹɪd twɛnti eɪt 
-tuːhʌndɹɪd twɛnti naɪn 
 twɛnti tuː eɪ 
 twɛnti tuː biː 
 twɛnti tuː siː 
@@ -326,19 +654,8 @@ twɛnti tuː iː
 twɛnti tuː ɛf 
 twɛnti sɛkənd 
 twɛnti sɛkθ 
-twɛnti θɹiː 
-tuːhʌndɹɪd θɜːɾi 
-tuːhʌndɹɪd θɜːɾi wʌn 
-tuːhʌndɹɪd θɜːɾi tuː 
-tuːhʌndɹɪd θɜːɾi θɹiː 
-tuːhʌndɹɪd θɜːɾi foːɹ 
-tuːhʌndɹɪd θɜːɾi faɪv 
 tuːhʌndɹɪd θɜːɾi faɪv eɪ 
 tuːhʌndɹɪd θɜːɾi faɪv biː 
-tuːhʌndɹɪd θɜːɾi sɪks 
-tuːhʌndɹɪd θɜːɾi sɛvən 
-tuːhʌndɹɪd θɜːɾi eɪt 
-tuːhʌndɹɪd θɜːɾi naɪn 
 twɛnti θɹiː eɪ 
 twɛnti θɹiː biː 
 twɛnti θɹiː siː 
@@ -346,34 +663,11 @@ twɛnti θɹiː diː
 twɛnti θɹiː iː 
 twɛnti θɹiː ɛf 
 twɛnti θɜːd 
-twɛnti foːɹ 
-tuːhʌndɹɪd foːɹɾi 
-tuːhʌndɹɪd foːɹɾi wʌn 
-tuːhʌndɹɪd foːɹɾi tuː 
-tuːhʌndɹɪd foːɹɾi θɹiː 
-tuːhʌndɹɪd foːɹɾi foːɹ 
-tuːhʌndɹɪd foːɹɾi faɪv 
-tuːhʌndɹɪd foːɹɾi sɪks 
-tuːhʌndɹɪd foːɹɾi sɛvən 
-tuːhʌndɹɪd foːɹɾi eɪt 
-tuːhʌndɹɪd foːɹɾi naɪn 
 twɛnti foːɹ eɪ 
 twɛnti foːɹ biː 
 twɛnti foːɹ siː 
 twɛnti foːɹ ɛf 
 twɛnti foːɹθ 
-twɛnti faɪv 
-tuːhʌndɹɪd fɪfti 
-tuːhʌndɹɪd fɪfti wʌn 
-tuː θaʊzənd faɪvhʌndɹɪd sɪkstiːn 
-tuːhʌndɹɪd fɪfti tuː 
-tuːhʌndɹɪd fɪfti θɹiː 
-tuːhʌndɹɪd fɪfti foːɹ 
-tuːhʌndɹɪd fɪfti faɪv 
-tuːhʌndɹɪd fɪfti sɪks 
-tuːhʌndɹɪd fɪfti sɛvən 
-tuːhʌndɹɪd fɪfti eɪt 
-tuːhʌndɹɪd fɪfti naɪn 
 twɛnti faɪv eɪ 
 twɛnti faɪv eɪ 
 twɛnti faɪv biː 
@@ -383,31 +677,12 @@ twɛnti faɪv ɛf
 twɛnti faɪv ɛf 
 twɛnti fɪfθ 
 twɛnti fɪfθ 
-twɛnti sɪks 
-tuːhʌndɹɪd sɪksti 
-tuːhʌndɹɪd sɪksti wʌn 
-tuːhʌndɹɪd sɪksti tuː 
-tuːhʌndɹɪd sɪksti θɹiː 
-tuːhʌndɹɪd sɪksti foːɹ 
-tuːhʌndɹɪd sɪksti faɪv 
-tuːhʌndɹɪd sɪksti sɪks 
-tuːhʌndɹɪd sɪksti sɛvən 
-tuːhʌndɹɪd sɪksti eɪt 
-tuːhʌndɹɪd sɪksti naɪn 
 twɛnti sɪks eɪ 
 twɛnti sɪks eɪ 
 twɛnti sɪks biː 
 twɛnti sɪks ɛf 
 twɛnti sɪksθ 
 twɛnti sɪksθ 
-twɛnti sɛvən 
-tuːhʌndɹɪd sɛvənti 
-tuːhʌndɹɪd sɛvənti wʌn 
-tuːhʌndɹɪd sɛvənti tuː 
-tuːhʌndɹɪd sɛvənti θɹiː 
-tuːhʌndɹɪd sɛvənti foːɹ 
-tuːhʌndɹɪd sɛvənti faɪv 
-tuːhʌndɹɪd sɛvənti sɪks 
 twɛnti sɛvən eɪ 
 twɛnti sɛvən eɪ 
 twɛnti sɛvən biː 
@@ -418,10 +693,6 @@ twɛnti sɛvən ɛf
 twɛnti sɛvən ɛf 
 twɛnti sɛvənθ 
 twɛnti sɛvənθ 
-twɛnti eɪt 
-tuːhʌndɹɪd eɪɾi wʌn 
-tuːhʌndɹɪd eɪɾi θɹiː 
-tuːhʌndɹɪd eɪɾi eɪt 
 twɛnti eɪt eɪ 
 twɛnti eɪt eɪ 
 twɛnti eɪt biː 
@@ -429,10 +700,6 @@ twɛnti eɪt biː
 twɛnti eɪt siː 
 twɛnti eɪt ɛf 
 twɛnti eɪtθ 
-twɛnti naɪn 
-tuːhʌndɹɪd naɪnti θɹiː 
-tuːhʌndɹɪd naɪnti foːɹ 
-tuːhʌndɹɪd naɪnti faɪv 
 twɛnti naɪn eɪ 
 twɛnti naɪn biː 
 twɛnti naɪn biː 
@@ -445,56 +712,24 @@ tuː biː
 tuː siː 
 tuː siː 
 tuː diː 
+tuː diː 
 tuː iː 
 tuː iː 
 tuː ɛf 
-tuː diː 
 sɛkənd 
 sɛkənd 
 θɹiː 
 θɹiː 
-θɹiː 
-θɜːɾi 
-θɹiːhʌndɹɪd 
-θɹiːhʌndɹɪd wʌn 
 θɹiːhʌndɹɪd wʌn eɪ 
-θɹiːhʌndɹɪd tuː 
-θɹiːhʌndɹɪd θɹiː 
-θɹiːhʌndɹɪd foːɹ 
-θɹiːhʌndɹɪd faɪv 
-θɹiːhʌndɹɪd sɪks 
-θɹiːhʌndɹɪd sɛvən 
-θɹiːhʌndɹɪd eɪt 
 θɹiːhʌndɹɪd eɪt eɪ 
-θɹiːhʌndɹɪd naɪn 
 θɜːɾi eɪ 
 θɜːɾi biː 
 θɜːɾiəθ 
-θɜːɾi wʌn 
-θɹiːhʌndɹɪd tɛn 
-θɹiːhʌndɹɪd ɪlɛvən 
-θɹiːhʌndɹɪd twɛlv 
-θɹiːhʌndɹɪd θɜːtiːn 
-θɹiːhʌndɹɪd foːɹtiːn 
-θɹiːhʌndɹɪd fɪftiːn 
-θɹiːhʌndɹɪd sɪkstiːn 
-θɹiːhʌndɹɪd sɛvəntiːn 
-θɹiːhʌndɹɪd eɪtiːn 
-θɹiːhʌndɹɪd naɪntiːn 
 θɜːɾi fɜːst 
 θɜːɾi fɜːst 
-θɜːɾi tuː 
-θɹiːhʌndɹɪd twɛnti 
-θɹiːhʌndɹɪd twɛnti wʌn 
-θɹiːhʌndɹɪd twɛnti tuː 
-θɹiːhʌndɹɪd twɛnti θɹiː 
 θɹiːhʌndɹɪd twɛnti θɹiː eɪ 
-θɹiːhʌndɹɪd twɛnti foːɹ 
 θɹiːhʌndɹɪd twɛnti foːɹ eɪ 
-θɹiːhʌndɹɪd twɛnti faɪv 
 θɹiːhʌndɹɪd twɛnti faɪv eɪ 
-θɹiːhʌndɹɪd twɛnti sɪks 
-θɹiːhʌndɹɪd twɛnti sɛvən 
 θɜːɾi tuː eɪ 
 θɜːɾi tuː eɪ 
 θɜːɾi tuː biː 
@@ -514,19 +749,13 @@ sɛkənd
 θɜːɾi tuː ɛm 
 θɜːɾi tuː ɛn 
 θɜːɾi tuː ɛn 
+θɜːɾi sɛkənd 
 θɜːɾi tuː oʊ 
 θɜːɾi tuː piː 
 θɜːɾi tuː kjuː 
 θɜːɾi tuː kjuː 
 θɜːɾi tuː ɑːɹ 
-θɜːɾi sɛkənd 
 θɜːɾi sɛkθ 
-θɜːɾi θɹiː 
-θɹiːhʌndɹɪd θɜːɾi 
-θɹiːhʌndɹɪd θɜːɾi wʌn 
-θɹiːhʌndɹɪd θɜːɾi tuː 
-θɹiːhʌndɹɪd θɜːɾi θɹiː 
-θɹiːhʌndɹɪd θɜːɾi foːɹ 
 θɜːɾi θɹiː eɪ 
 θɜːɾi θɹiː eɪ 
 θɜːɾi θɹiː biː 
@@ -534,26 +763,20 @@ sɛkənd
 θɜːɾi θɹiː siː 
 θɜːɾi θɹiː diː 
 θɜːɾi θɜːd 
-θɜːɾi foːɹ 
 θɜːɾi foːɹ eɪ 
 θɜːɾi foːɹ eɪ 
 θɜːɾi foːɹ diː 
 θɜːɾi foːɹθ 
-θɜːɾi faɪv 
 θɜːɾi faɪv eɪ 
 θɜːɾi faɪv biː 
 θɜːɾi faɪv siː 
 θɜːɾi fɪfθ 
-θɜːɾi sɪks 
-θɹiːhʌndɹɪd sɪksti 
 θɜːɾi sɪksθ 
 θɜːɾi sɪksθ 
-θɜːɾi sɛvən 
 θɜːɾi sɛvən eɪ 
 θɜːɾi sɛvən iː 
 θɜːɾi sɛvən ɛf 
 θɜːɾi sɛvənθ 
-θɜːɾi eɪt 
 θɜːɾi eɪt eɪ 
 θɜːɾi eɪt eɪ 
 θɜːɾi eɪt biː 
@@ -566,7 +789,6 @@ sɛkənd
 θɜːɾi eɪt eɪtʃ 
 θɜːɾi eɪt eɪtʃ 
 θɜːɾi eɪtθ 
-θɜːɾi naɪn 
 θɜːɾi naɪn eɪ 
 θɜːɾi naɪn diː 
 θɜːɾi naɪn iː 
@@ -586,18 +808,6 @@ sɛkənd
 θɜːɹənd 
 θɜːd 
 θɜːd 
-foːɹ 
-foːɹɾi 
-foːɹhʌndɹɪd 
-foːɹhʌndɹɪd wʌn 
-foːɹhʌndɹɪd tuː 
-foːɹhʌndɹɪd θɹiː 
-foːɹhʌndɹɪd foːɹ 
-foːɹhʌndɹɪd faɪv 
-foːɹhʌndɹɪd sɪks 
-foːɹhʌndɹɪd sɛvən 
-foːɹhʌndɹɪd eɪt 
-foːɹhʌndɹɪd naɪn 
 foːɹɾi eɪ 
 foːɹɾi biː 
 foːɹɾi ɛf 
@@ -609,37 +819,13 @@ foːɹɾi dʒeɪ
 foːɹɾi keɪ 
 foːɹɾi keɪ 
 foːɹɾiəθ 
-foːɹɾi wʌn 
-foːɹhʌndɹɪd tɛn 
-foːɹhʌndɹɪd ɪlɛvən 
-foːɹhʌndɹɪd twɛlv 
-foːɹhʌndɹɪd θɜːtiːn 
-foːɹhʌndɹɪd foːɹtiːn 
-foːɹhʌndɹɪd fɪftiːn 
-foːɹhʌndɹɪd sɪkstiːn 
-foːɹhʌndɹɪd sɛvəntiːn 
-foːɹhʌndɹɪd eɪtiːn 
-foːɹhʌndɹɪd naɪntiːn 
 foːɹɾi wʌn eɪ 
 foːɹɾi wʌn biː 
 foːɹɾi wʌn diː 
 foːɹɾi wʌn ɛl 
 foːɹɾi fɜːst 
 foːɹɾi fɜːst 
-foːɹɾi tuː 
-foːɹhʌndɹɪd twɛnti 
-foːɹhʌndɹɪd twɛnti wʌn 
-foːɹhʌndɹɪd twɛnti tuː 
-foːɹhʌndɹɪd twɛnti θɹiː 
-foːɹhʌndɹɪd twɛnti foːɹ 
 foːɹɾi sɛkənd 
-foːɹɾi θɹiː 
-foːɹhʌndɹɪd θɜːɾi foːɹ 
-foːɹhʌndɹɪd θɜːɾi faɪv 
-foːɹhʌndɹɪd θɜːɾi sɪks 
-foːɹhʌndɹɪd θɜːɾi sɛvən 
-foːɹhʌndɹɪd θɜːɾi eɪt 
-foːɹhʌndɹɪd θɜːɾi naɪn 
 foːɹɾi θɹiː eɪ 
 foːɹɾi θɹiː biː 
 foːɹɾi θɹiː diː 
@@ -647,17 +833,7 @@ foːɹɾi θɹiː iː
 foːɹɾi θɹiː ɛf 
 foːɹɾi θɹiː ɛf 
 foːɹɾi θɜːd 
-foːɹɾi foːɹ 
-foːɹhʌndɹɪd foːɹɾi sɛvən 
-foːɹhʌndɹɪd foːɹɾi naɪn 
 foːɹɾi foːɹθ 
-foːɹɾi faɪv 
-foːɹhʌndɹɪd fɪfti 
-foːɹhʌndɹɪd fɪfti tuː 
-foːɹhʌndɹɪd fɪfti foːɹ 
-foːɹhʌndɹɪd fɪfti faɪv 
-foːɹhʌndɹɪd fɪfti sɪks 
-foːɹhʌndɹɪd fɪfti naɪn 
 foːɹɾi faɪv eɪ 
 foːɹɾi faɪv biː 
 foːɹɾi faɪv siː 
@@ -674,16 +850,13 @@ foːɹɾi faɪv aɪ
 foːɹɾi faɪv dʒeɪ 
 foːɹɾi fɪfθ 
 foːɹɾi fɪfθ 
-foːɹɾi sɪks 
 foːɹɾi sɪks eɪ 
 foːɹɾi sɪks biː 
 foːɹɾi sɪks diː 
 foːɹɾi sɪks iː 
 foːɹɾi sɪks ɛf 
 foːɹɾi sɪksθ 
-foːɹɾi sɛvən 
 foːɹɾi sɛvənθ 
-foːɹɾi eɪt 
 foːɹɾi eɪt iː 
 foːɹɾi eɪt iː 
 foːɹɾi eɪt ɛf 
@@ -694,7 +867,6 @@ foːɹɾi eɪt aɪ
 foːɹɾi eɪt dʒeɪ 
 foːɹɾi eɪt dʒeɪ 
 foːɹɾi eɪtθ 
-foːɹɾi naɪn 
 foːɹɾi naɪn eɪ 
 foːɹɾi naɪn biː 
 foːɹɾi naɪn siː 
@@ -706,6 +878,7 @@ foːɹɾi naɪn dʒeɪ
 foːɹɾi naɪn ɛl 
 foːɹɾi naɪnθ 
 foːɹ eɪ 
+foːɹ eɪ 
 foːɹ biː 
 foːɹ biː 
 foːɹ siː 
@@ -713,56 +886,31 @@ foːɹ siː
 foːɹ diː 
 foːɹ diː 
 foːɹ iː 
-foːɹ eɪ 
 foːɹθ 
 foːɹθ 
-faɪv 
-fɪfti 
 fɪfti biː 
 fɪfti siː 
 fɪfti iː 
 fɪfti iː 
 fɪfti ɛf 
 fɪftiəθ 
-fɪfti wʌn 
 fɪfti fɜːst 
 fɪfti fɜːθ 
-fɪfti tuː 
-faɪvhʌndɹɪd twɛnti tuː 
-faɪvhʌndɹɪd twɛnti sɪks 
-faɪvhʌndɹɪd twɛnti sɛvən 
 fɪfti tuː eɪ 
 fɪfti tuː eɪ 
 fɪfti tuː biː 
 fɪfti tuː biː 
 fɪfti sɛkənd 
-fɪfti θɹiː 
-faɪvhʌndɹɪd θɜːɾi foːɹ 
-faɪvhʌndɹɪd θɜːɾi faɪv 
 fɪfti θɜːd 
-fɪfti foːɹ 
 faɪvhʌndɹɪd foːɹɾi θɜːd 
 fɪfti foːɹ eɪ 
 fɪfti foːɹθ 
-fɪfti faɪv 
-faɪvhʌndɹɪd fɪfti wʌn 
-faɪvhʌndɹɪd fɪfti θɹiː 
-faɪvhʌndɹɪd fɪfti foːɹ 
-faɪvhʌndɹɪd fɪfti faɪv 
-faɪvhʌndɹɪd fɪfti naɪn 
 fɪfti faɪv eɪ 
 fɪfti faɪv biː 
 fɪfti fɪfθ 
-fɪfti sɪks 
-faɪvhʌndɹɪd sɪksti wʌn 
-faɪvhʌndɹɪd sɪksti tuː 
-faɪvhʌndɹɪd sɪksti θɹiː 
 fɪfti sɪksθ 
-fɪfti sɛvən 
 fɪfti sɛvənθ 
-fɪfti eɪt 
 fɪfti eɪtθ 
-fɪfti naɪn 
 fɪfti naɪnθ 
 faɪv eɪ 
 faɪv eɪ 
@@ -776,83 +924,17 @@ faɪv iː
 fɪfθ 
 fɪfθ 
 sɪks 
-sɪks 
-sɪksti 
-sɪkshʌndɹɪd 
-sɪkshʌndɹɪd wʌn 
-sɪkshʌndɹɪd tuː 
-sɪkshʌndɹɪd θɹiː 
-sɪkshʌndɹɪd foːɹ 
-sɪkshʌndɹɪd faɪv 
-sɪkshʌndɹɪd sɪks 
-sɪkshʌndɹɪd sɛvən 
-sɪkshʌndɹɪd naɪn 
 sɪkstiəθ 
-sɪksti wʌn 
-sɪkshʌndɹɪd tɛn 
-sɪkshʌndɹɪd ɪlɛvən 
-sɪkshʌndɹɪd twɛlv 
-sɪkshʌndɹɪd θɜːtiːn 
-sɪkshʌndɹɪd foːɹtiːn 
-sɪkshʌndɹɪd fɪftiːn 
-sɪkshʌndɹɪd sɪkstiːn 
-sɪkshʌndɹɪd sɛvəntiːn 
-sɪkshʌndɹɪd eɪtiːn 
-sɪkshʌndɹɪd naɪntiːn 
 sɪksti fɜːst 
-sɪksti tuː 
-sɪkshʌndɹɪd twɛnti 
-sɪkshʌndɹɪd twɛnti wʌn 
-sɪkshʌndɹɪd twɛnti tuː 
-sɪkshʌndɹɪd twɛnti θɹiː 
-sɪkshʌndɹɪd twɛnti foːɹ 
-sɪkshʌndɹɪd twɛnti faɪv 
-sɪkshʌndɹɪd twɛnti sɪks 
-sɪkshʌndɹɪd twɛnti sɛvən 
-sɪkshʌndɹɪd twɛnti eɪt 
-sɪkshʌndɹɪd twɛnti naɪn 
 sɪksti sɛkənd 
 sɪksti sɛkənd 
-sɪksti θɹiː 
-sɪkshʌndɹɪd θɜːɾi 
-sɪkshʌndɹɪd θɜːɾi wʌn 
-sɪkshʌndɹɪd θɜːɾi foːɹ 
-sɪkshʌndɹɪd θɜːɾi faɪv 
-sɪkshʌndɹɪd θɜːɾi sɪks 
-sɪkshʌndɹɪd θɜːɾi sɛvən 
-sɪkshʌndɹɪd θɜːɾi eɪt 
-sɪkshʌndɹɪd θɜːɾi naɪn 
 sɪksti θɜːd 
-sɪksti foːɹ 
-sɪkshʌndɹɪd foːɹɾi 
-sɪkshʌndɹɪd foːɹɾi wʌn 
-sɪkshʌndɹɪd foːɹɾi tuː 
-sɪkshʌndɹɪd foːɹɾi θɹiː 
-sɪkshʌndɹɪd foːɹɾi foːɹ 
-sɪkshʌndɹɪd foːɹɾi sɪks 
-sɪkshʌndɹɪd foːɹɾi sɛvən 
-sɪkshʌndɹɪd foːɹɾi eɪt 
 sɪksti foːɹθ 
-sɪksti faɪv 
-sɪkshʌndɹɪd fɪfti wʌn 
-sɪkshʌndɹɪd fɪfti foːɹ 
-sɪkshʌndɹɪd fɪfti faɪv 
-sɪkshʌndɹɪd fɪfti sɪks 
-sɪkshʌndɹɪd fɪfti sɛvən 
 sɪksti fɪfθ 
-sɪksti sɪks 
-sɪkshʌndɹɪd sɪksti 
-sɪkshʌndɹɪd sɪksti wʌn 
-sɪkshʌndɹɪd sɪksti tuː 
-sɪkshʌndɹɪd sɪksti θɹiː 
-sɪkshʌndɹɪd sɪksti foːɹ 
 sɪksti sɪks eɪ 
 sɪksti sɪksθ 
-sɪksti sɛvən 
 sɪksti sɛvənθ 
-sɪksti eɪt 
 sɪksti eɪtθ 
-sɪksti naɪn 
 sɪksti naɪn eɪ 
 sɪksti naɪn eɪ 
 sɪksti naɪn biː 
@@ -860,52 +942,30 @@ sɪksti naɪnθ
 sɪksti naɪnθ 
 sɪks eɪ 
 sɪks eɪ 
-sɪks biː 
-sɪks biː 
-sɪks siː 
-sɪks diː 
-sɪks diː 
-sɪks iː 
-sɪks iː 
 sɪks eɪ 
 sɪks biː 
+sɪks biː 
+sɪks biː 
 sɪks siː 
+sɪks siː 
+sɪks diː 
+sɪks diː 
+sɪks iː 
+sɪks iː 
 sɪksθ 
 sɪksθ 
-sɛvən 
-sɛvənti 
-sɛvənhʌndɹɪd tuː 
-sɛvənhʌndɹɪd eɪt 
 sɛvənti eɪ 
 sɛvənti biː 
 sɛvəntiəθ 
-sɛvənti wʌn 
-sɛvənhʌndɹɪd naɪntiːn 
 sɛvənti fɜːst 
-sɛvənti tuː 
-sɛvənhʌndɹɪd twɛnti 
-sɛvənhʌndɹɪd twɛnti wʌn 
-sɛvənhʌndɹɪd twɛnti foːɹ 
-sɛvənhʌndɹɪd twɛnti faɪv 
-sɛvənhʌndɹɪd twɛnti sɪks 
-sɛvənhʌndɹɪd twɛnti sɛvən 
-sɛvənhʌndɹɪd twɛnti eɪt 
 sɛvənti sɛkənd 
-sɛvənti θɹiː 
 sɛvənti θɜːd 
-sɛvənti foːɹ 
 sɛvənti foːɹ eɪ 
 sɛvənti foːɹθ 
-sɛvənti faɪv 
 sɛvənti fɪfθ 
-sɛvənti sɪks 
 sɛvənti sɪksθ 
-sɛvənti sɛvən 
-sɛvənhʌndɹɪd sɛvənti foːɹ 
 sɛvənti sɛvənθ 
-sɛvənti eɪt 
 sɛvənti eɪtθ 
-sɛvənti naɪn 
 sɛvənti naɪnθ 
 sɛvən eɪ 
 sɛvən eɪ 
@@ -918,46 +978,24 @@ sɛvən diː
 sɛvən iː 
 sɛvən iː 
 sɛvən eɪtʃ 
+sɛvənθ 
+sɛvənθ 
 sɛvən ʌp 
-sɛvənθ 
-sɛvənθ 
 eɪt 
-eɪt 
-eɪɾi 
-eɪthʌndɹɪd θɹiː 
-eɪthʌndɹɪd foːɹ 
-eɪthʌndɹɪd faɪv 
-eɪthʌndɹɪd naɪn 
 eɪɾi eɪ 
 eɪɾi eɪ 
 eɪɾiəθ 
-eɪɾi wʌn 
-eɪthʌndɹɪd twɛlv 
 eɪɾi fɜːst 
-eɪɾi tuː 
 eɪɾi tuː eɪ 
 eɪɾi tuː biː 
 eɪɾi tuː siː 
 eɪɾi sɛkənd 
-eɪɾi θɹiː 
 eɪɾi θɜːd 
-eɪɾi foːɹ 
 eɪɾi foːɹθ 
-eɪɾi faɪv 
-eɪthʌndɹɪd fɪfti wʌn 
-eɪthʌndɹɪd fɪfti tuː 
-eɪthʌndɹɪd fɪfti θɹiː 
-eɪthʌndɹɪd fɪfti foːɹ 
-eɪthʌndɹɪd fɪfti faɪv 
-eɪthʌndɹɪd fɪfti sɛvən 
 eɪɾi fɪfθ 
-eɪɾi sɪks 
 eɪɾi sɪksθ 
-eɪɾi sɛvən 
 eɪɾi sɛvənθ 
-eɪɾi eɪt 
 eɪɾi eɪtθ 
-eɪɾi naɪn 
 eɪɾi naɪnθ 
 eɪt eɪ 
 eɪt biː 
@@ -966,50 +1004,13 @@ eɪt diː
 eɪt iː 
 eɪt ɛf 
 eɪtθ 
-naɪn 
-naɪnti 
-naɪnhʌndɹɪd wʌn 
-naɪnhʌndɹɪd tuː 
-naɪnhʌndɹɪd θɹiː 
-naɪnhʌndɹɪd foːɹ 
-naɪnhʌndɹɪd sɪks 
 naɪntiəθ 
-naɪnti wʌn 
-naɪnhʌndɹɪd tɛn 
-naɪnhʌndɹɪd ɪlɛvən 
-naɪnhʌndɹɪd θɜːtiːn 
-naɪnhʌndɹɪd foːɹtiːn 
-naɪnhʌndɹɪd fɪftiːn 
-naɪnhʌndɹɪd sɪkstiːn 
-naɪnhʌndɹɪd sɛvəntiːn 
-naɪnti tuː 
-naɪnhʌndɹɪd twɛnti 
-naɪnhʌndɹɪd twɛnti wʌn 
-naɪnhʌndɹɪd twɛnti tuː 
-naɪnhʌndɹɪd twɛnti θɹiː 
 naɪnti sɛkənd 
-naɪnti θɹiː 
-naɪnhʌndɹɪd θɜːɾi wʌn 
-naɪnhʌndɹɪd θɜːɾi θɹiː 
-naɪnhʌndɹɪd θɜːɾi foːɹ 
-naɪnhʌndɹɪd θɜːɾi faɪv 
-naɪnhʌndɹɪd θɜːɾi sɪks 
-naɪnhʌndɹɪd θɜːɾi sɛvən 
-naɪnhʌndɹɪd θɜːɾi eɪt 
-naɪnhʌndɹɪd θɜːɾi naɪn 
 naɪnti θɜːd 
-naɪnti foːɹ 
-naɪnhʌndɹɪd foːɹɾi 
-naɪnhʌndɹɪd foːɹɾi tuː 
 naɪnti foːɹθ 
-naɪnti faɪv 
 naɪnti fɪfθ 
-naɪnti sɪks 
 naɪnti sɪksθ 
-naɪnti sɛvən 
 naɪnti sɛvənθ 
-naɪnti eɪt 
-naɪnti naɪn 
 naɪnti naɪnθ 
 naɪn eɪ 
 naɪn biː 
@@ -1022,31 +1023,8 @@ eɪ
 eɪ 
 ɐ ɛs 
 ɑː 
-eɪbiːsiː 
-æbkd 
-ɐbnaɪ 
-æbz 
-ɐkæ 
-ækf 
-ækfk 
-ækəm 
-ɐksaɪ 
-ækti 
-ɐdiːbiː 
-eɪiː 
-æfp 
-ɑːz 
-eɪb 
-æk 
-ɔːldp 
-æmk 
-æn 
-ænfloʊ 
-ɐpæ 
-ɑːɹkp 
-ɐsmæ 
-eɪtiːviː 
 ɑːlə 
+ɑːɹɹəl 
 ɛɹən 
 ɐbæ 
 æbɑːkə 
@@ -1096,6 +1074,8 @@ eɪtiːviː
 æbət 
 æbʌt 
 æbi 
+eɪbiːsiː 
+æbkd 
 ɐbsiːd 
 æbdɚɹə 
 æbdən 
@@ -1151,6 +1131,7 @@ eɪbəloʊ
 eɪbəln 
 ɐblɑːɡ 
 ɐbloʊlə 
+ɐbnaɪ 
 ɐbnɜː 
 ɐboʊ 
 ɐboʊboʊ 
@@ -1182,6 +1163,7 @@ eɪbɹɐmuːvɪtʃ
 æbɹoʊɡiːnə 
 ɐbɹuːzi 
 ɐbɹʌzoʊ 
+æbz 
 ɐbsæləm 
 ɐbsuːnə 
 æbuː 
@@ -1207,6 +1189,7 @@ eɪbɹɐmuːvɪtʃ
 ɐbaɪɑːɡ 
 ɐbaɪən 
 ɐbɪæwən 
+ɐkæ 
 ɐkeɪʃə 
 ɐkeɪʃəz 
 ækədɛmɪk 
@@ -1238,6 +1221,8 @@ eɪs
 ɐsɜːɹə 
 ɐsɛɹoʊ 
 ɐsɪviːdoʊ 
+ækf 
+ækfk 
 ɐtʃɐkoʊsoʊ 
 ɐtʃæɹən 
 eɪkmɚ 
@@ -1252,6 +1237,7 @@ eɪkmɚ
 ɐklæɹoʊ 
 ɐkli 
 ɐkliːdʒoʊ 
+ækəm 
 ækmi 
 ækoʊbə 
 ækəp 
@@ -1263,7 +1249,9 @@ eɪkɚz
 ækɹɪstoʊ 
 ækɹɑːpəliz 
 əkɹɑːs 
+ɐksaɪ 
 ækt 
+ækti 
 ækʃən 
 æktɪvɪdæd 
 ækts 
@@ -1295,6 +1283,7 @@ eɪdə
 eɪdəz 
 ɐdɑːsə 
 ɐdɔːktoʊ 
+ɐdiːbiː 
 ædsaɪvɪl 
 ædkɑːm 
 æd 
@@ -1370,6 +1359,7 @@ eɪdɹiən
 ɐdvɛntʃɚɹiːn 
 ɐdvɪŋkjʊlə 
 ædvəkəsi 
+eɪiː 
 ɛɹaɪdz 
 ɛɹoʊspeɪs 
 iːɾə 
@@ -1379,6 +1369,7 @@ iːɾə
 æfɡænɪstæn 
 ɐflɛk 
 ɐfɑːnsoʊ 
+æfp 
 ɐfɹæ 
 ɐfɹɐɡoʊlə 
 æfɹɪkə 
@@ -1546,6 +1537,8 @@ eɪɡnd
 æɡʌstəs 
 æɡjuːteɪə 
 ɑːlən 
+ɑːz 
+eɪb 
 eɪdə 
 eɪliːn 
 eɪlɛnɚ 
@@ -1572,6 +1565,7 @@ aɪəl
 ædʒɑːŋ 
 ædʒoʊs 
 ædʒaɪ 
+æk 
 ækeɪdɚ 
 ækæŋ 
 ækɐsɑːkə 
@@ -1582,6 +1576,7 @@ aɪəl
 eɪkmi 
 ækhəl 
 ɐkɪli 
+ɐkɪt 
 æklə 
 æklən 
 ækəl 
@@ -1733,6 +1728,7 @@ eɪkmi
 ɔːldɚz 
 ɔːldɚsɡeɪt 
 ɔːldoʊ 
+ɔːldp 
 ɔːldɹɪn 
 ɔːldʌtɹə 
 ɐliːndi 
@@ -2158,6 +2154,7 @@ eɪməbəl
 æmbjʊlɔŋ 
 æmbjʊɹɹeɪən 
 æmbaɪjuːən 
+æmk 
 eɪmkə 
 ɐmiːliə 
 ɐmiːlɪŋ 
@@ -2215,6 +2212,7 @@ eɪmɑːs
 æmfoːɹiəm 
 æmpəl 
 æmpɪoʊkoʊ 
+æmpɑːn 
 æmsælsəl 
 æmzɪk 
 æmsɪŋ 
@@ -2231,6 +2229,7 @@ eɪmɑːs
 æmʌslən 
 æmaɪɑːŋ 
 eɪmi 
+æn 
 ɑːnə 
 æneɪbɛl 
 ænɑːbuː 
@@ -2268,6 +2267,7 @@ eɪmi
 æneɪtælɪoʊ 
 ænɐtoʊliə 
 ænɐwɑːn 
+æneɪ 
 æneɪən 
 æneɪʌp 
 æŋkɑːdʒəz 
@@ -2280,6 +2280,7 @@ eɪmi
 æntʃoʊvi 
 æŋkəlæn 
 æŋkoʊnə 
+ænd 
 ændə 
 ændəl 
 ændeɪləm 
@@ -2327,6 +2328,7 @@ eɪmi
 ɐnɛməni 
 ænɛt 
 ænfə 
+ænfloʊ 
 æŋ 
 æŋɡɐdɑːnən 
 æŋɡɐlæn 
@@ -2482,6 +2484,8 @@ eɪnʌs
 ɛnɪoʊ 
 ænzə 
 ænʒɚz 
+aʊ 
+ɐpæ 
 ɐpeɪsᵻbəl 
 ɐpæd 
 ɐpɑːɡə 
@@ -2682,6 +2686,7 @@ eɪpɹəpɹɪɑːdoʊ
 ɑːɹkən 
 ɑːɹkoʊz 
 ɑːɹkoʊsə 
+ɑːɹkp 
 ɑːɹktʃɚɹəs 
 ɑːɹkuːtʃi 
 ɑːɹdən 
@@ -2858,8 +2863,8 @@ eɪpɹəpɹɪɑːdoʊ
 ɑːɹtiːʒə 
 ɑːɹɾɛks 
 ɑːɹθɚ 
-ɑːɹθɚz 
 ɑːɹθjʊɹɹoʊ 
+ɑːɹθɚz 
 ɑːɹɾi 
 ɑːɹʃɪɑːɡə 
 ɑːɹɾɪk 
@@ -2886,6 +2891,7 @@ eɪpɹəpɹɪɑːdoʊ
 ɑːɹzædən 
 ɑːɹzəbɪspoʊ 
 æz 
+ɐsæ 
 ɐsædɚɹə 
 ɐseɪdʒz 
 ɐsæk 
@@ -2895,11 +2901,13 @@ eɪzeɪliə
 ɐsæn 
 ɐsɑːnə 
 ɐsænzə 
+ɐsæwæŋ 
 ɐskælən 
 ɐskɐloʊnə 
 ɐskæɹɪoʊ 
 ɐsɛnʃən 
 ɐsɛnʃən 
+ɐsɛnt 
 ɐskoʊli 
 ɐskoʊmoʊ 
 ɐskpiːnoʊz 
@@ -2942,6 +2950,8 @@ eɪʒɪæɾɪk
 ɐsɪstɪoʊ 
 ɐslɔŋ 
 ɐslʌm 
+ɐsmæ 
+ɐsoʊ 
 ɐsɑːɡ 
 ɐsoʊhoʊz 
 ɐsɑːn 
@@ -2987,6 +2997,7 @@ eɪʒɪæɾɪk
 ɐstʃɚɹiəz 
 ɐstɜːɾəz 
 ɐsuːsiːnə 
+ɐsuːdʒən 
 ɐsʌl 
 ɐsuːnə 
 ɐsʌnʃən 
@@ -2995,6 +3006,7 @@ eɪsəs
 ɐsuːziːnə 
 ɐswɪ 
 ɐsɪɑːnə 
+æt 
 ɑːɾə 
 æɾɐbeɪ 
 æɾəl 
@@ -3024,6 +3036,7 @@ eɪtnɪoʊ
 æθlɛɾɪks 
 eɪtiːaɪ 
 æʃənzə 
+æɾɪhæn 
 æɾɪdʒɚɹə 
 ætɪlə 
 æɾɪlɑːnoʊ 
@@ -3052,6 +3065,7 @@ eɪtɹiəm
 ɐtɹiːnt 
 æɾuːɡən 
 æɾuːpæn 
+eɪtiːviː 
 ɔːbɜːn 
 ɔːklənd 
 aʊdi 
@@ -3147,19 +3161,24 @@ eɪvɪɚɹi
 eɪvɑːn 
 ævɹoʊ 
 ævɪlə 
+ɔː 
 ɐwæ 
+ɐwæn 
 ɐwæŋ 
 ɐweɪən 
 æwɪt 
+æwʌn 
 æksɪnaɪt 
 æksɪs 
 ækstɛl 
+aɪ 
 aɪə 
 aɪɑːɡə 
 aɪæɡən 
 aɪɑːlə 
 aɪæm 
 aɪeɪm 
+aɪən 
 aɪaʊ 
 aɪæt 
 aɪ 
@@ -3210,23 +3229,6 @@ biː
 biː ɛf 
 biː ɛm 
 biː θɹiː 
-biːz 
-biːbiːɛl 
-biːsiːdiːoʊ 
-biːsiːkeɪ 
-biːsiːɑːɹ 
-biːsiːdʌbəljuːdiː 
-biːɛf 
-bɜː 
-biːdʒeɪɛmpiː 
-biːɛlɛm 
-biːɛmeɪ 
-biːɛmdʌbəljuː 
-biːɛn 
-biːɛneɪtʃɛs 
-biːɛspiː 
-biːɛsjuː 
-biːviːɑːɹ 
 bɑːk 
 bɑːɡ 
 bɑːn 
@@ -3348,6 +3350,7 @@ bædɑːk
 bædɔɪ 
 bædtæsən 
 bædwɑːŋ 
+biːz 
 biːsə 
 biːʃəŋɡ 
 bæfɪn 
@@ -4284,6 +4287,7 @@ beɪɐmbæŋ
 beɪən 
 beɪɐnækən 
 beɪɐnæɡ 
+beɪɑːnən 
 beɪæŋ 
 beɪɑːni 
 beɪɐnɪhæn 
@@ -4343,6 +4347,11 @@ beɪwɔːk
 beɪwʊd 
 bɑːzə 
 biːbiː 
+biːbiːɛl 
+biːsiːdiːoʊ 
+biːsiːkeɪ 
+biːsiːɑːɹ 
+biːsiːdʌbəljuːdiː 
 biː 
 biːtʃ 
 biːtʃkɹæft 
@@ -4633,6 +4642,7 @@ bɛɾi
 bjuːnmɚ 
 bɛvɚli 
 bɛvɚɹɪl 
+biːɛf 
 bæɡdæd 
 buːtɑːn 
 biə 
@@ -4799,6 +4809,7 @@ bɪnɪeɪən
 baɪoʊ 
 baɪɑːlədʒi 
 baɪoʊtɛk 
+bɜː 
 bɜːtʃ 
 bɜːtʃtɹiː 
 bɜːd 
@@ -4862,6 +4873,7 @@ bɪjɚnz
 bɪjuːlɛɾə 
 bɪzɪt 
 bɪzɑːt 
+biːdʒeɪɛmpiː 
 bleɪsɚ 
 blæk 
 blækbɛɹi 
@@ -4895,6 +4907,7 @@ blɛst
 blɛsɪŋ 
 blɪs 
 blɪzɚd 
+biːɛlɛm 
 blɑːk 
 blɑːk 
 blɑːk θɹiːhʌndɹɪd twɛnti tuː 
@@ -4935,6 +4948,10 @@ blʌʃɪŋ
 bluːɾɪt 
 biːɛlviːdiː 
 blaɪð 
+biːɛmeɪ 
+biːɛmdʌbəljuː 
+biːɛn 
+biːɛneɪtʃɛs 
 boʊ 
 boʊ 
 boʊə 
@@ -5102,6 +5119,7 @@ bɔntɚz
 bɔntʌd 
 bɑːnuːən 
 boʊnəs 
+bʊk 
 buːn 
 bɑːpɚd 
 bɑːkwiːt 
@@ -5373,8 +5391,8 @@ bɹʊkzvɪl
 bɹuːm 
 bɹoʊz 
 bɹoʊsəz 
-bɹʌðɚz 
 bɹʌðɚhʊd 
+bɹʌðɚz 
 bɹaʊɚd 
 bɹaʊɚ 
 bɹaʊn 
@@ -5396,6 +5414,8 @@ bɹuːzweɪlə
 bɹaɪən 
 bɹaɪənt 
 bɹaɪs 
+biːɛspiː 
+biːɛsjuː 
 bjuːækən 
 bjuːækaʊ 
 bjuːædi 
@@ -5730,6 +5750,8 @@ buːjuː
 baɪjuːən 
 baɪaɪʌŋɡən 
 bʌzɚd 
+biːviːɑːɹ 
+baɪ 
 baɪpæs 
 baɪɹɑːn 
 bɪzɐntiːn 
@@ -5738,54 +5760,12 @@ siː
 siː biː 
 siː faɪv 
 kɑː 
-keɪɪk 
-kævaɪtɛks 
-siː ælɪmæɡ 
-siːbiːeɪ 
-siːbiːdiː 
-siːbiːɛmjuː 
-siːbiːɛn 
-siːsɛdɚ 
-siːsiːoʊ 
-siːdiːsiːsiː 
-siːdiːɛmeɪ 
-siːdiːoʊ 
-siːp 
-sɛpzə 
-siːɛfsiː 
-saɪədp 
-sɪkəm 
-sɪɪf 
-sɪs 
-sɪt 
-siːmɑːɹ 
-siːɛmsiː 
-siːɛmviː 
-siːɛnbiː 
-siːpiːdiːɑːɹsiː 
-siːpiːdʒiː 
-siːpiːaɪ 
-siːpɪp 
-siːpiːɛmsiː 
-siːpiːjuː 
-siːɑːɹbiː 
-siːɑːɹsiː 
-siːɑːɹɹɛm 
-siːɑːɹviː 
-siːɛssiː 
-siːɛssiːɑːɹ 
-siːɛspiːsiː 
-siːɛsɑːɹ 
-siːvæk 
-siːviːɑːɹ 
-siːviːɛs 
-siːdʌbəljuːɛl 
-saɪoʊ 
 kɑːlæn 
 kɑːlɪbæŋbæŋɡən 
 kɑːnætən 
 kɑːɹɹɪŋɡeɪən 
 kɑːsi 
+kæb 
 kɑːbə 
 kæbæbaʊ 
 kæbɐbtoʊn 
@@ -6064,6 +6044,7 @@ kæheɪæɡən
 keɪbɑːn 
 keɪbɐlæɡ 
 keɪbɜːɹən 
+keɪɪk 
 keɪdlæŋ 
 keɪdkwɪd 
 keɪɡæŋɡən 
@@ -6235,6 +6216,7 @@ kælɪɡwɪn
 kælɪdʒən 
 kælaɪlɪŋ 
 kælɪm 
+siː ælɪmæɡ 
 kælɪmbəz 
 kælɪmuːɡ 
 kælɪmpʌnən 
@@ -6765,6 +6747,7 @@ kæɹæbaʊ
 kæɹɐbæɾuːən 
 kæɹəbiːz 
 kæɹɑːkəz 
+kæɹɐkʌtʃə 
 kæɹeɪdɪoʊ 
 kæɹeɪl 
 kæɹæɡ 
@@ -7086,7 +7069,6 @@ kæʒuːntɪŋɡən
 kæʒuːɹiːkoʊ 
 kæʒuːi 
 kæt 
-kæts 
 kɑːɾə 
 kæɾɑːɡ 
 kæɾæbən 
@@ -7164,6 +7146,7 @@ kætən
 kæɾɔːɹs 
 kætɹəl 
 kæts 
+kæts 
 kætsaɪ 
 kæɾeɪl 
 kæɾəl 
@@ -7207,6 +7190,7 @@ kævɪnti
 kævɪtən 
 kævaɪt 
 kævaɪtnoʊ 
+kævaɪtɛks 
 kɑːvoʊ 
 kɑːwə 
 kæwɐkæt 
@@ -7238,8 +7222,18 @@ keɪpɑːmboʊ
 keɪsɪoʊ 
 keɪjuːkeɪ 
 keɪjuːmiːɾoʊ 
+siːbiːeɪ 
+siːbiːdiː 
+siːbiːɛmjuː 
+siːbiːɛn 
+siːsɛdɚ 
+siːsiːoʊ 
+siːdiːsiːsiː 
+siːdiːɛmeɪ 
+siːdiːoʊ 
 siː 
 siːn 
+siːp 
 siːstɚ 
 sɛbiːdoʊ 
 sɛbɑːlə 
@@ -7339,6 +7333,7 @@ sɛntʃʊɹɹiən
 sɛntʃɚɹi 
 sɛpəz 
 sɛpɛdə 
+sɛpzə 
 sɛkwiːnə 
 sɜː 
 siəɹə 
@@ -7387,6 +7382,7 @@ sɛz
 sɛzæn 
 sɛziə 
 sɛzeɪn 
+siːɛfsiː 
 siːeɪtʃ 
 tʃɑː 
 tʃæbiːɾə 
@@ -7626,10 +7622,12 @@ tʃɜːtʃ
 tʃjʊɹɹʌkə 
 tʃuːsən 
 tʃuːk 
+saɪədp 
 siɑːnoʊ 
 siːbə 
 sɪkə 
 saɪsɹoʊ 
+sɪkəm 
 sɪd 
 sɪdæd 
 sɪdɑːɹ 
@@ -7640,6 +7638,7 @@ siːloʊ
 ʃənɛɡə 
 saɪəɾoʊ 
 siɛzə 
+sɪɪf 
 sɪlɐkæp 
 sɪlæntɹoʊ 
 sɪmən 
@@ -7671,8 +7670,10 @@ sɪɹaɪnɪoʊ
 sɜːmə 
 sɜːmɔnt 
 sɜːweɪlə 
+sɪs 
 sɪsni 
 sɪstɪkoʊlə 
+sɪt 
 siːɾə 
 sɪɾədɛl 
 saɪteɪʃən 
@@ -7795,6 +7796,10 @@ klʌbhaʊs
 klʌstɚ 
 klaɪd 
 klaɪmiːn 
+siːmɑːɹ 
+siːɛmsiː 
+siːɛmviː 
+siːɛnbiː 
 koʊ 
 koʊl 
 koʊlhɜːst 
@@ -7846,6 +7851,7 @@ kɔɪmbɹə
 kəwɑːŋɡkoʊ 
 kɑːl 
 kɑːl 
+koʊlə 
 kəleɪɡoʊ 
 kɑːlɐmbjuːɡən 
 kəlɑːsi 
@@ -8266,6 +8272,12 @@ kaʊslɪp
 kɑːkskoʊm 
 kɔɪɐkɔɪ 
 kɔɪoʊkə 
+siːpiːdiːɑːɹsiː 
+siːpiːdʒiː 
+siːpiːaɪ 
+siːpɪp 
+siːpiːɛmsiː 
+siːpiːjuː 
 kɹækaʊ 
 kɹæft 
 kɹæftən 
@@ -8279,6 +8291,8 @@ kɹeɪnz
 kɹænfɚd 
 kɹeɪɾɚ 
 kɹɔːfɚd 
+siːɑːɹbiː 
+siːɑːɹsiː 
 kɹiːm 
 kɹiːeɪtɪvᵻɾi 
 kɹiːk 
@@ -8344,6 +8358,7 @@ kɹɪstoʊ
 kɹɪstoʊbə 
 kɹɪstɑːbəl 
 kɹɪstəfoːɹoʊ 
+siːɑːɹɹɛm 
 kɹoʊeɪʃə 
 kɹoʊkəs 
 kɹoʊsəs 
@@ -8384,8 +8399,13 @@ kɹuːz
 kɹuːzɑːdə 
 kɹuːzɑːdoʊ 
 kɹuːzɪɹoʊ 
+siːɑːɹviː 
 kɹɪstəl 
 kɹɪstɐlaɪn 
+siːɛssiː 
+siːɛssiːɑːɹ 
+siːɛspiːsiː 
+siːɛsɑːɹ 
 siːtiː 
 siːtiː 
 kuː 
@@ -8521,6 +8541,10 @@ kaɪɑːpoʊ
 kaɪɪɡkɛŋ 
 kuːjoʊ 
 kaɪjuːɡən 
+siːvæk 
+siːviːɑːɹ 
+siːviːɛs 
+siːdʌbəljuːɛl 
 saɪæn 
 saɪɐnaɪt 
 saɪbɚvɪl 
@@ -8531,6 +8555,7 @@ saɪklɪŋ
 sɪɡni 
 sɪmbɪdiəm 
 sɪnθiə 
+saɪoʊ 
 saɪpɹəs 
 saɪpɹəswʊd 
 saɪpɹəs 
@@ -8543,41 +8568,8 @@ zɑːɹɹiːnə
 tʃɛk 
 tʃɛkəsləvækiə 
 diː 
-dəloʊtɪlə 
 diː 
 diː viː ɛs 
-deɪpkɑːl 
-dɑːɹbsaɪ 
-diːbiːpiː 
-diːsiːɛneɪtʃɛs 
-diːsiːɛs 
-diːsiːdʌbəljuː 
-dɛnɚ 
-diːeɪtʃ 
-diːeɪtʃviːtsuː 
-daɪ 
-dɪfs 
-diːdʒeɪpiːɛmɛm 
-diːɛlɑːɹ 
-diːɛm 
-diːɛmbiː 
-diːɛmsiː 
-diːmiə 
-diːnæs 
-diːɛndiː 
-diːɛniː 
-diːpiːeɪtʃpiː 
-diːpiːɛs 
-diːpiːdʌbəljuːeɪtʃ 
-diːɑːɹsiː 
-diːɑːɹɹeɪtʃ 
-diːɑːɹtiː 
-diːɛs 
-diːtiːaɪ 
-diːviːtiːɛs 
-dɪl 
-diːziːɛmtiː 
-diːziːɑːɹ 
 dɑː 
 dɑːn 
 dɑːnən 
@@ -8626,6 +8618,7 @@ dæɡɑːmi
 dæɡæŋ 
 dæɡɑːni 
 dæɡæt 
+dæɡætən 
 dæɡɚ 
 dæɡhɔɪ 
 deɪɡoʊ 
@@ -8838,6 +8831,7 @@ dɑːpə
 dæpæwən 
 dæpdæp 
 deɪp 
+deɪpkɑːl 
 dæfni 
 dæpɪt 
 dæpɪtən 
@@ -8858,6 +8852,7 @@ dæɹəeɪ
 dæɹæwi 
 dæɹeɪeɪsən 
 dæɹeɪʌnən 
+dɑːɹbsaɪ 
 dɛɹ 
 dɚɹɛlə 
 dɑːɹɡəvɪl 
@@ -8956,6 +8951,10 @@ deɪtən
 deɪtoʊnə 
 deɪjuːpɑːt 
 dɑːzoʊ 
+diːbiːpiː 
+diːsiːɛneɪtʃɛs 
+diːsiːɛs 
+diːsiːdʌbəljuː 
 də 
 dɛd 
 diːn 
@@ -9036,6 +9035,7 @@ dᵻlɪmə
 dᵻliːnə 
 dᵻlɪzɪoʊsoʊ 
 dɛl 
+dɛlɐmoːɹ 
 dɛl 
 dɛlmɚ 
 dᵻlɑːnɪks 
@@ -9090,6 +9090,7 @@ dɛnɚɹi
 dɛnɪs 
 dᵻnoːɹɑːdoʊ 
 dɛnpɐsɑːɹ 
+dɛnɚ 
 dɛntɪst 
 dᵻnjuːz 
 dᵻnʌstə 
@@ -9152,12 +9153,15 @@ dɛkstɛɹᵻɾi
 dɛkstɚvɪl 
 deɪtɪkɛz 
 dɛzə 
+diːeɪtʃ 
 dɑːbi 
 dɑːkə 
 deɪliə 
 diːhɑːɹ 
 dɔːlɐdʒiəɹi 
+diːeɪtʃviːtsuː 
 diːeɪtʃwaɪ 
+daɪ 
 daɪə 
 daɪəæt 
 daɪəbæloʊ 
@@ -9214,6 +9218,7 @@ diːzəl
 diːstɹoʊ 
 diːz 
 diːzmoʊ 
+dɪfs 
 dɪfʌn 
 dɪɡɐhɑːŋɡən 
 dɪɡdɪɡ 
@@ -9392,7 +9397,17 @@ dɪwɑːɾə
 dɪksən 
 daɪzɑːn 
 dɪzɚ 
+diːdʒeɪpiːɛmɛm 
 diːlænæɡ 
+dəloʊtɪlə 
+diːɛlɑːɹ 
+diːɛm 
+diːɛmbiː 
+diːɛmsiː 
+diːmiə 
+diːnæs 
+diːɛndiː 
+diːɛniː 
 dɑːbdɑːb 
 dɑːbəl 
 dɑːbəlstən 
@@ -9457,6 +9472,7 @@ dɑːməklɔŋ
 doʊməs 
 dɑːn 
 doʊnə 
+doʊnjə 
 dəneɪʃə 
 dənɑːdə 
 dɑːnɐfiːld 
@@ -9529,7 +9545,9 @@ daʊnɪŋ
 daʊntaʊn 
 dɔɪlztaʊn 
 dɔɪɑːŋ 
-doʊnjə 
+diːpiːeɪtʃpiː 
+diːpiːɛs 
+diːpiːdʌbəljuːeɪtʃ 
 dɹækiːnə 
 dɹeɪsnə 
 dɹætʃmə 
@@ -9541,12 +9559,14 @@ dɹæɡənjə
 dɹeɪk 
 dɹækɑːɹ 
 dɹækən 
+diːɑːɹsiː 
 dɹiːm 
 dɹiːmlənd 
 dɹɛz 
 dɹɛzdən 
 dɹɛksəl 
 dɹeɪfəs 
+diːɑːɹɹeɪtʃ 
 dɹaɪdʒ 
 dɹɪlɑːn 
 dɹɪmɪtɪvoʊ 
@@ -9555,8 +9575,11 @@ dɹaɪv
 dɹaɪvweɪ 
 dɹaɪvɪŋ 
 dɹɑːp 
+diːɑːɹtiː 
 dɹʌɹi 
 dɹaɪsdeɪl 
+diːɛs 
+diːtiːaɪ 
 duː 
 duːə 
 duːeɪl 
@@ -9688,6 +9711,7 @@ duːjən
 daɪɑːk 
 daɪəm 
 daɪʌŋɡən 
+diːviːtiːɛs 
 dwɔːɹf 
 dwɛl 
 dwaɪt 
@@ -9697,24 +9721,16 @@ daɪkoʊ
 daɪɚ 
 daɪɚz 
 daɪk 
+dɪl 
 dɪlən 
 daɪnɐmɪzəm 
 daɪnɐmoʊ 
 daɪnɐsti 
 daɪoʊz 
+diːziːɛmtiː 
+diːziːɑːɹ 
 iː 
 iː 
-ɛkb 
-ɛdsə 
-iː 
-ɛm 
-ɛmk 
-ɛmsaɪ 
-ɛm 
-ɛŋk 
-ɛpzə 
-iː pɑːɹk 
-iːz 
 iːɡəl 
 iːɡəlz 
 iːlə 
@@ -9756,6 +9772,7 @@ iːboʊ
 ɛbɹɪoʊ 
 ɛbɹoʊ 
 ɛkə 
+ɛkb 
 ᵻkliːzɪiː 
 ᵻkliːzɪæsts 
 ɛkoʊ 
@@ -9815,6 +9832,7 @@ iːdən
 ɛdɹɐlɪn 
 ɛdɹoʊz 
 ɛdɹoʊt 
+ɛdsə 
 ɛdsəl 
 ɛduːɑːɹd 
 ɛdwɑːɹdoʊ 
@@ -9827,6 +9845,7 @@ iːdən
 ɛdwɚdz 
 ɛdwɪn 
 ɛdwiːnə 
+iː 
 ɪfɪʃəns 
 ɪfɪʃənsi 
 ɛfi 
@@ -9978,7 +9997,9 @@ eɪliːzeɪ
 ɛmbɚ 
 ɛmbjuːiːdoʊ 
 ɛmbəskɑːdoʊ 
+ɛmk 
 ɛmkoʊ 
+ɛmsaɪ 
 ɪmɪlɪndə 
 ɪmɛlvɪk 
 ɛmɚɹəld 
@@ -10004,10 +10025,13 @@ eɪliːzeɪ
 ɛmpɚɹɚ 
 ɛmpaɪɚ 
 ɛmpɹɛs 
+ɛm 
+ɛm 
 ɛnɪdʒ 
 ɪnæm 
 ɪnæmoʊ 
 ɛnɑːɹzoʊ 
+ɛŋk 
 ɛŋk 
 ɛŋkɐlɪptoʊ 
 ɛŋkæntɚ 
@@ -10022,6 +10046,7 @@ eɪliːzeɪ
 ɛnsiːnoʊ 
 ɛnsiəɹoʊ 
 ɛŋklaɪəntɛɹoʊ 
+ɛnd 
 ɛndeɪə 
 ɛndɛnʃə 
 ɛndɚz 
@@ -10073,6 +10098,7 @@ iːnoʊz
 ɛnvoʊ 
 ɛnzoʊ 
 iːɑːn 
+iː pɑːɹk 
 ɛpdə 
 ɛfiːdɹə 
 ɛfiːʒənz 
@@ -10083,6 +10109,7 @@ iːɑːn
 ɛpɪfænɪoʊ 
 ɛpsɪlɑːn 
 ɛpsəm 
+ɛpzə 
 iːkwədoːɹ 
 iːkwɔldaʊ 
 iːkwɔlᵻɾi 
@@ -10092,9 +10119,9 @@ iːkwɪdæd
 ɛkwɪɾəbəl 
 iəɹə 
 ɪɹɑːnoʊ 
+ɪɹɑːnjoʊ 
 ɪɹæstəs 
 ɪɹɑːɾoʊ 
-ɪɹɑːnjoʊ 
 ɜːbə 
 ɜːsɪlə 
 ɪɹiːʃə 
@@ -10127,6 +10154,7 @@ iəɹɑːs
 ɛɹoʊ 
 ɪɹʌm 
 ɜːzə 
+iːz 
 ɛsɑːboʊ 
 ɛsɐkɐloʊniə 
 ɛsɑːɡə 
@@ -10388,14 +10416,6 @@ aɪmɑːɹd
 ɛf 
 ɛf 
 fæb 
-ɛfbiːsiː 
-ɛfɛfeɪtʃnæs 
-ɛfdʒiːɑːɹ 
-fiːmkoʊ 
-ɛfɛmɑːɹ 
-ɛfɑːɹ 
-ɛftiːaɪ 
-ɛfviːɑːɹ 
 feɪbɛlə 
 fæbiə 
 fæbiən 
@@ -10551,6 +10571,7 @@ fæksmən
 feɪ 
 feɪ 
 feɪloʊnə 
+ɛfbiːsiː 
 fiː 
 fɛðɜːstən 
 fiːɾi 
@@ -10669,6 +10690,8 @@ fiːɾɐliːnoʊ
 fiːɾɐlvɛɹoʊ 
 fɛt 
 fiːvɚfjuː 
+ɛfɛfeɪtʃnæs 
+ɛfdʒiːɑːɹ 
 fiːət 
 faɪbɚ 
 faɪkəs 
@@ -10687,6 +10710,7 @@ fiːldlili
 fiːldz 
 fiːldspɑːɹ 
 fiːldstoʊn 
+fiːmkoʊ 
 fɪɹoʊ 
 fɪɹoʊ 
 fiːɛstə 
@@ -10859,6 +10883,7 @@ fluːt
 flaɪ 
 flaɪkætʃɚ 
 flaɪoʊvɚ 
+ɛfɛmɑːɹ 
 foʊm 
 fɑːdəl 
 fɑːɡ 
@@ -10966,6 +10991,7 @@ fɑːkshoʊl
 fɑːksteɪl 
 fɑːkstɹɑːt 
 ɛfɑːɹ 
+ɛfɑːɹ 
 fɹɑːɡə 
 fɹæmɪŋæm 
 fɹæməl 
@@ -11046,6 +11072,7 @@ fɹʌktʃuːoʊsoʊ
 fɹuːt 
 fɹuːtkeɪk 
 fɹuːɾoʊ 
+ɛftiːaɪ 
 fʌtʃɛlə 
 fjuːʃə 
 fʌkɚ 
@@ -11088,17 +11115,11 @@ fʌʃiə
 fjuːʒən 
 fjuːtuːnə 
 fjuːtʃɚ 
+ɛfviːɑːɹ 
 dʒiː 
 dʒiː 
 dʒiː 
 dʒiː siː 
-dʒiːeɪtʃkjuː 
-dʒiːkeɪ 
-dʒiːɛmeɪ 
-dʒiːɛn 
-dʒiːpiː 
-dʒiːɛssiː 
-dʒiːsɪs 
 ɡɑːbjuːkeɪən 
 ɡɑːnən 
 ɡɑːŋ 
@@ -11392,8 +11413,10 @@ dʒiːsɪs
 ɡæviːnoʊ 
 ɡævaɪələ 
 ɡævaɪɑːɾə 
+ɡɑːwə 
 ɡæwɑːd 
 ɡæwɔːɹən 
+ɡeɪə 
 ɡeɪɑːɡə 
 ɡeɪæmən 
 ɡeɪəndɑːɾoʊ 
@@ -11513,6 +11536,7 @@ dʒɛsuː
 ɡɑːnə 
 ɡɪfɑːɹɹi 
 ɡoʊst 
+dʒiːeɪtʃkjuː 
 dʒɐkoʊmoʊ 
 dʒaɪəloʊ 
 dʒiɑːnən 
@@ -11601,6 +11625,7 @@ dʒɪsɑːk
 ɡɪtnə 
 ɡɪtnæŋ 
 ɡɪvɛntʃi 
+dʒiːkeɪ 
 ɡleɪʃiənoʊ 
 ɡleɪʃɚ 
 ɡleɪd 
@@ -11650,6 +11675,8 @@ dʒɪsɑːk
 ɡloʊ 
 ɡloʊdɛl 
 ɡlɑːksɪniə 
+dʒiːɛmeɪ 
+dʒiːɛn 
 ɡoʊ 
 ɡoʊə 
 ɡoʊbɚnædoːɹ 
@@ -11768,6 +11795,7 @@ dʒɪsɑːk
 ɡɑːzɑːɹ 
 ɡoʊzoʊ 
 ɡɑːzəm 
+dʒiːpiː 
 ɡɹæbɪlɪænaɪt 
 ɡɹeɪs 
 ɡɹeɪsfəl 
@@ -11923,6 +11951,8 @@ dʒɪsɑːk
 ɡɹʌnaʊ 
 ɡɹuːpoʊ 
 ɡɹʌsp 
+dʒiːɛssiː 
+dʒiːsɪs 
 dʒiːstɑːd 
 ɡwɑːdə 
 ɡwɑːdɐlɐhɑːɹɹə 
@@ -12180,16 +12210,13 @@ dʒɪm
 dʒaɪɹoʊ 
 eɪtʃ 
 eɪtʃ 
-hoʊə 
-eɪtʃpiːeɪ 
-eɪtʃkjuː 
-eɪtʃɑːɹsiː 
 hɑːbə 
 hæbɐɡæt 
 hæbeɪ 
 heɪbnɛɹiə 
 hæbɪtæt 
 hæbiːɾoʊ 
+hæblə 
 hæbɹə 
 hækbæŋ 
 hætʃaɪ 
@@ -12664,6 +12691,7 @@ hɪweɪ
 haɪɐz 
 haɪɐz vɪl 
 haɪzɑːn 
+hoʊə 
 hoʊtsɪn 
 hoʊbɑːɹt 
 hɑːbɑːŋ 
@@ -12795,6 +12823,9 @@ haʊlaɪt
 haʊmɑːɹt 
 haʊθoːɹn 
 hɔɪ 
+eɪtʃpiːeɪ 
+eɪtʃkjuː 
+eɪtʃɑːɹsiː 
 hjuːæ 
 hjuːɑːpəz 
 hjuːbæk 
@@ -12881,17 +12912,6 @@ hɪstaɪɚsiz
 hʌndeɪ 
 aɪ 
 aɪ 
-ɪbk 
-ɪbp 
-aɪkæɡ 
-ɪɡk 
-ɹoʊmən tuː 
-ɹoʊmən θɹiː 
-ɪpb 
-aɪɑːɹsiː 
-ɪskɑːf 
-ɪtk 
-ɹoʊmən foːɹ 
 iːən 
 iːbə 
 aɪbɑː 
@@ -12919,17 +12939,21 @@ aɪbeɪ
 aɪbeɪə 
 aɪbeɪoʊ 
 aɪbeɪɑːŋ 
+ɪbk 
 aɪbɚɹə 
 aɪbɚɹɪkoʊ 
 aɪbiə 
 aɪbiən 
+aɪbɪɡ 
 aɪbɪs 
 aɪbɪzə 
 ɪbən 
 aɪbɑːŋ 
+ɪbp 
 ɪbsən 
 aɪbʌl 
 aɪbuːnə 
+aɪkæɡ 
 aɪkən 
 aɪkæŋ 
 aɪkɑːɹbæŋ 
@@ -12964,6 +12988,7 @@ aɪdoʊɡən
 ɪɡbɑːɹɹəz 
 ɪɡkɐweɪən 
 ɪɡkɐweɪən 
+ɪɡk 
 ɪɡkɑːkəloʊ 
 ɪɡdɐlɪɡ 
 ɪɡi 
@@ -12988,10 +13013,13 @@ aɪɡoːɹɑːt
 ɪɡjʊlɑːt 
 aɪhɐtʌb 
 aɪhæwən 
+ɹoʊmən tuː 
+ɹoʊmən θɹiː 
 ɪɪɹɔŋ 
 ɪkə 
 ɪkɐdʒuːhə 
 ɪkɐlɪmə 
+ɪkən 
 ɪkɐpiːɾoʊ 
 ɪkɐseɪoʊ 
 ɪkætʃəloʊ 
@@ -13141,6 +13169,7 @@ aɪɛmoʊ
 ɪnfɑːɹmkoʊ 
 ɪnfɪniːɾi 
 ɪnfɹɛz 
+ɪŋ 
 ɪŋɡælɐɡɑːlə 
 ɪŋɡeɪ 
 ɪŋɡkoʊ 
@@ -13229,6 +13258,7 @@ aɪəwə
 ɪpɐhæn 
 ɪpɐniːmə 
 ɪpɑːpoʊ 
+ɪpb 
 ɪpəl 
 ɪpɪlæn 
 ɪpni 
@@ -13247,6 +13277,7 @@ iəɹəz
 ɪɹaʊ 
 ɪɹæwən 
 ɪɹeɪə 
+aɪɑːɹsiː 
 aɪɚlənd 
 aɪɚniːəs 
 aɪɹiːn 
@@ -13276,6 +13307,8 @@ aɪɚnwʊd
 ɜːvɪŋ 
 ɜːwɪn 
 ɜːwɪndeɪl 
+ɪz 
+ɪsə 
 aɪsək 
 ɪzəbɛl 
 ɪzəbɛlə 
@@ -13289,6 +13322,7 @@ aɪzeɪə
 ɪsɐkɑːjə 
 ɪsɐɹɑːɡ 
 ɪsɔːb 
+ɪskɑːf 
 ɪʃmeɪl 
 aɪzaɪə 
 ɪʒən 
@@ -13327,6 +13361,7 @@ aɪsoːɹnə
 ɪsuːlæn 
 ɪsuːmɑːd 
 ɪsuːzuː 
+ɪt 
 ɪteɪbɪæk 
 ɪɾɐlæn 
 ɪtæliə 
@@ -13336,6 +13371,7 @@ aɪsoːɹnə
 ɪɾæskə 
 ɪtbeɪæt 
 ɪtbʌd 
+ɪtk 
 ɪθəkə 
 ɪtɪnoʊnən 
 aɪɾɪs 
@@ -13345,6 +13381,7 @@ aɪɾɑːk
 aɪɾəmæŋ 
 ɪtsoːɹɑːnəl 
 aɪɾəm 
+ɹoʊmən foːɹ 
 aɪvən 
 aɪvɑːnə 
 aɪvænə 
@@ -13353,11 +13390,14 @@ aɪvænə
 aɪvɚɹi 
 ɪvz 
 aɪvi 
+ɪw 
 ɪwɐhɪɡ 
+ɪwən 
 ɪjæm 
 ɪjɑːŋ 
 ɪjɑːnoʊ 
 ɪjɐntuːkən 
+ɪjaʊ 
 ɪjæsən 
 ɪjɑːɡ 
 ɪzmɑːɹt 
@@ -13367,12 +13407,6 @@ dʒeɪ
 dʒeɪ 
 dʒeɪ diː eɪ 
 dʒeɪ piː 
-dʒæs 
-dʒeɪsiːɛl 
-dʒeɪsiːɛmsiː 
-dʒeɪkeɪɛm 
-dʒeɪɛleɪ 
-dʒeɪpiːeɪ 
 dʒæbɔːldə 
 dʒæbɑːɹ 
 dʒeɪbaʊ 
@@ -13497,6 +13531,7 @@ dʒæɹoʊ
 dʒæɹoʊn 
 dʒæɹə 
 dʒɑːɹvɪs 
+dʒæs 
 dʒæsɑːn 
 dʒæski 
 dʒæzmɪn 
@@ -13528,6 +13563,8 @@ dʒeɪm
 dʒeɪz 
 dʒeɪsən 
 dʒæzmɪn 
+dʒeɪsiːɛl 
+dʒeɪsiːɛmsiː 
 dʒiːn 
 dʒiːn 
 dʒiːnz 
@@ -13545,8 +13582,8 @@ dʒɛmjuːl
 dʒɛnɛs 
 dʒɛŋkɪnz 
 dʒɛnɪfɚ 
-dʒɛniz 
 dʒɛnɪz 
+dʒɛniz 
 dʒɛnɹə 
 dʒɛnsən 
 dʒɪoːɹdʒ 
@@ -13601,6 +13638,8 @@ dʒɪntɑːɾəloʊ
 dʒɪpɐpæd 
 dʒaɪɚ 
 dʒɪsən 
+dʒeɪkeɪɛm 
+dʒeɪɛleɪ 
 dʒoʊ 
 dʒoʊn 
 dʒoʊnə 
@@ -13696,6 +13735,7 @@ dʒɔɪə
 dʒɔɪs 
 dʒɔɪfəl 
 dʒɔɪvɪl 
+dʒeɪpiːeɪ 
 hwɑːn 
 hwɑːnə 
 hwɑːntʃoʊ 
@@ -13801,10 +13841,6 @@ dʒuːvɪk
 dʒuːvɪlə 
 keɪ 
 keɪ 
-keɪsiː 
-keɪkeɪkeɪ 
-keɪɛlɛm 
-keɪ vɪl 
 kɑː 
 kɑːɡɐpeɪ 
 kɑːlæmən 
@@ -14312,6 +14348,7 @@ keɪɾɪklɪŋ
 keɪɾaɪtɪŋɡə 
 keɪjuːbə 
 keɪjuːmæŋɡi 
+keɪsiː 
 kiː 
 kiːnə 
 kɛbɑːɹdɪn 
@@ -14455,7 +14492,6 @@ kaɪndnəs
 kaɪndsmɪl 
 kaɪntə 
 kɪŋ 
-kɪŋz 
 kɪŋbɜːd 
 kɪŋbɹɪdʒ 
 kɪŋkʌp 
@@ -14465,6 +14501,7 @@ kɪŋfɪʃɚ
 kɪŋkɪŋ 
 kɪŋɡlɪt 
 kɪŋpɪn 
+kɪŋz 
 kɪŋz 
 kɪŋzbɜːɡ 
 kɪŋʃɪp 
@@ -14522,11 +14559,13 @@ kɪwɑːniz
 kiːwiː 
 kɪwɪt 
 kɪjɐnæd 
+keɪkeɪkeɪ 
 klæwɪt 
 kliː 
 klaɪn 
 klɪəpɑːtɹə 
 klɪnən 
+keɪɛlɛm 
 klɑːndaɪk 
 niːdlɚ 
 naɪt 
@@ -14656,6 +14695,7 @@ kʌtkʌt
 kʌtseɪ 
 kuːweɪt 
 kuːjə 
+keɪ vɪl 
 kwɛk 
 kwɛksɪt 
 kwʌŋɡ 
@@ -14663,18 +14703,10 @@ kwʌntɑːŋ
 kaɪoʊɾoʊ 
 ɛl 
 ɛl 
-ɛlbiːkeɪ 
-ɛlsiːsiː 
-ɛldʒiːɑːɹ 
-lɪɪp 
-ɛlpiːɛl 
-ɛlɑːɹtiː 
-ɛltiːdiːaɪ 
-ɛlviː 
-ɛldʌbəljuːsiːpiː 
 læ 
 lɑːb 
 lɑːk 
+lɑːn 
 læbɑːn 
 læbæk 
 læbædən 
@@ -14840,6 +14872,7 @@ lædʒæb
 lædʒɑːɡ 
 lædʒəm 
 lædʒɔɪə 
+lɑːkə 
 lækɐmbiːni 
 lækɐndɪli 
 lækɐndʒuːlə 
@@ -14977,6 +15010,7 @@ læŋkɑːn
 læŋkæŋɡən 
 læŋkoʊ 
 lændʒɛb 
+lændʒɛbən 
 læŋɡə 
 læŋɡæm 
 læŋɡæŋ 
@@ -15230,6 +15264,8 @@ læzi
 læzjʊlaɪ 
 læzuːnə 
 læzjʊɹɹɪt 
+ɛlbiːkeɪ 
+ɛlsiːsiː 
 lə 
 liː 
 liːd 
@@ -15401,6 +15437,7 @@ leɪnz
 leɪt 
 leɪvə 
 liːzoʊ 
+ɛldʒiːɑːɹ 
 lɑːsə 
 laɪək 
 laɪəmsən 
@@ -15507,6 +15544,7 @@ liːɡ
 lɪɡjɚ 
 lɪɡjʊɹɹiəz 
 lɪɡwʌn 
+lɪɪp 
 liːkə 
 lɪkə 
 lɪkɑːd 
@@ -15604,6 +15642,7 @@ laɪn
 lɪniə 
 laɪndə 
 lɪnɪn 
+lɪŋ 
 lɪŋɡə 
 lɪŋɡən 
 lɪŋɡaʊ 
@@ -15727,6 +15766,7 @@ lævæk
 lævæk 
 leɪv 
 lɛdə 
+ɛlɛlfɑːnsoʊ 
 laɪdoʊ 
 ɛlɬænɛz 
 lɑːn 
@@ -15904,6 +15944,9 @@ lɔɪoʊsə
 ləzɑːdə 
 lɑːzeɪnz 
 ləzɑːnoʊ 
+ɛlpiːɛl 
+ɛlɑːɹtiː 
+ɛltiːdiːaɪ 
 luːəl 
 luːɐlhɑːɾi 
 luːændə 
@@ -16094,6 +16137,8 @@ luːzɑːn
 luːzɚɹɪɑːɡə 
 lʌzvɪl 
 lʌzvɪmɪndə 
+ɛlviː 
+ɛldʌbəljuːsiːpiː 
 liːtʃiː 
 liːtʃiːz 
 lɪdiə 
@@ -16114,39 +16159,7 @@ lɪstɹə
 lɪʔn̩ 
 laɪzə 
 ɛm 
-ɛmlæŋ 
 ɛm 
-ɛmbiː 
-ɛmbiːpiː 
-ɛmsiːbiː wʌn 
-məkɛks 
-ɛmsiːɛks 
-ɛmdiːsiː 
-mɛpz 
-ɛmdʒiːɛm 
-mɪkt 
-mɪs 
-ɛmaɪtiː 
-ɛmdʒeɪsiː 
-ɛmdʒeɪɛs 
-ɛmɛm 
-ɛmɛmɑːɹ 
-ɛmɛmdʌbəljuː 
-ɛmɛnɑːɹ 
-moʊə 
-ɛmɑːɹsiː 
-ɛmɑːɹɹɛf 
-ɛmɑːɹɹɑːɹ 
-ɛmɑːɹtiː 
-ɛmɛsɑːɹ 
-ɛmɛsjuː 
-ɛmtiːviː 
-mʌk 
-ɛmviː 
-ɛmviːsiː 
-ɛmviːpiː 
-ɛmdʌbəljuːsiːɑːɹ 
-ɛmdʌbəljuːɛsɛs 
 mɑː 
 mɑː 
 mææɐsæhæn 
@@ -16240,8 +16253,6 @@ mæbjʊlaʊ
 mæbjʊloʊ 
 mæbʌŋɡə 
 mæbjuːɾi 
-mæk ɑːɹθɚ 
-mæk mɪlən 
 mɑːkə 
 mækɑːz 
 mækɐbæbæd 
@@ -16294,6 +16305,7 @@ mækɐɹeɪɡ
 mækɛɹiə 
 mækæɹɪoʊ 
 mækɐɹuːnz 
+mæk ɑːɹθɚ 
 mækɐsiːt 
 mækɑːsoʊ 
 mækɐsɔɪ 
@@ -16331,6 +16343,7 @@ məklæŋ
 məkliədz 
 məklɑːb 
 məklɑːs 
+mæk mɪlən 
 mæknɪt 
 mɑːkoʊ 
 mækoʊpə 
@@ -16586,6 +16599,7 @@ meɪɡpə
 meɪhɔː 
 meɪkhaʊ 
 meɪki 
+meɪl 
 meɪlæɡ 
 meɪmpiz 
 meɪmpɑːk 
@@ -17564,7 +17578,6 @@ mɑːɹvɪl
 mɑːɹwʊd 
 mɑːɹks 
 mɛɹi 
-mɛɹiz 
 mɛɹɪbɜːst 
 mɛɹɪkɹɛst 
 mɛɹɪɡoʊld 
@@ -17575,6 +17588,7 @@ mɛɹɪlænd
 mɛɹɪlɚ 
 mɛɹɪmaʊnt 
 mɛɹaɪnɛl 
+mɛɹiz 
 mɛɹiz 
 mɛɹitaʊn 
 mɑːɹz 
@@ -17907,8 +17921,11 @@ mæzɐɡɑːɹɹə
 mæzdə 
 meɪznɑːd 
 mæziːni 
+ɛmbiː 
+ɛmbiːpiː 
 ɛmsiː 
 mək ɑːɹθɚ 
+ɛmsiːbiː wʌn 
 mə kæɹən 
 mə kɑːɹtni 
 mə kɑːlʌf 
@@ -17916,6 +17933,7 @@ mək dɪvɪt
 mək dɑːnəld 
 mək dɑːnəl 
 mək dɑːnʌf 
+məkɛks 
 mə ɡɪl 
 mə ɡɹɛɡɚ 
 mə ɡɹuː 
@@ -17928,6 +17946,9 @@ mək laʊd
 mək nʌt 
 mək viːn 
 mək wɛst 
+ɛmsiːɛks 
+ɛmdiːsiː 
+miː 
 miː 
 mɛdoʊ 
 mɛdoʊleɪn 
@@ -18001,8 +18022,8 @@ mɛleɪniə
 mɛləni 
 mɛlænɪoʊ 
 mɛlɑːnoʊ 
-mɛlæntɪk 
 mɛlɑːnjoʊ 
+mɛlæntɪk 
 mɛlbə 
 mɛlbɚn 
 mɛlkɪɹə 
@@ -18075,6 +18096,8 @@ mɛntoːɹ
 mɛnjuː 
 mɛnzi 
 mɛnzɪlænd 
+mɛpz 
+mɜː 
 məɹælkoʊ 
 məɹɑːnoʊ 
 mɜːkædəl 
@@ -18154,6 +18177,8 @@ meɪɚz
 meɪlænd 
 meɪwʊdz 
 mɛzkəl 
+ɛmdʒiːeɪ 
+ɛmdʒiːɛm 
 ɛmheɪlz 
 maɪ 
 miə 
@@ -18179,6 +18204,7 @@ maɪkɹoʊ
 maɪkɹoʊfæɹæd 
 maɪkɹoʊniːʒə 
 maɪkɹəsɑːft 
+mɪkt 
 mɪkuː 
 mɪkaɪjuːɡən 
 mɪd 
@@ -18350,6 +18376,7 @@ mɪɹiəm
 mɜːloʊ 
 mɜːɹiəm 
 mɪɹɚ 
+mɪs 
 mɪseɪ 
 mɪseɪl 
 mɪsæɡəl 
@@ -18373,6 +18400,7 @@ mɪstɪkə
 mɪstiːk 
 mɪsəltoʊ 
 mɪsti 
+ɛmaɪtiː 
 mɪɾeɪ 
 mɪtʃəl 
 mɪtʃɛl 
@@ -18386,8 +18414,16 @@ mɪjæpiz
 mɪjɚkoʊlz 
 mɪjɚkjuːlz 
 mɪjɑːŋ 
+ɛmdʒeɪsiː 
+ɛmdʒeɪɛs 
 ɛmlælʌŋɡən 
 ɛmlæŋ 
+ɛmlæŋ 
+ɛmɛm 
+ɛmɛmɑːɹ 
+ɛmɛmdʌbəljuː 
+ɛmɛnɑːɹ 
+moʊə 
 moʊlboʊl 
 moʊlɔŋ 
 moʊnə 
@@ -18693,10 +18729,18 @@ mɔɪ
 mɑːzɑːɹ 
 moʊtsɑːɹt 
 mɪstɚ 
+ɛmɑːɹsiː 
+ɛmɑːɹɹɛf 
+ɛmɑːɹɹɑːɹ 
 mɪsɪz 
+ɛmɑːɹtiː 
 ɛmɛs 
+ɛmɛsɑːɹ 
+ɛmɛsjuː 
+ɛmtiːviː 
 mjuːæ 
 mjuːɐlbjuːəl 
+mʌk 
 mʌtʃə 
 mjuːdɪn 
 mjuːdə 
@@ -18784,7 +18828,12 @@ maɪɑːɹɡəz
 muːjəz 
 maɪkoʊ 
 mjuːzɑːn 
+ɛmviː 
+ɛmviːsiː 
+ɛmviːpiː 
 ɛmwɑːn 
+ɛmdʌbəljuːsiːɑːɹ 
+ɛmdʌbəljuːɛsɛs 
 maɪ 
 maɪɚ 
 maɪkəniː 
@@ -18799,39 +18848,7 @@ mɪstɪkəl
 ɛn 
 ɛn 
 ɛn ɛs ɛm ɛs 
-neɪə 
-nælkoʊ 
-næmɹiə 
-næɹɪk 
-næsɐ 
-ɛnbiːeɪ 
-ɛnbiːaɪ 
-ɛnsiːsiː 
-ɛnsiːsiːsiː 
-ɛnsiːɛm 
-ɛnsiːɑːɹ 
-ɛnsiːɛstiː 
-ɛndiːɛl 
-niː 
-ɛnɛfeɪ 
-ɛndʒiː 
-ɛndʒiːsiːpiː 
-ɛneɪtʃeɪ 
-ɛneɪtʃsiː 
-niə 
-nɪɪk 
-ɛndʒeɪɑːɹ 
-ɛnlɛks 
-ɛnɛlɛseɪ 
-ɛnɛltiːsiː 
-ɛnɛmpiːaɪ 
-nɑːf 
-ɛnpiːsiː 
-ɛnɑːɹdʒeɪ 
-ɛnɑːɹkeɪ 
-ɛnskɑː 
-ɛntiːeɪ 
-ɛndʌbəljuː 
+nɑː 
 nɑːwən 
 nɑːbə 
 næbɐnæɡən 
@@ -18921,6 +18938,7 @@ næhɑːɹlɪkə
 næhæwən 
 næhəm 
 naɪ 
+neɪə 
 neɪbə 
 neɪɪk 
 neɪdəz 
@@ -18937,6 +18955,7 @@ nækɔː
 nækpəl 
 næleɪæɡ 
 nælbuː 
+nælkoʊ 
 neɪlɪnæk 
 nælɪwætən 
 nælnɚɹən 
@@ -18956,6 +18975,7 @@ næmnɑːm
 næmnɑːmə 
 næmɑːŋ 
 næmpɪkjuːən 
+næmɹiə 
 næmjuːæk 
 næmjuːælæn 
 næmjuːnɪt 
@@ -19025,6 +19045,7 @@ nɑːɹsɪsəs
 nɑːɹsɪsəs 
 nɛɹk 
 nɛɹiə 
+næɹɪk 
 nɑːɹɹɪɡ 
 nɑːɹɹɪoʊ 
 nɑːɹɹiːɾə 
@@ -19034,6 +19055,7 @@ nɑːɹvə
 nɑːɹveɪkən 
 nɑːɹviːz 
 nɑːɹvɑːsə 
+næsɐ 
 næsɡɛbən 
 næʃvɪl 
 næsɪnæbɑːŋ 
@@ -19119,6 +19141,15 @@ næzɐɹɛn
 næzɐɹɛnoʊ 
 næzɚɹəθ 
 næzæɹɪoʊ 
+ɛnbiːeɪ 
+ɛnbiːaɪ 
+ɛnsiːsiː 
+ɛnsiːsiːsiː 
+ɛnsiːɛm 
+ɛnsiːɑːɹ 
+ɛnsiːɛstiː 
+ɛndiːɛl 
+niː 
 niː 
 nɛbæb 
 nɛbɡə 
@@ -19135,6 +19166,7 @@ niːɡɹɑːn
 niːɡɹoʊz 
 nɛɡɪlə 
 nɛhɪmaɪə 
+neɪbɚhʊd 
 neɪbɚz 
 niːl 
 niːliə 
@@ -19199,9 +19231,16 @@ nuːz
 nuːtən 
 nɛkst 
 nɛksəs 
+ɛnɛfeɪ 
+ɛndʒiː 
 əŋɡæsŋɡəz 
+ɛndʒiːsiːpiː 
 əŋdʒaɪ 
 əŋɡjuːsɔŋ 
+ɛneɪtʃeɪ 
+ɛneɪtʃsiː 
+naɪ 
+niə 
 naɪæɡɹə 
 nɪbɐlɪw 
 nɪbɡə 
@@ -19253,6 +19292,7 @@ naɪthɔːk
 naɪɾɪŋɡeɪl 
 naɪɾɪŋɡeɪlz 
 naɪts 
+nɪɪk 
 nɪdʒɑːɡə 
 nɪdʒɪnski 
 niːkə 
@@ -19297,6 +19337,11 @@ nɪjuːɡən
 nɪksən 
 nɪjɑːɡ 
 niːzə 
+ɛndʒeɪɑːɹ 
+ɛnlɛks 
+ɛnɛlɛseɪ 
+ɛnɛltiːsiː 
+ɛnɛmpiːaɪ 
 noʊʌ 
 noʊbɛl 
 noʊbɪlᵻɾi 
@@ -19326,6 +19371,7 @@ nɑːnæt
 nɑːnɑːɾoʊ 
 nɑːnɛŋ 
 nɑːnaɪ 
+nɑːf 
 noʊk 
 noːɹə 
 noːɹɑːdə 
@@ -19375,6 +19421,7 @@ nɔːɹɪtʃ
 noːɹzɐɡæɹeɪ 
 noʊsə 
 nɑːs 
+nɑːt 
 nɑːθɪŋæm 
 nɑːθɪŋhɪl 
 nɑːθvɪl 
@@ -19402,7 +19449,12 @@ nɑːvoʊɾəl
 noʊə 
 nɔɪ 
 noʊzeɪldə 
+ɛnpiːsiː 
 ɛnɹeɪdoːɹ 
+ɛnɑːɹdʒeɪ 
+ɛnɑːɹkeɪ 
+ɛnskɑː 
+ɛntiːeɪ 
 nuːæŋɡən 
 nuːsɪfɚɹə 
 nuːklɪɹ 
@@ -19435,6 +19487,7 @@ nʌtmɛɡ
 nuːvɑːli 
 naɪdə 
 naɪoʊə 
+ɛndʌbəljuː 
 naɪlɑːn 
 naɪpə 
 njuːst 
@@ -19442,9 +19495,6 @@ oʊ
 oʊ 
 oʊ keɪ 
 oʊ ɛl 
-oʊnz 
-ɑːlv 
-ɑːmni 
 oʊɑːhuː 
 oʊɪɡ 
 oʊk 
@@ -19462,6 +19512,7 @@ oʊəz
 oʊeɪsɪs 
 oʊts 
 oʊts 
+ɑːb 
 oʊbə 
 oʊbɑːx 
 oʊbeɪdaɪə 
@@ -19499,6 +19550,7 @@ oʊboʊ
 ɑːbjʊlæn 
 ɑːbjuːsən 
 ɑːbvaɪɚ 
+ɑːk 
 oʊkə 
 ɑːkæmpoʊ 
 ɑːkɑːnə 
@@ -19524,6 +19576,7 @@ oʊʃəs
 ɑːktævɪoʊ 
 ɑːktoʊbɚ 
 ɑːktəbɚ 
+oʊdə 
 oʊdæŋ 
 oʊdɛsə 
 oʊdɛsə 
@@ -19535,14 +19588,17 @@ oʊdɑːnəl
 ɑːdɪsɪəs 
 ɑːdɪsi 
 iːst 
+ʌv 
 oʊfəl 
 oʊfiːliə 
+ɔf 
 ɔfɛɹl 
 ɑːfɪs 
 ɑːfɪsɚz 
 ɑːfɪlɑːdə 
 ɑːflɛɹiə 
 ɑːfɹeɪsɪoʊ 
+ɑːɡ 
 oʊɡɐliːnoʊ 
 ɑːɡɑːɾiz 
 ɑːɡeɪən 
@@ -19551,6 +19607,7 @@ oʊɡɐliːnoʊ
 oʊhɑːɹɹə 
 oʊhaɪoʊ 
 oʊm 
+oʊnz 
 ɔɪl 
 ɔɪlɚ 
 ɔɪlɪŋk 
@@ -19560,6 +19617,7 @@ oʊdʒəz
 ɑːdʒɐskæstɹoʊ 
 oʊdʒdə 
 ɑːdʒɑːt 
+oʊkeɪ 
 ɑːkɪnɑːwə 
 oʊklɐhoʊmə 
 oʊkɹə 
@@ -19624,11 +19682,13 @@ oʊloʊ
 ɑːlɔɪ 
 ɑːlpɪndɑːd 
 ɑːluːtæŋɡə 
+ɑːlv 
 ɑːlvɚɹə 
 əlɪmpiə 
 əlɪmpɪk 
 əlɪmpɪoʊ 
 əlɪmpəs 
+ɑːm 
 oʊmɐhɑː 
 oʊmeɪliə 
 oʊmæn 
@@ -19638,6 +19698,7 @@ oʊmɑːɹ
 ɑːmbuː 
 oʊmeɪɡə 
 ɑːmɪkɹɑːn 
+ɑːmni 
 ɑːməneɪ 
 ɑːmɑːt 
 ɑːmpæd 
@@ -19683,6 +19744,7 @@ oʊpəneɪ
 ɑːpɹə 
 ɑːptɪk 
 ɑːpjʊlɛnʃə 
+oʊpəs 
 ɑːkwɛndoʊ 
 oːɹeɪʃən 
 ɔːɹəkəl 
@@ -19699,8 +19761,8 @@ oːɹəz
 ɔːɹtʃɚd 
 ɔːɹkᵻstɹə 
 ɔːɹkɪd 
-ɔːɹkɪdz 
 ɔːɹkɪdɛɹiəm 
+ɔːɹkɪdz 
 ɔːɹkɪdz 
 ɔːɹkənuːmə 
 ɔːɹkʌloʊ 
@@ -19781,6 +19843,7 @@ oːɹɑːzkoʊ
 ɔːɹvaɪəɾoʊ 
 ɔːɹwɛl 
 ɔːɹzɑːləs 
+oʊɛs 
 ɑːsɑːkə 
 ɑːsæŋ 
 ɑːsɑːnoʊ 
@@ -19845,6 +19908,7 @@ oʊviːdoʊ
 oʊvɪdoʊ 
 ɑːvjuːl 
 oʊæk 
+oʊən 
 oʊɪn 
 oʊɪnz 
 aʊl 
@@ -19869,46 +19933,6 @@ piː eɪ
 piː ɛf 
 piː tɛn 
 piː foːɹ 
-pæk 
-pæɡkɚ 
-pæl 
-pæmbaɪ 
-piːbiːɛn 
-piːbiːpiː 
-piːsiː 
-piːsiːeɪtʃ 
-piːsiːɛseɪtʃɛs 
-piːdiːɛs 
-piː 
-piːoʊ 
-piːɡɔː 
-piːeɪtʃ tuː 
-piːeɪtʃeɪtʃsiː 
-fɪlsiːkoʊ 
-fɪvaɪdək 
-piːeɪtʃkjuː 
-piːeɪtʃɛs 
-pɪɾɛks 
-piːdʒeɪ 
-piːɛldiːtiː 
-piːɛmeɪ 
-piːɛnbiː 
-piːnɑːk 
-piːɛnpiː 
-piːɛnɑːɹ 
-poʊ 
-piːpiːeɪ 
-piːpiːsiː 
-piːpiːɛnɑːɹ 
-piːpiːoʊ 
-piːpiːɛsɑːɹ 
-piːɑːɹsiː 
-piːɛspiː 
-piːɛspiːsiː 
-tɑː 
-piːtiːɛs 
-pʌp 
-piːviː 
 pɑː 
 pɑːɡɐhæn 
 pɑːlæn 
@@ -19930,6 +19954,7 @@ pɑːboʊ
 pæbɑːndiə 
 pæbɹɪɡə 
 pæbəstɑːn 
+pæk 
 pækəl 
 pækældoʊ 
 pækɐmɑːɹɹə 
@@ -20014,6 +20039,7 @@ pæɡbɐŋɡɑːnən
 pæɡbɪlaʊ 
 pæɡbjuːnɪtən 
 pæɡbjuːweɪə 
+pæɡkɚ 
 pæɡdə 
 pæɡdɐlæɡən 
 pæɡdɐŋɡɑːnən 
@@ -20108,6 +20134,7 @@ pækɪəsæp
 pæknə 
 pækpæk 
 pækwən 
+pæl 
 pɑːlə 
 pælæbɹəz 
 pælæbɹɪkə 
@@ -20287,6 +20314,7 @@ pæmɚɹænəm
 pæmɐtæwən 
 pæmeɪɑːnən 
 pæmbænsə 
+pæmbaɪ 
 pæmbjuːdʒən 
 pæmbjʊlaɪ 
 pæmələ 
@@ -20589,12 +20617,12 @@ pæɹɪs
 pæɹɪsəz 
 pæɹɪʃ 
 pɑːɹk 
-pɑːɹk mɔːl 
 pɑːɹkɚ 
 pɑːɹkhɪl 
 pɑːɹkɪŋ 
 pɑːɹklənd 
 pɑːɹkleɪn 
+pɑːɹk mɔːl 
 pɑːɹkpleɪs 
 pɑːɹkɹɪdʒ 
 pɑːɹksbɜːɡ 
@@ -20824,7 +20852,14 @@ peɪt
 peɪwʊd 
 pæz 
 pɑːzə 
+piːbiːɛn 
+piːbiːpiː 
+piːsiː 
+piːsiːeɪtʃ 
 piːkoʊnz 
+piːsiːɛseɪtʃɛs 
+piːdiːɛs 
+piː 
 piːs 
 piːsfəl 
 piːtʃ 
@@ -20929,6 +20964,7 @@ pɛnʃən
 pɛntæɡən 
 pɛntɪkɔst 
 pɛntənvɪl 
+piːoʊ 
 piəni 
 piːpəlz 
 pɛpeɪ 
@@ -21035,6 +21071,7 @@ pɛɾə
 pɛɾəl 
 pɛɾəlzvɪl 
 piːɾɛk 
+piːɾɛkən 
 piːɾɚ 
 piːɾɚz 
 piːɾɚz 
@@ -21056,6 +21093,8 @@ pɛtuːnə
 pətuːniə 
 pjuːʒoʊ 
 pɛzə 
+piːɡɔː 
+piːeɪtʃ tuː 
 fæliːnɑːpsɪs 
 fæntəm 
 fɑːɹ 
@@ -21066,14 +21105,14 @@ fɛzənt
 fɛdɪfəs 
 fɛheɪən 
 fɛlɪmən 
+piːeɪtʃeɪtʃsiː 
 faɪ 
 fɪl 
-fɪl kɑːm sæt 
-fɪl stɪɹ 
 fɪlɐdɛlfiə 
 fɪlæm 
 fɪlænd 
 fɪlkoʊ 
+fɪl kɑːm sæt 
 faɪlək 
 faɪlɛks 
 fɪlɪp 
@@ -21086,7 +21125,10 @@ fɪlɪps
 fɪlmɪkoʊ 
 fɪləmiːnə 
 fɪlɑːsəfi 
+fɪlsiːkoʊ 
+fɪl stɪɹ 
 fɪlaɪɚ 
+fɪvaɪdək 
 fɪvɑːlks 
 flɑːks 
 pnɑːm 
@@ -21096,6 +21138,8 @@ fiːbiː
 fiːnɪks 
 fɑːsfɚɹəs 
 fɑːsfoːɹəs 
+piːeɪtʃkjuː 
+piːeɪtʃɛs 
 fjuːkɪt 
 fɪzɪks 
 paɪ 
@@ -21387,6 +21431,7 @@ pɪɾə
 pɪtsbɜːɡ 
 pɪtsfiːld 
 pɪtuːniə 
+pɪɾɛks 
 paɪəs 
 pɪi 
 pɪjeɪp 
@@ -21395,6 +21440,7 @@ pɪzɑːɹɹoʊ
 piːtsə 
 piːtsɑːɹɹə 
 piːtsæɹoʊ 
+piːdʒeɪ 
 plɑː 
 pleɪs 
 pleɪsənʃə 
@@ -21445,6 +21491,7 @@ pleɪɚ
 plɑːzə 
 plɑːzoʊ 
 plæzoʊlə 
+piːɛldiːtiː 
 plɛzənt 
 plɛzæntən 
 plɛzəntvɪl 
@@ -21462,6 +21509,11 @@ plʌs
 pluːɾoʊ 
 plɪməθ 
 plaɪwʊd 
+piːɛmeɪ 
+piːɛnbiː 
+piːnɑːk 
+piːɛnpiː 
+piːɛnɑːɹ 
 pɑːb 
 pɑːblæʃən 
 pɑːblɐdoːɹ 
@@ -21474,6 +21526,7 @@ pɑːkdɑːl
 pɑːknə 
 pɑːktɔɪ 
 pədɑːkə 
+poʊ 
 poʊɡi 
 poʊɡoʊ 
 pɑːɡəmboʊə 
@@ -21639,6 +21692,11 @@ pɑːzɑːn
 pɑːzɔɹuːbɪoʊ 
 poʊzoʊz 
 pɑːzjuːɑːli 
+piːpiːeɪ 
+piːpiːsiː 
+piːpiːɛnɑːɹ 
+piːpiːoʊ 
+piːpiːɛsɑːɹ 
 pɹæktɪkəl 
 pɹɑːdə 
 pɹɑːdoʊ 
@@ -21659,6 +21717,7 @@ pɹɔːn
 pɹɛɹ 
 pɹeɪoːɹɪdæd 
 pɹeɪvɪl 
+piːɑːɹsiː 
 pɹiːknəs 
 pɹɪtʃnaɪt 
 pɹɛsɪoʊsə 
@@ -21681,8 +21740,8 @@ pɹɛzɛnʃə
 pɹɛzəntæʃən 
 pɹɛzənteɪʃən 
 pɹɛzɪdənt 
-pɹɛzɪdənts 
 pɹɛzɪdɛnʃəl 
+pɹɛzɪdənts 
 pɹɛzɪdənts 
 pɹɪsɪdɪoʊ 
 pɹɪsnoʊ 
@@ -21789,8 +21848,12 @@ pɹuːnz
 pɹʌʃən 
 sɑːm 
 sɑːmz 
+piːɛspiː 
+piːɛspiːsiː 
 saɪkɑːlədʒi 
 piːtiː 
+tɑː 
+piːtiːɛs 
 puː 
 pjuːɑːləz 
 pjuːæn 
@@ -21886,6 +21949,7 @@ pʌntɑːd
 pʌntʌŋ 
 pʌntʃɚɹɪn 
 pʌnzɐlæn 
+pʌp 
 pjuːpəlz 
 pʊɹɹə 
 pjʊɹɹeɪ 
@@ -21930,6 +21994,7 @@ pjuːwæŋ
 paɪæt 
 pjuːzɑːn 
 pʌzɚ 
+piːviː 
 pjɑːŋjɑːŋ 
 pɪɹɐmɪd 
 pɪəs 
@@ -21941,8 +22006,8 @@ paɪɹəs
 paɪθæɡɚɹəs 
 kjuː 
 kjuː 
-kjuːsiː 
 kæɾɑːɹ 
+kjuːsiː 
 kwɑːdɹæŋɡəl 
 kwæhɚ 
 kweɪl 
@@ -22094,21 +22159,6 @@ kwɚɹiːnoʊ
 ɑːɹ foːɹ 
 ɑːɹ faɪv 
 ɑːɹ sɪks 
-ɑːɹsiːbiːsiː 
-ɑːɹɹɛfɛm 
-ɑːɹdʒiːɑːɹ 
-ɑːɹdʒeɪ 
-ɑːɹɹɛm 
-ɑːɹɹɛmbiː 
-ɹɑːtk 
-ɹɑːksɪaɪ 
-ɑːɹpiːɑːɹ 
-ɑːɹɹɑːɹ 
-ɑːɹɹɛsbiːɛs 
-ɑːɹɹɛsdʒiː 
-ɑːɹɹɛsjuː 
-ɑːɹtiːsiː 
-ɑːɹtiːjuː 
 ɹɑːɡəz 
 ɹæbædən 
 ɹæbeɪɡoʊ 
@@ -22313,6 +22363,7 @@ kwɚɹiːnoʊ
 ɹæzɑːn 
 ɹæzoʊt 
 ɹætsɑːli 
+ɑːɹsiːbiːsiː 
 ɹiə 
 ɹɛdi 
 ɹeɪɡən 
@@ -22536,6 +22587,8 @@ kwɚɹiːnoʊ
 ɹeɪnoʊsə 
 ɹeɪnoʊsoʊ 
 ɹᵻzɪɛli 
+ɑːɹɹɛfɛm 
+ɑːɹdʒiːɑːɹ 
 ɹæmæntəs 
 ɹæmɪnæd 
 ɹæpsədi 
@@ -22666,6 +22719,9 @@ kwɚɹiːnoʊ
 ɹɪzəl 
 ɹɪzɐliːnə 
 ɹɪzoʊnə 
+ɑːɹdʒeɪ 
+ɑːɹɹɛm 
+ɑːɹɹɛmbiː 
 ɹoʊə 
 ɹoʊd 
 ɹoʊdɪlə 
@@ -22873,6 +22929,7 @@ kwɚɹiːnoʊ
 ɹɑːstɑːk 
 ɹoʊzi 
 ɹoʊɾɚɹi 
+ɹɑːtk 
 ɹoʊtɑːndə 
 ɹɑːɾɚdæm 
 ɹɑːtʌndə 
@@ -22895,13 +22952,21 @@ rwɑːl
 ɹoʊhaʊs 
 ɹɑːksəs 
 ɹɑːksəzvɪl 
+ɹɑːksɪaɪ 
 ɹɔɪ 
 ɹɔɪəl 
 ɹɔɪæl 
 ɹɔɪæl 
 ɹɔɪs 
+ɑːɹpiːɑːɹ 
+ɑːɹɹɑːɹ 
 ɑːɹɹɪdʒ 
+ɑːɹɹɛsbiːɛs 
+ɑːɹɹɛsdʒiː 
+ɑːɹɹɛsjuː 
+ɑːɹtiːsiː 
 ɑːɹtiːiː 
+ɑːɹtiːjuː 
 rjuːæ 
 ɹuːɑːnoʊ 
 ɹuːæntoʊ 
@@ -22940,6 +23005,7 @@ rjuːəloʊz
 ɹuːfiːnoʊ 
 ɹuːfoʊ 
 ɹuːɡaʊ 
+ɹuːɡeɪ 
 ɹʌɡbi 
 ɹʌɡnən 
 ɹuːɡoʊsə 
@@ -22990,41 +23056,9 @@ rjuːəloʊz
 ɛs aɪ piː 
 ɛs ɛn 
 ɛs tiː eɪ 
-sɑːd 
-sæs 
-ɛsbiːeɪtʃ 
-ɛsbiːaɪ 
-ɛsbiːɛm 
-ɛsbiːɛmeɪ 
-ɛssiːɛs 
-ɛssiːtɛks 
-siː 
-siːfdɛk 
-sɛᵻz 
-ɛsdʒiːɑːɹ 
-ɛseɪtʃ 
-ɛseɪtʃɛm 
-ɛsdʒeɪ 
-slɛks 
-ɛsɛleɪtʃɛs 
-sliə 
-ɛsɛm 
-smoʊ 
-snɑː 
-sɑːs 
-ɛspiːsiːeɪtʃ 
-spaɪ 
-ɛsɑːɹpiː 
-ɛsɛsbiː 
-ɛsɛsɛs 
-stɑːɹ 
-staɪ 
-ɛstiːɛm 
-ɛstiːɛn 
-svæk 
-ɛsviːdʒiː 
-ɛsdʌbəljuː 
+sɑː 
 sɑːb 
+sɑːd 
 sɑːɡ 
 sɑːɡʌndoʊ 
 sɑːɹɹɛnəz 
@@ -23169,8 +23203,8 @@ seɪl
 seɪlɚ 
 seɪnaɪ 
 seɪnt 
-seɪnt dʒeɪ 
 seɪntfɔɪn 
+seɪnt dʒeɪ 
 seɪpæn 
 saɪz 
 sædʒɑːmə 
@@ -23415,6 +23449,7 @@ sændwʊd
 sændi 
 sænfɚd 
 sæŋɡə 
+sæŋɡɑːn 
 sæŋɡɐlæŋ 
 sæŋɡeɪ 
 sæŋkæɡjʊlaɪz 
@@ -23449,7 +23484,6 @@ sænsoʊ
 sænsən 
 sænsəviːnoʊ 
 sæntə 
-sæntɚ ɹoʊsə 
 sæntɐkɹʌz 
 sæntɐkɹuːzən 
 sænteɪliə 
@@ -23458,6 +23492,7 @@ sæntɑːnə
 sæntændɚ 
 sæntɑːɹɹiːnə 
 sæntɑːɹɹiːɾə 
+sæntɚ ɹoʊsə 
 sæntkoʊ 
 sæntɛɹoʊ 
 sænts 
@@ -23515,6 +23550,7 @@ sæpsæp
 sæpʌl 
 sækɪŋ 
 sɛɹə 
+sæɹɑːn 
 sæɹeɪbiə 
 sæɹɑːkə 
 sæɹəsən 
@@ -23569,6 +23605,7 @@ sɑːɹt
 sɑːɹɹʌŋ 
 sɑːɹɹəs 
 sɑːɹvɪdə 
+sæs 
 sɑːsə 
 sæsæbən 
 sæsæfɹə 
@@ -23639,6 +23676,10 @@ seɪtən
 seɪʌɡ 
 seɪjuːɡən 
 seɪjʊlə 
+ɛsbiːeɪtʃ 
+ɛsbiːaɪ 
+ɛsbiːɛm 
+ɛsbiːɛmeɪ 
 skæbɪəs 
 skeɪlə 
 skændiəm 
@@ -23679,14 +23720,18 @@ skɑːt
 skaʊt 
 skɹæntən 
 skɹʌb 
+ɛssiːɛs 
+ɛssiːtɛks 
 skjuːɑːlə 
 skjuːdɪɹiə 
 saɪθɪbɪl 
+siː 
 siː 
 siːbæs 
 siːbɪskjuːɪt 
 siːkɹɛst 
 siːfɛɹɚ 
+siːfdɛk 
 siːɡʌl 
 sɛltiːl 
 siːmən 
@@ -23791,6 +23836,7 @@ siːnjɚ
 sɛnə 
 siːnoʊ 
 sɛnɚ 
+sɛnjɔːɹ 
 sɛnoːɹə 
 sɛnoːɹɪn 
 sɛnoːɹiːɾə 
@@ -23857,6 +23903,7 @@ sɜːvɪsbɛɹi
 sɜːvɪsᵻz 
 sɜːvɪdæd 
 sɜːvɪlɑːnoʊ 
+sɛᵻz 
 sɛzældoʊ 
 sɛsɐmi 
 sɛsɪlændʒən 
@@ -23883,8 +23930,9 @@ soʊɪŋ
 sɛksən 
 sɛksi 
 seɪʃɛlz 
-sɛnjɔːɹ 
 ɛsfɔːɹzə 
+ɛsdʒiːɑːɹ 
+ɛseɪtʃ 
 ʃɑː 
 ʃeɪd 
 ʃædoʊ 
@@ -23957,6 +24005,7 @@ sɛnjɔːɹ
 ʃaɪɚ 
 ʃɜːliːn 
 ʃɪzjuːkoʊ 
+ɛseɪtʃɛm 
 ʃoʊl 
 ʃuː 
 ʃuːmeɪkɚ 
@@ -24093,6 +24142,7 @@ sɪli
 sɪlɪkə 
 sɪlɪkən 
 sɪlɪk 
+sɪlɪm 
 sɪlkən 
 sɪlktɹiː 
 sɪlɑːɹɹə 
@@ -24305,6 +24355,7 @@ sɪkstiːn
 sɪksθ 
 sɪkstoʊ 
 sɪkstəs 
+ɛsdʒeɪ 
 skeɪt 
 skɪmɚ 
 skiːnə 
@@ -24322,15 +24373,21 @@ slæʃɚz
 sleɪt 
 slɔːɾɚ 
 slɔːɾɚhaʊs 
+slɛks 
+ɛsɛleɪtʃɛs 
+sliə 
 slɑːnski 
+ɛsɛm 
 smɔːl 
 smɑːɹt 
 smaɪlɪŋ 
 smɪθ 
 smɪθstoʊn 
+smoʊ 
 smoʊki 
 smʌθ 
 smaɪənə 
+snɑː 
 sneɪk 
 sneɪkwʊd 
 snæp 
@@ -24471,6 +24528,7 @@ soːɹɔŋ
 sɔɹɛntoʊ 
 sɔɹɑːndə 
 soːɹsɑːɡən 
+sɑːs 
 soʊsə 
 sɑːɾæŋhən 
 sətɑːsoʊ 
@@ -24522,6 +24580,7 @@ spɑːɹ
 spæɹoʊ 
 spæɹoʊz 
 spɑːɹɾə 
+ɛspiːsiːeɪtʃ 
 spiːkɚ 
 spɪɹmɪnt 
 spɛʃəl 
@@ -24532,6 +24591,7 @@ spɛnsɚ
 spɛziə 
 sfɪɹ 
 sfɛɹoʊ 
+spaɪ 
 spiːkə 
 spaɪs 
 spaɪsbʊʃ 
@@ -24584,6 +24644,9 @@ skwɜːl
 ɛsɑːɹ 
 ɛsɹæs 
 ɛsɹiːt 
+ɛsɑːɹpiː 
+ɛsɛsbiː 
+ɛsɛsɛs 
 sənt 
 stɑː 
 stæfɚd 
@@ -24599,6 +24662,7 @@ stænfɪlkoʊ
 stænfɚd 
 stænli 
 stænzə 
+stɑːɹ 
 stæɹæpəl 
 stɑːɹbɹoʊz 
 stɑːɹdʌst 
@@ -24644,6 +24708,7 @@ stiːv
 stiːvɛnsən 
 stuːɚd 
 stuːɚt 
+staɪ 
 staɪɡᵻz 
 stɪɡmə 
 stɪlt 
@@ -24652,6 +24717,8 @@ stɪmpsən
 stɪŋɡɹeɪ 
 stiːpə 
 stɪɹʌp 
+ɛstiːɛm 
+ɛstiːɛn 
 stɑːkɚ 
 stɑːkhoʊl 
 stɑːkhoʊm 
@@ -24931,6 +24998,9 @@ suːzæn
 suːzæɹə 
 suːzɛt 
 suːzuːki 
+svæk 
+ɛsviːdʒiː 
+ɛsdʌbəljuː 
 swɔloʊ 
 swɔloʊteɪl 
 swɑːmp 
@@ -24975,17 +25045,8 @@ sɪsən
 sɪstəm 
 tiː 
 tiː 
-tiːsiːeɪ 
-tiːsiːaɪ 
-tɛzdə 
-ti 
-tiːdʒeɪdiː 
-tiːlɜː 
-tiːɛlɛlɑːɹ 
-tiːɛmbiːpiː 
-tiːɛneɪtʃɛs 
-tiːplɛks 
 tɑːl 
+tɑːlæn 
 tɑːŋ 
 tɑːz 
 tæb 
@@ -25596,7 +25657,9 @@ teɪjuːmən
 tɑːzə 
 tæzɛɾə 
 tiːboʊli 
+tiːsiːeɪ 
 tiːtʃeɪkɑːvski 
+tiːsiːaɪ 
 tiː 
 tiːtʃɚ 
 tiːtʃɚz 
@@ -25629,6 +25692,7 @@ tɛdʒɛɹoʊz
 tɛdʒɑːn 
 tɛk 
 tɛkə 
+tiːk 
 tɛktaɪt 
 tɛktaɪts 
 tɛl 
@@ -25655,6 +25719,7 @@ tɛmploːɹə
 tɛmpoːɹoʊ 
 tɛnæsᵻɾi 
 tɛnən 
+tɛnənt 
 tɛnɛɹiə 
 tɛnɛɹiəz 
 tɛndiːdoʊ 
@@ -25723,6 +25788,7 @@ tɛɹuːmi
 tɜːvəl 
 tɜːzæɡhi 
 tɛskoʊ 
+tɛzdə 
 tɛsoːɹoʊ 
 tɛsoːɹoʊ 
 tɛsi 
@@ -25830,6 +25896,7 @@ tɪkjuːən
 tɪkʌd 
 tɪkjʊlən 
 taɪd 
+ti 
 taɪdi 
 taɪlkoʊ 
 taɪmpoʊ 
@@ -26021,6 +26088,12 @@ tɪjeɪɡoʊ
 tiːzə 
 tɪznɪt 
 taɪzɑːn 
+tiːdʒeɪdiː 
+tiːlɜː 
+tiːɛlɛlɑːɹ 
+tiːɛmbiːpiː 
+tiːɛneɪtʃɛs 
+tuː 
 təbækoʊ 
 toʊbɹə 
 təbaɪəs 
@@ -26194,6 +26267,7 @@ tɔɪoʊmə
 tɔɪoʊɾə 
 tɔɪoʊɾoʊ 
 tɑːzɐmjʊɹɹə 
+tiːplɛks 
 tɹæbɑːhoʊ 
 tɹæbɑːdʒoʊ 
 tɹæbɑːni 
@@ -26522,21 +26596,6 @@ juː ɛm
 juː ɛn 
 juː ɛs 
 juː ɛs 
-ʌbdz 
-juː 
-ʊlz 
-ʌm 
-ʌp 
-ʌpmzi 
-ʌpɹɪaɪz 
-ʌpv 
-ɜːk 
-juːɛs 
-juːɛseɪ 
-juːzæf 
-ʌzəm 
-ʌst 
-ʌts 
 juːækən 
 ʌb 
 juːbəl 
@@ -26545,6 +26604,7 @@ juːbən
 juːbaʊ 
 juːbəz 
 juːbeɪ 
+ʌbdz 
 juːb 
 juːbɪhæn 
 juːboʊz 
@@ -26560,10 +26620,13 @@ juːdən
 juːdæŋɡə 
 juːdeɪɑːndoʊ 
 juːdɔːndoʊ 
+juːd 
 juːdɪaʊ 
 juːdiːn 
 ʌdlɪŋ 
 ʌdtɑːɡ 
+juː 
+ʌɡ 
 juːɡældə 
 juːɡɐlɪŋɡən 
 juːɡændə 
@@ -26579,6 +26642,7 @@ juːɡwɪæbən
 juːɡwiz 
 juːɪttæp 
 juːkɪtən 
+ʊl 
 uːlæɡ 
 uːlæn 
 uːləndeɪ 
@@ -26597,10 +26661,12 @@ uːlɪŋɡən
 uːlɪŋɡaʊ 
 uːliːɾə 
 uːloʊ 
+ʊlz 
 ʌltɪmə 
 ʌltɹə 
 uːlʊɹɹoʊ 
 uːluːwɑːɾuː 
+ʌm 
 juːmɑːsə 
 juːmɑːɡə 
 juːmɐɡɑːl 
@@ -26613,6 +26679,7 @@ juːmɐndæp
 juːmændoʊ 
 juːmæŋɡən 
 juːmɐpɑːɡ 
+juːmeɪ 
 ʌmbəl 
 ʌmbɚ 
 ʌmbɚtoʊ 
@@ -26656,11 +26723,15 @@ juːnɪvɜːsᵻɾi
 juːnɪks 
 ʌnleɪaʊ 
 uːnoʊ 
+ʌnɑːm 
 ʌnɹuːbiə 
 ʌnseɪæwən 
 ʌnsʌn 
 ʌntɑːɡə 
+ʌnzoʊ 
+ʌp 
 juːpaʊ 
+juːpæt 
 ʌpɛmɑːɹk 
 ʌpɛŋ 
 ʌphɪl 
@@ -26668,11 +26739,14 @@ juːpi
 juːpiən 
 juːpɪɡ 
 ʌplənd 
+ʌpmzi 
 juːpoʊ 
 ʌpɚ 
+ʌpɹɪaɪz 
 ʌpsɪlɑːn 
 ʌptən 
 ʌptaʊn 
+ʌpv 
 juːɚɹəl 
 jʊɹɹeɪniəm 
 jʊɹɹænəs 
@@ -26686,6 +26760,7 @@ jʊɹɹɐzɑːɡə
 ɜːbɑːsə 
 ɜːbiːnoʊ 
 ɜːbɪztɑːndoʊ 
+ɜːk 
 ɜːʃə 
 ɜːsaɪzɪŋ 
 ɜːdɐnɛɾə 
@@ -26707,8 +26782,13 @@ jʊɹɹɑːn
 jʊɹɹuː 
 jʊɹɹuːɡwaɪ 
 jʊɹɹuːʃə 
+juːɛs 
+juːɛseɪ 
+juːzæf 
 juːzənɛt 
+ʌzəm 
 ʌsmɑːɹk 
+ʌst 
 ʌstɛɹz 
 juːzuːɡən 
 juːtɔ 
@@ -26717,6 +26797,7 @@ juːɾəl
 ʌθmən 
 juːtɪlᵻɾi 
 juːɾɑːt 
+ʌts 
 juːvə 
 juːwæk 
 aɪ 
@@ -26731,13 +26812,6 @@ viː
 viː ænd 
 viː 
 viː eɪt 
-væt 
-viːaɪ 
-ɹoʊmən sɛvən 
-ɹoʊmən eɪt 
-vɪp 
-viːdʒeɪsiː 
-viːɑːɹɹeɪtʃ 
 veɪkɐlɛɹz 
 veɪkɑːnteɪ 
 veɪkeɪʃən 
@@ -26844,6 +26918,7 @@ væskoʊnə
 væsɪliən 
 væsks 
 væskɛz 
+væt 
 væɾɪkən 
 væɾɪkɑːnoʊ 
 vɔːkshɔːl 
@@ -26971,6 +27046,7 @@ vɛɾɚɹənz
 vɛɾɚboʊ 
 vɛɾəs 
 veɪɹə 
+viːaɪ 
 vaɪə 
 vaɪədoʊ 
 vaɪədʌkt 
@@ -27041,6 +27117,8 @@ vɪdʒɪliə
 vɪdʒɪlɪoʊ 
 viːɡoʊ 
 vɪɡoːɹoʊsoʊ 
+ɹoʊmən sɛvən 
+ɹoʊmən eɪt 
 vaɪkɪŋ 
 vaɪkɪŋz 
 viːlə 
@@ -27158,6 +27236,7 @@ vaɪəlɑːdoʊ
 vaɪəleɪɡoʊ 
 vaɪəlɪt 
 vaɪəlɛɾə 
+vɪp 
 vɪpɹə 
 vɜːɹæk 
 vɜːɹændə 
@@ -27226,6 +27305,7 @@ vɪzkæɹə
 vɪzkeɪə 
 vaɪzənzə 
 vɪzkɑːjə 
+viːdʒeɪsiː 
 vlædɪvɑːstɑːk 
 voʊkɐlæn 
 vəlɑːnteɪ 
@@ -27240,15 +27320,13 @@ vɑːn
 voʊnəl 
 vɔɪɪdʒɚ 
 vɔɪɐdʒʊɹz 
+viːɑːɹɹeɪtʃ 
 vjuːɪʔn̩ 
 vʌlkən 
 vʌltʃɚ 
 vaɪɾɪɑːkoʊ 
 dʌbəljuː 
 dʌbəljuː 
-dʌbəljuːɛfsiː 
-dʌbəljuːlæk 
-dʌbəljuːdʌbəljuːpiː 
 wækəl 
 wækæt 
 wæk 
@@ -27384,6 +27462,7 @@ wɛstpoːɹt
 wɛstvɪl 
 wɛstwʊd 
 weɪlɚ 
+dʌbəljuːɛfsiː 
 weɪl 
 wɔːɹf 
 wɔːɹp 
@@ -27421,6 +27500,7 @@ waɪldəz
 waɪldflaʊɚ 
 waɪldpiə 
 wɪlfɹiːdoʊ 
+wɪli 
 wɪl 
 wɪlɑːdə 
 wɪljəm 
@@ -27468,6 +27548,7 @@ wɪstɪɹiə
 wɪðoʊldɪŋ 
 wɪðɹɑːp 
 wɪvɪniə 
+dʌbəljuːlæk 
 woʊ 
 wʊlfsbeɪn 
 wɪmɪnz 
@@ -27510,15 +27591,12 @@ wɜːði
 ɹæŋɡlɚ 
 ɹaɪt 
 ɹaɪɾɚ 
+dʌbəljuːdʌbəljuːpiː 
 waɪ 
 waɪli 
 wɪndmoːɹ 
 waɪoʊmɪŋ 
 ɛks 
-ɹoʊmən θɜːtiːn 
-ɹoʊmən foːɹtiːn 
-ɹoʊmən naɪntiːn 
-zaɪloʊ 
 zænɑːduː 
 zændɹiə 
 zænθaɪ 
@@ -27529,11 +27607,14 @@ zævɪɹvɪl
 zɛnɑːn 
 zɛvɚɹə 
 zaɪənz 
+ɹoʊmən θɜːtiːn 
+ɹoʊmən foːɹtiːn 
+ɹoʊmən naɪntiːn 
+zaɪloʊ 
 zaɪloʊmləm 
 zaɪɹɪs 
 waɪ 
-ɪsəl 
-ɪsp 
+waɪ 
 jæbæwən 
 jeɪbz 
 jɑːboʊ 
@@ -27661,7 +27742,9 @@ joʊjoʊ
 ʌsɪdoːɹoʊ 
 ʌsɪdɹə 
 ʌsɪp 
+ɪsəl 
 ʌsmeɪl 
+ɪsp 
 ɪtɹiəm 
 juːən 
 juːɑːsə 
@@ -27690,7 +27773,6 @@ juːɾə
 ɪvɛt 
 ziː 
 ziː 
-ziːnæk 
 zæbɑːlə 
 zæbɐlɛɹoʊ 
 zæbɑːɹt 
@@ -27801,6 +27883,7 @@ zɜːkən
 ziːɾə 
 zɪtæŋɡə 
 zloʊɾi 
+ziːnæk 
 zoʊbəl 
 zoʊbɜːt 
 zoʊdiæk 
@@ -27834,86 +27917,3 @@ zjʊɹɪk
 zjuːzuːæɹɛɡwi 
 zaɪmoʊ 
 zaɪfɚ 
-ɑːɹɹəl 
-ɐkɪt 
-æmpɑːn 
-æneɪ 
-ænd 
-aʊ 
-ɐsæ 
-ɐsæwæŋ 
-ɐsɛnt 
-ɐsoʊ 
-ɐsuːdʒən 
-æt 
-æɾɪhæn 
-ɔː 
-ɐwæn 
-æwʌn 
-aɪ 
-aɪən 
-beɪɑːnən 
-bʊk 
-baɪ 
-kæb 
-kæɹɐkʌtʃə 
-koʊlə 
-dæɡætən 
-dɛlɐmoːɹ 
-ɛnd 
-ɡɑːwə 
-ɡeɪə 
-hæblə 
-aɪbɪɡ 
-ɪkən 
-ɪŋ 
-ɪz 
-ɪsə 
-ɪt 
-ɪw 
-ɪwən 
-ɪjaʊ 
-lɑːn 
-lɑːkə 
-lændʒɛbən 
-lɪŋ 
-ɛlɛlfɑːnsoʊ 
-meɪl 
-miː 
-mɜː 
-ɛmdʒiːeɪ 
-nɑː 
-neɪbɚhʊd 
-naɪ 
-nɑːt 
-ɑːb 
-ɑːk 
-oʊdə 
-ʌv 
-ɔf 
-ɑːɡ 
-oʊkeɪ 
-ɑːm 
-oʊpəs 
-oʊɛs 
-oʊən 
-piːɾɛkən 
-ɹuːɡeɪ 
-sɑː 
-sæŋɡɑːn 
-sæɹɑːn 
-sɪlɪm 
-tɑːlæn 
-tiːk 
-tɛnənt 
-tuː 
-juːd 
-ʌɡ 
-ʊl 
-juːmeɪ 
-juːniːk wɜːdz 
-ʌnɑːm 
-ʌnzoʊ 
-juːpæt 
-wɪli 
-waɪ 

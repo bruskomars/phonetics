@@ -1,4 +1,3 @@
-name
 1
 2
 3
@@ -483,6 +482,54 @@ name
 2000
 2516
 &
+(
+(Bagacay)
+(Banna)
+(Calanasan)
+(Cantilever)
+(Compostela
+(Daang
+(Dalemdem
+(Davao
+(Dual)
+(East
+(EB)
+(Goa)
+(Iloilo)
+(Junction
+(Kabankalan
+(Km
+(La
+(Lupao)
+(LZ)
+(Malalag
+(Mexico
+(MN)
+(Munoz)
+(Naga
+(Northbound)
+(Old)
+(Poblacion)
+(Private
+(Public
+(Purok
+(Quicksand)
+(Right
+(Salcedo)
+(San
+(Sindalan)
+(South)
+(Southbound)
+(Surigao
+(Tanza)
+(TER)
+(Tinambac)
+(TNR)
+(Trinidad)
+(Tuying)
+(WB)
+(West
+10)
 107A
 108A
 10A
@@ -585,6 +632,7 @@ name
 1D
 1E
 1st
+2)
 20A
 20B
 20E
@@ -619,30 +667,39 @@ name
 24F
 24th
 25A
+25A
 25B
 25C
+25C
+25F
 25F
 25th
 25th
+26A
 26A
 26B
 26F
 26th
 26th
 27A
+27A
+27B
 27B
 27C
 27E
 27F
+27F
 27th
 27th
 28A
+28A
+28B
 28B
 28C
 28F
 28th
-28th
 29A
+29B
 29B
 29C
 29th
@@ -651,11 +708,15 @@ name
 2B
 2B
 2C
+2C
 2d
+2D
+2E
 2E
 2F
 2nd
 2nd
+3)
 "3,"
 301A
 308A
@@ -668,37 +729,45 @@ name
 324A
 325A
 32A
+32A
+32B
 32B
 32D
+32D
+32E
 32E
 32F
+32F
 32G
+32I
 32I
 32J
 32K
 32L
 32M
 32N
+32N
 32nd
 32O
 32P
 32Q
+32Q
 32R
 32th
 33A
+33A
 33B
+33C
 33C
 33D
 33rd
-33rd
+34A
 34A
 34D
-34th
 34th
 35A
 35B
 35C
-35th
 35th
 36th
 36th
@@ -706,8 +775,9 @@ name
 37E
 37F
 37th
-37th
 38A
+38A
+38B
 38B
 38C
 38D
@@ -715,18 +785,22 @@ name
 38F
 38G
 38H
-38th
+38H
 38th
 39A
 39D
 39E
+39E
+39F
 39F
 39th
-39th
+3A
 3A
 3B
 3B
 3C
+3C
+3D
 3D
 3E
 3nd
@@ -736,10 +810,12 @@ name
 40B
 40F
 40G
+40G
 40I
 40J
+40J
 40K
-40th
+40K
 40th
 41A
 41B
@@ -753,15 +829,20 @@ name
 43D
 43E
 43F
+43F
 43rd
 44th
 45A
 45B
 45C
 45D
+45D
+45E
 45E
 45F
 45G
+45G
+45H
 45H
 45I
 45J
@@ -775,15 +856,19 @@ name
 46th
 47th
 48E
+48E
 48F
 48G
 48H
 48I
+48I
+48J
 48J
 48th
 49A
 49B
 49C
+49D
 49D
 49G
 49H
@@ -791,8 +876,12 @@ name
 49L
 49th
 4A
+4a
+4B
 4B
 4C
+4C
+4D
 4D
 4E
 4th
@@ -800,20 +889,19 @@ name
 50B
 50C
 50E
+50E
 50F
 50th
 51st
-51st
 51th
 52A
+52A
+52B
 52B
 52nd
-52nd
-53rd
 53rd
 543rd
 54A
-54th
 54th
 55a
 55b
@@ -823,9 +911,13 @@ name
 58th
 59th
 5A
+5A
+5B
 5B
 5C
+5C
 5D
+5E
 5E
 5th
 5th
@@ -836,12 +928,12 @@ name
 62nd
 63rd
 64th
-64th
 65th
 66A
 66th
 67th
 68th
+69A
 69A
 69B
 69th
@@ -853,8 +945,12 @@ name
 6B
 "6B,"
 6c
+6C
+6D
 6D
 6E
+6E
+6th
 6th
 70A
 70B
@@ -870,13 +966,21 @@ name
 78th
 79th
 7A
+7A
+7B
 7B
 7C
+7C
 7D
+7D
+7E
 7E
 7H
 7th
+7th
 7UP
+8)
+80A
 80A
 80th
 81st
@@ -914,6 +1018,8 @@ name
 9F
 9th
 A
+A.
+A.S.
 AA
 Aala
 aaral
@@ -1120,6 +1226,7 @@ Acharon
 Achemar
 Achilles
 Achuete
+Acias
 Acid
 Acidilla
 Aciento
@@ -1161,6 +1268,7 @@ Adalem
 Adalhia
 Adalia
 Adalla
+Adalo
 Adam
 Adama
 Adamos
@@ -1169,7 +1277,6 @@ Adan
 Adante
 Adao
 Adap
-Adarlo
 Adarna
 Adas
 Adasa
@@ -1193,6 +1300,7 @@ Adelfilla
 Adelia
 Adelina
 Adelino
+Adelita
 Adelpha
 Adelson
 Adelwisa
@@ -1228,6 +1336,7 @@ Adonis
 Ador
 Adora
 Adorable
+Adoracion
 Adoration
 Adorco
 Adou
@@ -1514,6 +1623,7 @@ Alaminos
 Alamo
 Alamos
 Alamosa
+Alan
 Alandy
 Alang
 Alangalang
@@ -1669,6 +1779,7 @@ Alfine
 Alfon
 Alfonsa
 Alfonso
+Alfonzo
 Alfoso
 Alfred
 Alfredo
@@ -1707,6 +1818,7 @@ Alijis
 Alila
 Alilem
 Alilio
+Alilo
 Alim
 Aliman
 Alimango
@@ -1770,6 +1882,7 @@ Allesandra
 Allesandria
 Allessanora
 Alley
+Alley1
 Alliage
 Alliance
 Allianigue
@@ -2009,6 +2122,7 @@ Ambalite
 Ambangeg
 Ambangonan
 Ambani
+Ambasador
 Ambasing
 Ambassador
 Ambat
@@ -2025,6 +2139,7 @@ Ambonao
 Ambongdolan
 Amborcia
 Amboy
+Ambrocia
 Ambrocio
 Ambrogio
 Ambrose
@@ -2147,6 +2262,7 @@ Anastacia
 Anastacio
 Anastasia
 Anatalia
+Anatalio
 Anatolia
 Anawaan
 anay
@@ -2253,10 +2369,12 @@ Anguno
 Angwin
 Anhawon
 Ani
+Aniano
 Anibong
 Anibongan
 Anibongon
 Aniceta
+Aniceto
 Anicia
 Anievas
 Anigan
@@ -2274,6 +2392,7 @@ Anislag
 Aniston
 Anita
 Anjou
+Anka
 Ann
 Anna
 Annadels
@@ -2316,6 +2435,8 @@ Antelope
 Antenor
 Antequera
 Antequisa
+Antera
+Antero
 Anthea
 Anthem
 Anthony
@@ -2332,6 +2453,7 @@ Antiporda
 Antique
 Antivo
 Antler
+Antoine
 Antoinette
 Antolin
 Anton
@@ -2382,6 +2504,7 @@ Apayao
 Ape
 Apelado
 Apelles
+Apelo
 Aphrodite
 Apiat
 Apigo
@@ -2402,6 +2525,7 @@ Apollo
 Apollos
 Apolona
 Apolonia
+Apolonio
 Apopong
 Aporbo
 Apostle
@@ -2543,6 +2667,7 @@ Arceli
 Arcenas
 Arceo
 Archangel
+Archbishop
 Archer
 Archerfish
 Archery
@@ -2550,6 +2675,7 @@ Arches
 Archidona
 Archilleus
 Archimedes
+Architect
 Arciaga
 Arcilla
 Arcillas
@@ -2648,12 +2774,14 @@ Arlegui
 Arlene
 Arlington
 Armada
+Armand
 Armando
 Armani
 Armas
 Armenia
 Armeno
 Armi
+Armida
 Armidele
 Armin
 Armor
@@ -2672,6 +2800,7 @@ Arnica
 Arno
 Arnol
 Arnold
+Arnulfo
 Aro
 Arocena
 Aroma
@@ -2725,6 +2854,7 @@ Artamisa
 Artap
 Artcho
 Arteche
+Artemio
 Artemis
 Artena
 Arterial
@@ -2772,6 +2902,7 @@ Asanza
 asawang
 Ascalon
 Ascalona
+Ascario
 Ascencion
 Ascension
 ascent
@@ -2842,6 +2973,7 @@ Assistant
 Associates
 Assumpta
 Assumption
+Assy.
 Assyria
 Asta
 Astelero
@@ -2880,6 +3012,7 @@ Atalanta
 Atanacia
 Atanacio
 Atancio
+Atang
 Atanoza
 Atao
 Atate
@@ -2903,6 +3036,7 @@ Ati
 Atienza
 atihan
 Atijera
+Atila
 Atilano
 Atillo
 Atimonan
@@ -2918,11 +3052,14 @@ Atocha
 Atok
 Atolia
 Aton
+Atong
 Atop
 Atrium
 Attaban
 Attica
 Attila
+Attorney
+Attorney.
 Attraente
 Atugan
 Atupan
@@ -2973,6 +3110,7 @@ Australian
 Austria
 Autumn
 Auxtero
+Ava
 Avalon
 Avan
 Avancena
@@ -2982,6 +3120,7 @@ Avanti
 Ave
 Avecida
 Avecilla
+Avelina
 Avelino
 Avellana
 Avellino
@@ -3084,6 +3223,9 @@ Azuro
 Azusa
 Azzaro
 B
+B.
+B.F.
+B.M.
 B3
 Baac
 Baag
@@ -3186,6 +3328,7 @@ Badalona
 Badbad
 Badbaranan
 Badelles
+Baden
 Badenas
 Badger
 Badian
@@ -3205,7 +3348,7 @@ Badoc
 Badoy
 Badtasan
 Baduang
-Baes
+BAES
 Baesa
 Baetiong
 Baffin
@@ -3221,6 +3364,7 @@ Bagalay
 Bagalongon
 Bagang
 Baganga
+Bagani
 Baganzo
 Bagaoisan
 Bagar
@@ -3327,6 +3471,7 @@ Baka
 Bakabakahan
 Bakakeng
 Bakal
+Bakal)
 Bakalaw
 Bakan
 Bakauan
@@ -4001,6 +4146,7 @@ Basilicata
 Basilio
 Basilisa
 Basillo
+Basilyo
 Basinillo
 Basista
 Basit
@@ -4074,6 +4220,7 @@ Batino
 Batis
 Batisan
 Batista
+BatistaStreet
 Batitang
 Batitinan
 Bato
@@ -4138,7 +4285,7 @@ Bayambang
 Bayan
 Bayanacon
 Bayanag
-Bayanan
+bayanan
 Bayang
 Bayani
 Bayanihan
@@ -4197,6 +4344,7 @@ Bayview
 Baywalk
 Baywood
 Baza
+Bb.
 BBL
 BCDO
 BCK
@@ -4376,6 +4524,7 @@ Bently
 Benton
 Bentony
 Benz
+Bepto
 Ber
 Berana
 Berane
@@ -4474,6 +4623,7 @@ Besseya
 Beta
 Betany
 Betel
+Beth
 Bethany
 Bethel
 Bethlehem
@@ -4801,6 +4951,7 @@ BMW
 BN
 BNHS
 Bo
+Bo.
 Boa
 Boac
 Boado
@@ -4954,6 +5105,7 @@ Bonnet
 Bonneville
 Bonnicelle
 Bonnington
+Bonny
 Bono
 Bonoan
 Bonoy
@@ -5036,7 +5188,9 @@ Bouldero
 Boulemane
 Boulevard
 Bound
+Bound)
 Boundary
+Boundary)
 Bounty
 Bouquet
 Bourbon
@@ -5058,11 +5212,12 @@ Boxing
 Boxwood
 Boy
 Boyie
+Boying
 Boyle
 Boyles
 Boysen
 Boz
-Br
+Br.
 Bra
 Braceros
 Braceville
@@ -5134,6 +5289,7 @@ Breton
 Brewer
 Brewery
 Brezlin
+Brgy
 Brian
 Briarwood
 Bridal
@@ -5150,6 +5306,7 @@ Bridgeway
 Bridgewood
 Bridle
 Brigada
+Brigadier
 Brigde
 Briget
 Brigham
@@ -5179,6 +5336,7 @@ Brises
 Bristle
 Bristlecone
 Bristol
+Briston
 Britain
 Britan
 Britanico
@@ -5191,6 +5349,7 @@ Briviesca
 Brixton
 Brixtonhills
 Briz
+Bro.
 Broadbill
 Broaddent
 Broadhurst
@@ -5240,8 +5399,10 @@ Brownville
 Browser
 Bruan
 Brucal
+Bruce
 Brucelas
 Bruger
+Bruna
 Brunei
 Bruno
 Brush
@@ -5255,6 +5416,7 @@ BSP
 BSU
 Buacan
 Buacao
+Buadi
 Buadiposo
 Buagan
 Buan
@@ -5592,6 +5754,8 @@ Bypass
 Byron
 Byzantine
 C
+C.
+C.B.
 C5
 CAA
 Caalan
@@ -6240,6 +6404,7 @@ Camilla
 Camille
 Camillo
 Camillus
+Camilo
 Caminawit
 Camindangan
 Camino
@@ -6408,6 +6573,7 @@ Canjela
 Canjulao
 Canjumangit
 Canlalay
+Canlamay
 Canlangit
 Canlaon
 Canlapan
@@ -6469,7 +6635,6 @@ Canterton
 Cantigdas
 Cantila
 Cantilan
-Cantilever
 Cantiller
 Cantillon
 Cantimbuhan
@@ -6562,6 +6727,7 @@ Caprice
 Capricho
 Capricorn
 Capring
+Caprizo
 Capsicum
 Captain
 Captains
@@ -6684,6 +6850,7 @@ Carma
 Carmel
 Carmela
 Carmelia
+Carmelino
 Carmelita
 Carmelite
 Carmelo
@@ -6807,6 +6974,7 @@ Casia
 Casiama
 Casiana
 Casiang
+Casiano
 Casigan
 Casignia
 Casiguran
@@ -6818,6 +6986,7 @@ Casili
 Casiligan
 Casilihan
 Casimero
+Casimira
 Casimiro
 Casinagan
 Casinala
@@ -6913,6 +7082,7 @@ Cataingan
 Catalan
 Catalat
 Catalina
+Catalino
 Catalonia
 Catalpa
 Cataluna
@@ -7019,6 +7189,7 @@ Cavitan
 Cavite
 Caviteno
 CAVITEX
+Cavo
 Cawa
 Cawacat
 Cawas
@@ -7098,6 +7269,7 @@ Celdran
 Celebes
 Celedio
 Celedonia
+Celedonio
 Celeridad
 Celerina
 Celerio
@@ -7209,6 +7381,7 @@ Cezanne
 Cezia
 Cezzane
 CFC
+Ch.
 Cha
 Chabita
 Chacon
@@ -7257,6 +7430,7 @@ Chapparal
 Chaps
 Charbel
 Charger
+Charina
 Charing
 Charisma
 Charisse
@@ -7271,6 +7445,7 @@ Charlestone
 Charleyville
 Charlie
 Charlieville
+Charlito
 Charlotte
 Charmagne
 Charmaine
@@ -7407,6 +7582,7 @@ Chorillo
 Chosol
 Chou
 Chow
+Chrispin
 Christ
 Christelle
 Christi
@@ -7458,6 +7634,7 @@ Cider
 Cielito
 Cielo
 Cienega
+Cieto
 Cieza
 CIIF
 Cilacap
@@ -7476,6 +7653,7 @@ Cio
 Ciocon
 Cipres
 Cipriano
+Ciraco
 Circle
 Circon
 Circuit
@@ -7537,6 +7715,8 @@ Clareon
 Claret
 Claridades
 Clarin
+Clarina
+Clarinda
 Clarinet
 Clarino
 Clarion
@@ -7578,12 +7758,14 @@ Clemencia
 Clemens
 Clement
 Clemente
+Clementino
 Cleofas
 Cleofe
 Cleofer
 Cleopatra
 Clerici
 Clermont
+Cleto
 Cletus
 Cleveland
 Clevelano
@@ -7600,6 +7782,7 @@ Clio
 Clipper
 Cloma
 Close
+Clotilde
 Clove
 Clover
 Cloverdale
@@ -7665,6 +7848,7 @@ Cohen
 Coimbra
 Cojuangco
 Col
+Col.
 cola
 Colago
 Colambugon
@@ -7732,6 +7916,7 @@ Columbrez
 Columbus
 Colveta
 Colwyn
+Com.
 Coma
 Comanche
 Comandante
@@ -7748,6 +7933,7 @@ Comiran
 Comiso
 Comita
 Command
+Commander
 Commando
 Commemoration
 Commerce
@@ -7778,6 +7964,7 @@ Compound
 Compton
 Compund
 Computer
+Comrade
 Comun
 Conalum
 Concepcion
@@ -7794,6 +7981,7 @@ Concon
 Concord
 Concorde
 Concordia
+Concordio
 Concrete
 Concubierta
 Conde
@@ -7833,6 +8021,7 @@ Conifer
 Conil
 Conilon
 Connecticut
+Connecting
 Connector
 Connejo
 Conner
@@ -7846,6 +8035,7 @@ Consenza
 Conservation
 Consesa
 Consing
+Conso
 Consocep
 Consolacion
 Consolidated
@@ -7972,6 +8162,7 @@ Coronella
 Coronet
 Coronon
 Corotan
+Corporal
 Corporate
 Corporation
 Corpus
@@ -8050,6 +8241,7 @@ Cotton
 Cottonwood
 Coty
 Cougar
+Councilor
 Count
 Countess
 Country
@@ -8110,6 +8302,7 @@ Crempts
 Crenshaw
 Crescent
 Crescini
+Cresencio
 Cresente
 Cresini
 Crespi
@@ -8133,6 +8326,7 @@ Criselda
 Crisenciano
 Crisfield
 Crisinal
+Crislo
 Crisman
 Crismor
 Crismore
@@ -8147,6 +8341,7 @@ Crispina
 Crispo
 Crispulo
 Crispus
+Crist
 Crista
 Criste
 Cristelle
@@ -8156,9 +8351,11 @@ Cristimar
 Cristina
 Cristine
 Cristino
+Cristito
 Cristo
 Cristoba
 Cristobal
+Cristoforo
 CRM
 Croatia
 Crocus
@@ -8208,7 +8405,7 @@ CSCR
 CSPC
 CSR
 Ct
-Ctr
+Ct.
 Cu
 Cua
 Cuabo
@@ -8301,6 +8498,7 @@ Cup
 Cupa
 Cupang
 Cupcake
+Cura
 Curacha
 Curadang
 Curambao
@@ -8368,6 +8566,8 @@ Czarina
 Czech
 Czechoslovakia
 D
+D.
+D.V.S.
 Da
 Daan
 Daanan
@@ -8416,7 +8616,7 @@ Dagami
 Dagang
 Dagani
 Dagat
-Dagatan
+dagatan
 Dagger
 Daghoy
 Dago
@@ -8597,6 +8797,7 @@ Daniel
 Daniela
 Daniella
 Danielle
+Danilo
 Danipog
 Daniw
 Danlag
@@ -8604,6 +8805,7 @@ Danleg
 Danlig
 Dannah
 Dannevirke
+Danny
 Dano
 Danreb
 Dans
@@ -8848,6 +9050,7 @@ Deluna
 Delupio
 Delverde
 Dely
+Dema
 Demesa
 Demester
 Demeter
@@ -8856,12 +9059,14 @@ Demetillo
 Demetria
 Demetrio
 Demetriou
+Demi
 Demirin
 Demitillo
 Demition
 Demnate
 Democracia
 Democrat
+Democrito
 Democritus
 Demokrasya
 Demoloc
@@ -8869,6 +9074,7 @@ Demolok
 Demonstration
 Demora
 Dempro
+Den.
 Denali
 Denara
 Denayao
@@ -8942,13 +9148,14 @@ Dewey
 Dewplant
 Dexter
 Dexterity
-DexterVille
+Dexterville
 Deytiquez
 Deza
 DH
 Dhabi
 Dhaka
 Dhalia
+Dharr
 Dhaulagiri
 DHVTSU
 Dhy
@@ -9046,6 +9253,7 @@ Dilis
 Dill
 Dilla
 Diloy
+Dima
 Dimaano
 Dimabiling
 Dimacali
@@ -9123,6 +9331,7 @@ Dior
 Diora
 Diorella
 Dios
+Dioscoro
 Diosdado
 Diosma
 Dioso
@@ -9141,6 +9350,7 @@ Dipuyai
 Dirain
 Direct
 Directo
+Director
 Direksyon
 Dirham
 Dirian
@@ -9260,14 +9470,17 @@ Domuklong
 Domus
 Don
 Dona
+Doña
 Donacia
 Donada
 Donafield
 Donak
+Donald
 Donan
 Donata
 Donatello
 Donato
+Dondoy
 Doneney
 Dones
 Doneza
@@ -9357,6 +9570,7 @@ Drilon
 Drimitivo
 Driod
 Drive
+Driveway
 Driving
 Drop
 DRT
@@ -9366,7 +9580,6 @@ DS
 DTI
 Du
 Dua
-Dual
 Duale
 Dualing
 Duarte
@@ -9515,6 +9728,7 @@ Dyos
 DZMT
 DZR
 E
+E.
 Eagle
 Eagles
 Eala
@@ -9546,12 +9760,12 @@ Eastwest
 Eastwind
 Eastwood
 Easy
-EB
 Ebans
 Ebarle
 Eber
 Eberia
 Ebersole
+Ebo
 Ebony
 Ebreo
 Ebro
@@ -9582,6 +9796,7 @@ Ecoville
 Ecozone
 Ecru
 Ecuador
+Ed
 Eda
 Edades
 Edang
@@ -9590,9 +9805,11 @@ Edanol
 Edderton
 Eddie
 Edejer
+Edelmiro
 Edelweiss
 Eden
 Ederadan
+Edgardo
 Edge
 Edgerton
 Edgeware
@@ -9603,6 +9820,7 @@ Edilberto
 Edinburgh
 Edison
 Editha
+Edito
 Editorial
 Edlimar
 Edmalin
@@ -9623,12 +9841,14 @@ Edvil
 Edville
 Edward
 Edwards
+Edwin
 Edwina
 EE
 Efficience
 Efficiency
 Effie
 Efondo
+Efrain
 Efren
 Egaa
 Egat
@@ -9639,6 +9859,7 @@ Egret
 Eguna
 Egypt
 Eighth
+Eileen
 Einaldi
 Einstein
 Einthoven
@@ -9650,6 +9871,7 @@ Ejercito
 Eksplorasyon
 El
 Ela
+Eladia
 Elaine
 Elane
 Elang
@@ -9689,6 +9911,7 @@ Eleutaria
 Eleuteria
 Eleuterio
 Elevado
+Elevated
 Eleven
 Elf
 Elga
@@ -9701,8 +9924,9 @@ Elicano
 Elicio
 Elida
 Eligardi
-Elijah
+Eligio
 Elim
+Elino
 Eliot
 Elisa
 Elisabeth
@@ -9752,12 +9976,14 @@ Elpidio
 Elpis
 Elquiero
 Elsewhere
+Elsie
 Elsol
 Elvazia
 Elverta
 Elvira
 Elvissa
 Elwood
+Ely
 Elysee
 Elysian
 Emano
@@ -9782,6 +10008,8 @@ Emetrio
 Emilia
 Emiliana
 Emiliani
+Emiliano
+Emilina
 Emilio
 Emillia
 Emily
@@ -9802,6 +10030,7 @@ Enam
 Enamo
 Enarzo
 ENC
+Enc.
 Encalipto
 Encantar
 Encarnacion
@@ -9837,6 +10066,7 @@ Englewood
 English
 Engracia
 Engracion
+Enilio
 Enjoie
 Enna
 Enoch
@@ -9886,6 +10116,8 @@ Equia
 Equidad
 Equitable
 Era
+Erano
+Eraño
 Erastus
 Erato
 Erba
@@ -9906,6 +10138,7 @@ Eris
 Erlazado
 Erlinda
 Erlyn
+Ermin
 Ermita
 Ermitano
 Ernest
@@ -9943,8 +10176,10 @@ Escobia
 Escobido
 Escobillo
 Escoda
+Escolano
 Escolar
 Escolastica
+Escolastico
 Escolta
 Escombro
 Escopa
@@ -9968,6 +10203,7 @@ Eskwela
 Esla
 Esleigue
 Esmeralda
+Esmeraldo
 Esmeria
 Espada
 Espana
@@ -9994,6 +10230,7 @@ Espinosa
 Espirito
 Espiritu
 Espital
+Espitano
 Esplana
 Esplanade
 Espoleto
@@ -10005,6 +10242,7 @@ Esquejo
 Esquerra
 Esquerta
 Esquibal
+Esquinita
 Esquivel
 Essaquira
 Essel
@@ -10038,6 +10276,7 @@ Estella
 Estephano
 Ester
 Esterelle
+Estero
 Esteves
 Estevez
 Esther
@@ -10060,6 +10299,7 @@ Estrellas
 Estremadura
 Estreras
 Estrillas
+Estro
 Estupin
 Etcubanes
 Eternidad
@@ -10077,6 +10317,7 @@ Euclid
 Eufemia
 Eufemio
 Eufracia
+Eufracio
 Eufrocia
 Eugene
 Eugenia
@@ -10137,17 +10378,20 @@ Evora
 Evozone
 Eway
 Ex
+Ex.
 Exaltacion
 Examiner
 Excalibur
 Excellence
 Exchange
+Exec.
 Executive
 Exekiel
 Exelcior
 Exequiel
 Exercise
 Exeter
+Exiquiel
 Exit
 Exodo
 Exodus
@@ -10157,6 +10401,7 @@ Explorer
 Exportbank
 Expressway
 Extension
+Extention
 Extra
 Extremadura
 Eye
@@ -10167,6 +10412,7 @@ Ezra
 Ezrah
 Eztanza
 F
+F.
 FAB
 Fabella
 Fabia
@@ -10278,6 +10524,7 @@ Farah
 Faranal
 Faraon
 Farconville
+Fardo
 Farge
 Farinas
 Fariwood
@@ -10300,6 +10547,7 @@ Farview
 Fashion
 Fast
 Fate
+Father
 Fathers
 Fathers'
 Fatima
@@ -10310,6 +10558,7 @@ Faustino
 Fausto
 Favali
 Faveo
+Faviano
 Favila
 Favis
 Favor
@@ -10356,17 +10605,21 @@ Felicima
 Felicisimo
 Felicita
 Felicitas
+Felicito
 Felicity
+Felimino
 Felimon
 Felina
 Felino
 Felipa
 Felipe
+Felipe)
 Felipecacio
 Felisa
 Felisario
 Felissa
 Felix
+Felixberto
 Feliz
 Feliza
 Felizana
@@ -10474,15 +10727,18 @@ Figurin
 Figworth
 Fiji
 Fil
+Filadelfo
 Filaro
 Filbern
 Filbert
 Fildela
+Filemon
 Fileu
 Filheights
 Fili
 Filia
 Filibusterismo
+Filimon
 Filinvest
 Filipina
 Filipinas
@@ -10496,6 +10752,7 @@ Filomena
 Filomenas
 Filomeno
 Filonila
+Filoteo
 Filriter
 Filtration
 Fin
@@ -10553,6 +10810,7 @@ Flagini
 Flame
 Flamenco
 Flamengco
+Flamera
 Flametree
 Flaming
 Flamingo
@@ -10604,6 +10862,7 @@ Florian
 Florida
 Floridablanca
 Florido
+Florito
 Flormata
 Floro
 Florpina
@@ -10657,8 +10916,10 @@ Fontimayor
 Food
 Foot
 Football
+Footbridge
 Foothill
 Footpath
+Footway
 Fora
 Forage
 Forbes
@@ -10728,6 +10989,7 @@ Foxhole
 Foxtail
 Foxtrot
 FR
+Fr.
 Fraga
 Framingham
 Frammel
@@ -10744,6 +11006,7 @@ Francis
 Francisca
 Franciscan
 Francisco
+Francisco)
 Franciso
 Franco
 Francoise
@@ -10758,6 +11021,7 @@ Fraser
 Fraternal
 Fraternidad
 Fratinna
+Fred
 Fredel
 Frederic
 Frederick
@@ -10851,6 +11115,9 @@ Futuna
 Future
 FVR
 G
+G)
+G.
+G.C
 Gaabucayan
 Gaanan
 Gaang
@@ -11108,6 +11375,7 @@ Gastambide
 Gaston
 Gastuslao
 Gat
+Gata
 Gatang
 Gatas
 Gatbo
@@ -11118,6 +11386,7 @@ Gatdula
 Gate
 Gated
 Gates
+Gateway
 Gatis
 Gatlabayan
 Gatmaitan
@@ -11135,6 +11404,7 @@ Gaudencio
 Gaudi
 Gaudier
 Gaudioso
+Gaudisio
 Gaurano
 Gavan
 Gavilan
@@ -11171,6 +11441,7 @@ Gemma
 Gems
 Gemstar
 Gemumua
+Gen
 Gena
 Genalina
 Genaro
@@ -11284,6 +11555,7 @@ Gijon
 Gikd
 Gil
 Gilbert
+Gilberto
 Gilboa
 Gilbraltar
 Gilbraltarr
@@ -11308,6 +11580,7 @@ Gimlina
 Gimotea
 Gin
 Gina
+Ginang
 Ginatilan
 Giner
 Gines
@@ -11351,6 +11624,7 @@ Gitna
 Gitnang
 Givenchy
 GK
+Glaciano
 Glacier
 Glade
 Glades
@@ -11379,6 +11653,7 @@ Glensperry
 Glenway
 Glenwood
 Glenwoods
+Glicerio
 Glinoga
 Global
 Globe
@@ -11409,7 +11684,9 @@ Gochan
 Goco
 Goddard
 Godet
+Goding
 Godod
+Godofredo
 Godoy
 Goduno
 Godwit
@@ -11506,7 +11783,6 @@ Gotianuy
 Gotladera
 Gotokan
 Gotozon
-Gov
 Government
 Governor
 Governors
@@ -11528,6 +11804,7 @@ Graces
 Graceville
 Gracia
 Graciae
+Graciano
 Graciela
 Gracioso
 Grade
@@ -11682,6 +11959,7 @@ Guadalcanal
 Guadaloupe
 Guadalupe
 Guadarrama
+Guading
 Guadix
 Guadiz
 Guagua
@@ -11929,6 +12207,7 @@ Guzman
 Gym
 Gyro
 H
+H.
 Haba
 Habagat
 Habay
@@ -12142,7 +12421,7 @@ Hazel
 Hazelnut
 Hazelton
 Hazleton
-Hda
+Hda.
 Head
 Headline
 Heart
@@ -12200,9 +12479,11 @@ Henafel
 Henares
 Henderson
 Hendricks
+Heneral
 Heneveci
 Henna
 Hennessy
+Henri
 Henriette
 Henry
 Henson
@@ -12226,14 +12507,21 @@ Heriberta
 Heritage
 Hermacon
 Herman
+Hermana
 Hermanas
 Hermano
 Hermanos
 Hermes
+Hermiano
 Hermie
 Hermilinda
+Hermilio
+Hermina
+Hermingildo
 Herminia
 Herminigilda
+Herminigildo
+Herminio
 Hermitage
 Hermogena
 Hermogenes
@@ -12319,6 +12607,7 @@ Hilao
 Hilapnitan
 Hilaria
 Hilario
+Hilarion
 Hilary
 Hilda
 Hildegard
@@ -12469,6 +12758,7 @@ Honisto
 Honoban
 Honolulu
 Honor
+Honorable
 Honorata
 Honore
 Honoria
@@ -12619,6 +12909,8 @@ Hyssop
 Hystiresis
 Hyundai
 I
+I.
+Ian
 Iba
 Ibaa
 Ibaan
@@ -12685,6 +12977,7 @@ Idogan
 Ifrane
 Ifugao
 Ifurung
+Iga
 Igacos
 Igang
 Igat
@@ -12692,6 +12985,7 @@ Igay
 Igbabje
 Igbaras
 Igcawayan
+Igcawayan)
 IGCC
 Igcocolo
 Igdalig
@@ -12749,6 +13043,7 @@ Ileto
 Iligan
 Ilihan
 Ilijan
+Ilino
 Iliona
 Iliza
 Ilkley
@@ -12919,7 +13214,7 @@ Insular
 Insulator
 Insurance
 Insure
-Int
+Int.
 Intalan
 Intan
 Intavas
@@ -13018,6 +13313,7 @@ Isabela
 Isabelita
 Isabella
 Isabelle
+Isabelo
 Isagani
 Isaiah
 Isaias
@@ -13030,6 +13326,7 @@ Isiah
 Isian
 Isidora
 Isidore
+Isidoro
 Isidra
 Isidro
 Isinai
@@ -13105,6 +13402,9 @@ Izmart
 Iznart
 Izumi
 J
+J.
+J.D.A.
+J.P.
 Jabalde
 Jabar
 Jabeau
@@ -13152,6 +13452,7 @@ Jaime
 Jainero
 Jairus
 Jakarta
+Jake
 Jakosalem
 Jala
 Jalajala
@@ -13175,7 +13476,9 @@ Jamerol
 James
 Jamesonite
 Jamias
+Jamie
 Jamilan
+Jamille
 Jamin
 Jamindan
 Jamir
@@ -13190,6 +13493,7 @@ Jan
 Jane
 Janeiro
 Janet
+Janhendrick
 Janice
 Janipa
 Janipaan
@@ -13205,6 +13509,7 @@ Janssen
 January
 Jao
 Jaoquin
+Japal
 Japan
 Japanese
 Japhet
@@ -13233,6 +13538,7 @@ Jasper
 Jaspher
 Jasponica
 Jaucian
+Jaunita
 Java
 Javalde
 Javalera
@@ -13332,10 +13638,12 @@ Jireh
 Jison
 JKM
 JLA
+Jo
 Joan
 Joana
 Joanino
 Joanna
+Joanne
 Joaquin
 Joaquino
 Job
@@ -13345,6 +13653,7 @@ Jocelyn
 Jockey
 Joco
 Jocson
+Joe
 Joebel
 Joei
 Joeilane
@@ -13360,6 +13669,7 @@ Johnson
 Johnsons
 Johnston
 Johnstown
+Johny
 Johor
 Johova
 Joinville
@@ -13390,11 +13700,13 @@ Jorenz
 Jorge
 Josane
 Jose
+Jose.
 Josef
 Josefa
 Josefina
 Joseling
 Joselito
+Josemaria
 Joseph
 Josephine
 Joser
@@ -13410,6 +13722,7 @@ Jovan
 Jovellanos
 Jovellar
 Joven
+Jovencio
 Jover
 Jovillar
 Jovita
@@ -13429,6 +13742,7 @@ Juaning
 Juanita
 Juanitez
 Juanito
+Juaquin
 Juaquina
 Juarez
 Juaton
@@ -13486,6 +13800,7 @@ Jumamil
 Jumao
 Jumawan
 Jumbo
+Jun
 Juna
 Junas
 Junatas
@@ -13517,11 +13832,13 @@ Justin
 Justina
 Justine
 Justinian
+Justiniano
 Justino
 Justo
 Juvic
 Juvilla
 K
+K.
 Ka
 Kaagapay
 Kaalaman
@@ -13593,6 +13910,7 @@ Kadawngan
 Kadena
 Kadilingan
 Kadingilan
+Kadir
 Kadiwa
 Kadlum
 Kadon
@@ -13854,11 +14172,12 @@ Kapisanan
 Kapit
 Kapitagan
 Kapitan
+Kapitana
 Kapitangan
 Kapitolyo
 Kapok
 Kappa
-Kapt
+Kapt.
 Kapulong
 Kapuluan
 Kaputian
@@ -14246,7 +14565,6 @@ Kleopatra
 Klinan
 KLM
 Klondike
-Km
 Kneedler
 Knight
 Knights
@@ -14274,6 +14592,7 @@ Komblum
 Komite
 Komotal
 Komprey
+Kon.
 Kona
 Konagia
 Konami
@@ -14290,6 +14609,7 @@ Korea
 Korean
 Koren
 Korienza
+Korina
 Kornisa
 Koronadal
 Koronel
@@ -14335,6 +14655,7 @@ Kuizon
 Kulaman
 Kulambo
 Kulantro
+Kulas
 Kulasian
 Kulasihan
 Kulasing
@@ -14379,6 +14700,7 @@ Kwong
 Kwuntong
 Kyoto
 L
+L.
 La
 Laab
 Laak
@@ -14468,6 +14790,8 @@ Ladiana
 Ladiero
 Ladiola
 Ladioray
+Ladislao
+Ladislaw
 Ladislawa
 Lado
 Ladrido
@@ -14565,6 +14889,7 @@ Lakewood
 Laktaw
 Lakyan
 Lala
+Lalaine
 Lalak
 Lalakhan
 Lalapoy
@@ -14810,6 +15135,7 @@ Larkhill
 Larkspur
 Laron
 Larrazabal
+Larry
 Larsen
 Larton
 Laryuhan
@@ -14832,6 +15158,7 @@ Latana
 Latania
 Latap
 Latayan
+Lateral
 Lateris
 Lathyrus
 Latican
@@ -14864,6 +15191,7 @@ Laurels
 Laurelwood
 Lauren
 Laurena
+Laurence
 Laurencio
 Laureno
 Laurente
@@ -15037,10 +15365,12 @@ Leonardwood
 Leonca
 Leoncia
 Leoncio
+Leoncito
 Leone
 Leonforte
 Leongson
 Leonidas
+Leonido
 Leonila
 Leonina
 Leono
@@ -15118,6 +15448,7 @@ Liangan
 Liantada
 Lias
 Liasan
+Liat
 Libaan
 Libacao
 Libag
@@ -15148,6 +15479,7 @@ Liboron
 Liboton
 Libra
 Librada
+Librado
 Libre
 Libres
 Librinca
@@ -15161,6 +15493,7 @@ Liburon
 Libutad
 Libya
 Licab
+Licantro
 Licao
 Licaong
 Licaros
@@ -15181,6 +15514,7 @@ Lidlidda
 Lidong
 Lie
 Liege
+Lieutenant
 Liezel
 Life
 Liga
@@ -15382,6 +15716,7 @@ Liteng
 Lithium
 Lithuania
 Litid
+Lito
 Liton
 Litonjua
 Little
@@ -15398,6 +15733,7 @@ Living
 Livingston
 Livistonia
 Livorno
+Liwa
 Liwaan
 Liwag
 Liwan
@@ -15428,6 +15764,7 @@ Llavac
 Llavak
 Llave
 Lleda
+llfonso
 Llido
 Lllanes
 Llon
@@ -15527,6 +15864,7 @@ Lookout
 Loon
 Loong
 Loop
+Lope
 Lopena
 Lopez
 Lopinto
@@ -15650,6 +15988,7 @@ Lucing
 Lucio
 Luck
 Lucky
+Lucresio
 Lucsuan
 Lucsuhin
 Lucung
@@ -15817,9 +16156,10 @@ Lyric
 Lystra
 Lytton
 Lyza
-LZ
 M
+M.
 Ma
+Ma.
 Maaasahan
 Maaba
 Maabilidad
@@ -16083,6 +16423,7 @@ Maestra
 Maestrang
 Maestranza
 Maestre
+Maestro
 Maetree
 Mag
 Magabito
@@ -16144,6 +16485,7 @@ Magilas
 Magiliw
 Maginhawa
 Maginoo
+Magistrado
 Magiting
 Magkaisa
 Magkalinis
@@ -16229,6 +16571,7 @@ Mahan
 Mahaplag
 Maharlika
 Mahatao
+Mahatma
 Mahayag
 Mahayahay
 Mahayhay
@@ -16455,6 +16798,7 @@ Malcampo
 Malcorot
 Maldanum
 Maldives
+Maldo
 Malgapo
 Malha
 Malhacan
@@ -17037,6 +17381,7 @@ Marcos
 Marcosin
 Marcosina
 Marcoville
+Marcus
 Marcusin
 Marcventure
 Mare
@@ -17055,6 +17400,7 @@ Margaux
 Margelo
 Marges
 Margherita
+Margie
 Marginal
 Margo
 Margosatubig
@@ -17077,6 +17423,7 @@ Maricaban
 Maricalum
 Maricar
 Maricel
+Marichu
 Marick
 Maricudo
 Marida
@@ -17167,6 +17514,7 @@ Marquitos
 Marrakech
 Marriott
 Marron
+Marry
 Mars
 Marseille
 Marseilles
@@ -17494,11 +17842,14 @@ Mawab
 Mawang
 Mawaque
 Mawi
+Max
 Maxilom
 Maxima
 Maximiano
+Maximilian
 Maximillian
 Maximina
+Maximino
 Maximo
 Maximus
 Maxingal
@@ -17612,6 +17963,7 @@ Mecono
 Mecury
 Med
 Medal
+Medalla
 Medallion
 Medan
 Meddela
@@ -17661,17 +18013,21 @@ Mejilla
 Mejorada
 Meknes
 Mekong
+Mel
 Melalcalde
 Melani
 Melania
 Melanie
 Melanio
+Melano
+Melaño
 Melantic
 Melba
 Melbourne
 Melchiorre
 Melchira
 Melchor
+Melchora
 Melecena
 Melegrito
 Meleguas
@@ -17962,6 +18318,7 @@ Minerva
 Mines
 Minesota
 Minette
+Ming
 Minglana
 Minglanilla
 Mining
@@ -18063,7 +18420,6 @@ M'lang
 MM
 MMR
 MMW
-MN
 MNR
 MOA
 Moalboal
@@ -18189,6 +18545,7 @@ Monroy
 Mons
 Monserate
 Monserrat
+Monsignor
 Monsod
 Mont
 Montague
@@ -18369,11 +18726,13 @@ Movido
 Moy
 Mozar
 Mozart
+Mr.
 MRC
 MRF
 MRR
+Mrs.
 MRT
-Ms
+Ms.
 MSR
 MSU
 MTV
@@ -18473,7 +18832,7 @@ MVP
 Mwaan
 MWCR
 MWSS
-My
+My.
 Myer
 Mykenae
 Mylene
@@ -18485,6 +18844,8 @@ Mystic
 Mystica
 Mystical
 N
+N.
+N.S.M.S
 na
 Naawan
 Naba
@@ -18606,6 +18967,7 @@ Nalzaro
 Namamparan
 Namayacan
 Nambaran
+Name
 Namie
 Namnam
 Namnama
@@ -18643,6 +19005,7 @@ Nanjen
 Nanka
 Nannette
 Nanogod
+Nanoy
 Nansangaan
 Nanunga
 Naova
@@ -18706,9 +19069,11 @@ Nasugbo
 Nasugbu
 Naswe
 Natalia
+Natalie
 Natalio
 Natan
 Natanauan
+Natangcop
 Natayag
 Natera
 Nathan
@@ -18808,6 +19173,7 @@ Neithaniel
 Nejal
 Nelia
 Nellie
+Nelson
 Nemesia
 Nemuel
 Nena
@@ -18826,11 +19192,13 @@ Nephtali
 Nepo
 Nepoli
 Nepomuceno
+Neptali
 Neptis
 Neptune
 Neptuno
 Ner
 Nera
+Nerealiza
 Nereus
 Neri
 Nerissa
@@ -18940,8 +19308,10 @@ Nimrod
 Nina
 Ninang
 Ninang's
+Ninay
 Ninebark
 Ning
+Nini
 Nining
 Ninio
 Nino
@@ -19013,6 +19383,7 @@ Norfolk
 Nori
 Noriega
 Noriel
+Norio
 Norius
 Norma
 Normal
@@ -19024,7 +19395,6 @@ Norte
 North
 Northampton
 Northbend
-Northbound
 Northbrook
 Northcliffe
 Northcrest
@@ -19120,6 +19490,9 @@ Nylon
 Nypa
 Nyuste
 O
+O.
+O.K.
+O.L.
 Oahu
 Oaig
 Oak
@@ -19220,6 +19593,7 @@ off
 Offarel
 Office
 Officers
+Ofilada
 Oflaria
 Ofracio
 og
@@ -19277,6 +19651,7 @@ Olermo
 Olgado
 Olicanto
 Oliman
+Olimpia
 Oling
 Oliphindo
 Olisihan
@@ -19309,6 +19684,7 @@ OLV
 Olvera
 Olympia
 Olympic
+Olympio
 Olympus
 om
 Omaha
@@ -19331,6 +19707,7 @@ Onay
 Oncidium
 Onda
 One
+Onelia
 Ong
 Ongan
 Ongking
@@ -19362,6 +19739,7 @@ Opol
 Opon
 Oposcolo
 Oppus
+Oprah
 Optic
 Opulencia
 opus
@@ -19455,7 +19833,7 @@ Ortal
 Ortanez
 Ortega
 Ortigas
-OrtigasSouthbound
+Ortigas(Southbound)
 Ortile
 Ortiz
 Ortona
@@ -19493,6 +19871,7 @@ Ostia
 Ostini
 Ostrand
 Ostrich
+Osumundo
 Osuna
 Otabon
 Otek
@@ -19528,6 +19907,7 @@ Oviedo
 Ovule
 Owak
 owan
+Owen
 Owens
 Owl
 Oxales
@@ -19546,6 +19926,9 @@ Ozaete
 Ozamis
 Ozamiz
 P
+P.
+P.A.
+P.F.
 P10
 P4
 Paa
@@ -19565,6 +19948,7 @@ Pabingwit
 Pablico
 Pablito
 Pablo
+Pabo
 Pabondia
 Pabriga
 Pabustan
@@ -19610,6 +19994,7 @@ Padilla
 Padoca
 Padonia
 Padova
+Padre
 Padres
 Padriga
 Padrigal
@@ -19658,6 +20043,7 @@ Pagdalagan
 Pagdanganan
 Pagdanicon
 Pagdaraoan
+Pagday
 Pagdilao
 Page
 Pagga
@@ -19753,6 +20139,7 @@ Palabrica
 Palac
 Palace
 Palacian
+Palacian)
 Palacio
 Palacios
 Palacol
@@ -19993,6 +20380,7 @@ Panay
 Panayaman
 Panaytayon
 Pance
+Pancho
 Pancian
 Pancracio
 Pancratius
@@ -20016,6 +20404,7 @@ Pandol
 Pandoro
 Pandurucan
 Panes
+Panfilo
 Panforte
 Pangablan
 Pangako
@@ -20159,9 +20548,11 @@ Papertrend
 Papillon
 Papo
 Paprika
+Papu
 Papua
 Paquibato
 Paquita
+Paquito
 Paraan
 Paracale
 Paracelis
@@ -20280,6 +20671,7 @@ Parungao
 Pasacao
 Pasacola
 Pasadena
+Pasaje
 Pasajes
 Pasalan
 Pasaleng
@@ -20298,6 +20690,7 @@ Pascua
 Pascual
 "Pascual,"
 Pascuala
+Pascualita
 Pasedena
 Paseo
 Pasia
@@ -20340,6 +20733,7 @@ Pasupil
 Pasuquin
 Pasville
 Pasyagan
+Pat
 Pata
 Patac
 Patag
@@ -20361,6 +20755,7 @@ Paterno
 Pateros
 Path
 Pathwalk
+Pathway
 Pati
 Paticua
 Patience
@@ -20396,6 +20791,7 @@ Patrocinio
 Patrocino
 Patsy
 Pattung
+Patty
 Patubig
 Patul
 Patulangan
@@ -20467,6 +20863,7 @@ Peaceful
 Peach
 Peachbell
 Peaches
+Peachie
 Peachtree
 Peachy
 Peacock
@@ -20485,6 +20882,7 @@ Peasant
 Pebble
 Pebblewood
 Pecan
+Peceso
 Pechay
 Pecker
 Pecson
@@ -20504,6 +20902,7 @@ Pedrozo
 Peer
 Peewee
 Pegasus
+Peggy
 Pegion
 Pegley
 Pegunal
@@ -20542,6 +20941,7 @@ Penayo
 Pendatun
 Pendon
 Pendragon
+Pene
 Penelope
 Penesa
 Penettone
@@ -20568,6 +20968,7 @@ Peoples
 Pepe
 Peperidge
 Peping
+Pepita
 Pepito
 Pepper
 Peppergrass
@@ -20684,6 +21085,7 @@ Petron
 Petrona
 Petronia
 Petronila
+Petronilo
 Petsay
 Petuna
 Petunia
@@ -20796,6 +21198,7 @@ Pierce
 Piere
 Pierno
 Pierra
+Pierre
 Pieta
 Pietrino
 Piety
@@ -20951,6 +21354,7 @@ Pinos
 Pinoy
 Pinpin
 Pinsao
+Pinsin
 Pinsuya
 Pintados
 Pintail
@@ -21016,6 +21420,7 @@ Pitik
 Pitiliano
 Pitimi
 Pitimini
+Pitlane
 Pitogo
 Pitong
 Pitpit
@@ -21026,6 +21431,7 @@ Pittsfield
 Pitunia
 PITX
 Pius
+Piy
 Piyape
 Pizarra
 Pizarro
@@ -21118,7 +21524,7 @@ Pocdol
 Pocna
 Poctoy
 Podaca
-Poe
+POE
 Pogi
 Pogo
 Pogomboa
@@ -21229,6 +21635,8 @@ Porais
 Porcentro
 Porche
 Porciuncula
+Porferio
+Porfirio
 Pormentera
 Poro
 Porong
@@ -21312,6 +21720,7 @@ Preakness
 Prechnite
 Preciosa
 Precious
+Prefetiza
 Prelaya
 Premier
 Premiere
@@ -21319,7 +21728,7 @@ Premium
 Prenda
 Prensa
 Prenza
-Pres
+Pres.
 Presbitero
 Prescila
 Prescilla
@@ -21380,8 +21789,10 @@ Prison
 Pristina
 Private
 Procesa
+Proceso
 Processing
 Processional
+Procopio
 Prodon
 Production
 Productivity
@@ -21408,11 +21819,14 @@ Prospect
 Prosperidad
 Prosperine
 Prosperity
+Prospero
 Protacio
 Protea
 Protection
 Protocol
+Protolico
 Proton
+Prov.
 Provence
 Provenir
 Proverb
@@ -21435,7 +21849,7 @@ Psalms
 PSP
 PSPC
 Psychology
-Pt
+Pt.
 PTA
 PTS
 Pu
@@ -21545,6 +21959,7 @@ Purification
 Puripikasyon
 Purisima
 Purisma
+Purita
 Puritan
 Purity
 Puro
@@ -21588,8 +22003,10 @@ Pyrope
 Pyrus
 Pythagoras
 Q
+Q.
 Qatar
 QC
+Quadrangle
 Quaher
 Quail
 Quality
@@ -21650,7 +22067,6 @@ Quiasan
 Quibaol
 Quibranza
 Quibuar
-Quicksand
 Quidalos
 Quierez
 Quieta
@@ -21709,6 +22125,7 @@ Quirante
 Quirat
 Quiray
 Quiricada
+Quirico
 Quirinal
 Quirino
 Quirno
@@ -21730,6 +22147,10 @@ Quizon
 Quotiz
 Qurino
 R
+R.
+R.C.
+R.G.
+R.T.R.
 R1
 R2
 R3
@@ -21756,9 +22177,11 @@ Racat
 Racca
 Race
 Racelis
+Raceway
 Rachel
 Rachelle
 Rachilla
+Racho
 Rada
 Radan
 Radar
@@ -21796,6 +22219,7 @@ Ragudo
 Ragudos
 Raguindin
 Ragus
+Raha
 Rahmann
 Raiden
 Rail
@@ -21808,6 +22232,7 @@ Rainier
 Rainlilly
 Raintree
 Raja
+Rajah
 Rajan
 Rakim
 Raleigh
@@ -21817,6 +22242,7 @@ Ralph
 Ram
 Rama
 Ramada
+Ramada)
 Ramaida
 Ramat
 Ramax
@@ -21841,11 +22267,13 @@ Ramitex
 Ramon
 Ramona
 Ramonal
+Ramoncita
 Ramones
 Ramoran
 Ramos
 Ramoso
 Ramoy
+Ramp
 Ramses
 Ramy
 Ramylu
@@ -21892,6 +22320,7 @@ Rariza
 Ras
 Rasalan
 Rasay
+Rasing
 Rasonabe
 Raspado
 Raspador
@@ -22055,7 +22484,9 @@ Renaissance
 Renata
 Renato
 Renault
+Rencio
 Rendon
+Rene
 Renedis
 Renee
 Renelisan
@@ -22107,6 +22538,7 @@ Restituto
 Reston
 Resurreccion
 Resurrection
+Resutito
 Reta
 Retail
 Retained
@@ -22114,6 +22546,7 @@ Retales
 Retana
 Retelco
 Reten
+Retired
 Retirees
 Retirement
 Retiro
@@ -22128,6 +22561,7 @@ Revelation
 Revellin
 Revera
 Revere
+Reverend
 Reviera
 Revil
 Revilla
@@ -22290,6 +22724,8 @@ Roa
 Road
 Roadilla
 Roadrunner
+Roads
+Roadway
 Roasa
 Robbie
 Robeldela
@@ -22312,6 +22748,7 @@ Robles
 Robredo
 Robton
 Robusta
+Robyn
 Roca
 Rocaf
 Rocbal
@@ -22367,6 +22804,8 @@ Roja
 Rojales
 Rojas
 Rojo
+Roland
+Rolando
 Roldan
 Rolex
 Roller
@@ -22401,6 +22840,7 @@ Romulo
 Romulus
 Romy
 Ron
+Ronald
 Ronaldo
 Ronamar
 Ronda
@@ -22420,6 +22860,7 @@ Roquero
 Roro
 Rorogagus
 Rosa
+Rosabel
 Rosabella
 Rosacara
 Rosado
@@ -22495,6 +22936,7 @@ Roual
 Rouble
 Rouen
 Round
+Roundabout
 Roura
 Roussillon
 Route
@@ -22534,6 +22976,7 @@ Rubi
 Rubia
 Rubidium
 Rubillar
+Rubini
 Rubinstein
 Rubio
 Rubium
@@ -22555,6 +22998,7 @@ Ruellos
 Ruelos
 Ruffia
 Ruffian
+Rufi
 Rufina
 Rufino
 Rufo
@@ -22595,6 +23039,7 @@ Russet
 Russia
 Ruste
 Rustia
+Rustico
 Ruth
 Rutherford
 Rutland
@@ -22604,6 +23049,11 @@ Ryan
 Rye
 Ryegrass
 S
+S.
+S.I.P
+S.I.P.
+S.N.
+S.T.A.
 sa
 Saab
 SAAD
@@ -22834,6 +23284,7 @@ Saling
 Salinga
 Salinlahi
 Salinungan
+Salipada
 Salipsip
 Salisbury
 Salisi
@@ -22887,7 +23338,7 @@ Salvi
 Salvia
 Salvosa
 Salzburg
-sam
+Sam
 Samaba
 Samagta
 Samahang
@@ -23175,6 +23626,7 @@ Satunina
 Saturday
 Saturn
 Saturnina
+Saturnino
 Saturno
 Sauco
 Saudi
@@ -23298,11 +23750,15 @@ Sebreno
 Sebta
 Sebu
 Second
+Secondary
 Secor
 Secret
 Secretariat
+Secretary
 Sect
+Sect)
 Section
+Section)
 Securities
 Security
 Sedeno
@@ -23312,6 +23768,7 @@ Sedon
 Sedoria
 Sedum
 See
+Sefarin
 Sefton
 Segapod
 Segismundo
@@ -23376,6 +23833,8 @@ Senilda
 Senior
 Senna
 Seno
+Senor
+Señor
 Senora
 Senorin
 Senorita
@@ -23460,6 +23919,7 @@ Seventh
 Severina
 Severino
 Severn
+Severo
 Sevidal
 Sevilla
 Seville
@@ -23528,6 +23988,7 @@ Sheringham
 Sherman
 Sherpa
 Sherry
+Sherryl
 Sherwood
 Sheryl
 Shiela
@@ -23594,6 +24055,7 @@ Sibesco
 Sibobo
 Sibol
 Sibonga
+Sibsib
 Sibuco
 Sibud
 Sibugay
@@ -23615,6 +24077,7 @@ Sicsican
 Sicubong
 Sida
 Side
+Side)
 Sideco
 Sides
 Sidon
@@ -23622,6 +24085,7 @@ Siena
 Sienatel
 Sienna
 Sierra
+Siervas
 Siete
 Siffu
 Sigarillas
@@ -23706,6 +24170,7 @@ Silvestre
 Silvino
 Silvio
 Silway
+Sim
 Siman
 Simandagit
 Simbahan
@@ -23721,6 +24186,7 @@ Simod
 Simon
 Simona
 Simone
+Simonette
 Simoun
 Simoy
 Simpak
@@ -23807,6 +24273,7 @@ Sinipsip
 Sinisian
 Sinmili
 Sinnabat
+Sino
 Sinogbuhan
 Sinsano
 Sinsayon
@@ -23953,6 +24420,7 @@ Soda
 Sodium
 Sodusta
 Sofia
+Sofronio
 Soft
 Softball
 Sogo
@@ -24039,6 +24507,7 @@ Sophie
 Sophocles
 Sophora
 Sor
+Sor.
 Sora
 Sorabella
 Soraino
@@ -24075,7 +24544,6 @@ South
 Southampton
 Southbend
 Southbord
-Southbound
 Southcom
 Southeast
 Southend
@@ -24101,6 +24569,7 @@ Soverini
 Sowang
 Soy
 Soyuz
+Sozimo
 Spadari
 Spain
 Spalding
@@ -24110,9 +24579,11 @@ Sparrow
 Sparrows
 Sparta
 SPCH
+Speaker
 Spearmint
 Special
 Spectrum
+Speedway
 Speedwell
 Spencer
 Spezia
@@ -24170,14 +24641,16 @@ Squire
 Squirrel
 Sr
 Srasse
+Sreet
 SRP
 SSB
 SSS
-St
+St.
 Sta
 Stafford
 Staghunt
 Stagno
+Stairway
 Stallion
 Stamen
 Stanai
@@ -24313,6 +24786,7 @@ Subbitern
 Subd
 Subdiviosion
 Subdivision
+Subdivision)
 Subdivison
 Subec
 Subic
@@ -24466,6 +24940,7 @@ Supa
 Supang
 Supangan
 Super
+Superhighway
 Superking
 Superman
 Supermarket
@@ -24519,6 +24994,7 @@ Suyo
 Suyoz
 Suzanne
 Suzarra
+Suzette
 Suzuki
 SVAC
 SVG
@@ -24566,6 +25042,7 @@ Sysna
 Syson
 System
 T
+T.
 Taal
 taalan
 Taang
@@ -25196,6 +25673,7 @@ Technology
 Technopark
 Tecla
 Tecson
+Ted
 Teddy
 Tedworth
 Tee
@@ -25236,6 +25714,7 @@ Templanza
 Temple
 Templo
 Templora
+Temporo
 Tenacity
 Tenan
 tenant
@@ -25256,18 +25735,20 @@ Tennyson
 Tenorio
 Tensuan
 Tentado
+Teodolfo
+Teodolo
 Teodora
 Teodorian
 Teodorica
 Teodoro
 Teodula
 Teofila
+Teofilo
 Teofisto
 Teope
 Teotimo
 Tepasay
 Teppeng
-TER
 Terada
 Terah
 Teranco
@@ -25358,12 +25839,14 @@ Thoroughbred
 Thousand
 Thrift
 Thristle
+Thru
 Thrush
 Thunderbird
 Thursdale
 Thursday
 Thurston
 Thyme
+Tia
 Tiabanan
 Tiago
 Tialo
@@ -25534,6 +26017,7 @@ Tining
 Tininghalang
 Tinio
 Tinkerbell
+Tino
 Tinoc
 Tinogdan
 Tinokol
@@ -25607,7 +26091,6 @@ TLIR
 TLLR
 TMBP
 TNHS
-TNR
 to
 Tobacco
 Tobera
@@ -25647,6 +26130,8 @@ Tolibao
 Toll
 Tolosa
 Toluca
+Tom
+Toma
 Tomacruz
 Tomado
 Tomagodtod
@@ -25756,6 +26241,7 @@ Tortosa
 Tortuosa
 Tosca
 Toscana
+Toti
 Toting
 Toucan
 Toucanes
@@ -25774,6 +26260,7 @@ Townhomes
 Townhouse
 Townline
 Township
+Toy
 Toyoma
 Toyota
 Toyoto
@@ -25791,12 +26278,14 @@ Trader
 Traders
 Trafalgar
 Trail
+Trailway
 Train
 Training
 Trajo
 Trakehner
 Tramo
 Trance
+Tranquilino
 Tranquilio
 Tranquility
 Transcentral
@@ -25859,6 +26348,7 @@ Trini
 Trinidad
 Trining
 Trinity
+Trino
 Trinoma
 Triple
 Tripoli
@@ -25880,7 +26370,6 @@ Trousdale
 Troy
 Trozo
 Truck
-True
 Truimfo
 Trujillo
 Truman
@@ -26026,6 +26515,7 @@ Tungonan
 Tungsten
 Tunis
 Tunisia
+Tunnel
 Tunque
 Tuntong
 Tuntungin
@@ -26042,12 +26532,15 @@ Turayong
 Turentigue
 Turibio
 Turin
+Turing
 Turingan
 Turkey
+Turko
 Turla
 Turlock
 Turmaline
 Turmeric
+Turn
 Turnberry
 Turner
 Turnip
@@ -26096,6 +26589,11 @@ Tyre
 Tyrone
 Tytana
 U
+U.
+U.M.
+U.N.
+U.S
+U.S.
 Uacon
 Ub
 Ubal
@@ -26156,6 +26654,7 @@ Uli
 Ulian
 Ulilang
 Uling
+Uling)
 Ulingan
 Ulingao
 Ulita
@@ -26196,6 +26695,7 @@ Unang
 Unbekannt
 Under
 Underground
+Underpass
 Ungab
 Ungbert
 Ungka
@@ -26292,6 +26792,7 @@ Usugan
 Utah
 Utalia
 Utel
+Uthman
 Utility
 Utot
 UTS
@@ -26307,6 +26808,7 @@ Uytengsu
 Uyugan
 V
 V&
+V.
 V8
 Vacalares
 Vacante
@@ -26316,6 +26818,7 @@ Vadeo
 Vadevia
 Vadus
 Vaga
+Vai
 Val
 Valarao
 Valbuena
@@ -26423,6 +26926,7 @@ Vega
 Vegas
 Vegetable
 Vehicle
+Vehicle)
 Vela
 Velano
 Velante
@@ -26555,6 +27059,7 @@ Vibar
 Vibora
 Vic
 Vical
+Vice
 Vicelo
 Vicenca
 Vicencio
@@ -26565,6 +27070,8 @@ Vicentillo
 Vicenza
 Vicenzo
 Viceroy
+Vicinal
+Vick
 Vicker
 Vickers
 Vicky
@@ -26704,6 +27211,7 @@ Vinas
 Vinca
 Vince
 Vincent
+Vincente
 Vincents
 Vincenzo
 Vinchy
@@ -26782,6 +27290,7 @@ Vitori
 Vitoria
 Vittoria
 Vittorio
+Viuda
 Viudez
 Viva
 Vivaldi
@@ -26815,6 +27324,7 @@ Vulcan
 Vulture
 Vytiaco
 W
+W.
 Wacal
 Wacat
 Wack
@@ -26844,6 +27354,7 @@ Waling
 Walk
 Walkathon
 Walker
+Walkway
 Wall
 Wallace
 Wallflower
@@ -26901,7 +27412,6 @@ Way
 Wayan
 Wayang
 Wayfield
-WB
 Weather
 Weaton
 Weaver
@@ -26923,6 +27433,7 @@ Wellsburg
 Wellspring
 Wellville
 Welsh
+Wenceslao
 Wencislao
 Wency
 Wensdale
@@ -26979,6 +27490,7 @@ Wichita
 Widdoes
 Wide
 Widyama
+Wigberto
 Wigeon
 Wika
 Wild
@@ -27057,7 +27569,6 @@ Woodlands
 Woodpecker
 Woodridge
 Woodrose
-Woodrosel
 Woods
 Woodside
 Woodstock
@@ -27100,7 +27611,8 @@ XIX
 XYLO
 Xylomelum
 Xyris
-Y
+y
+Y.
 Yabawon
 Yabes
 Yabo
@@ -27172,6 +27684,7 @@ Year
 Years
 Yebana
 Yek
+Yelen
 Yellow
 Yellowbell
 Yellowstone
@@ -27219,11 +27732,13 @@ Youngstown
 Yousef
 Youth
 Youtube
+Yoyo
 Yraola
 Yrene
 Yrizary
 Ysabel
 Ysidoro
+Ysidra
 Ysip
 YSL
 Ysmael
@@ -27255,6 +27770,7 @@ Yuseco
 Yuta
 Yvette
 Z
+Z.
 Zabala
 Zaballero
 Zabarte
@@ -27273,6 +27789,7 @@ Zagoro
 Zagreb
 Zaher
 Zahra
+Zaid
 Zaide
 Zaire
 Zalamea
@@ -27366,8 +27883,10 @@ Zitanga
 Zloty
 ZNAC
 Zobel
+Zobert
 Zodiac
 Zoe
+Zoilo
 Zola
 Zoleta
 Zond
@@ -27377,6 +27896,8 @@ Zorilla
 Zornosa
 Zorra
 Zorsano
+Zosimo
+Zosing
 Zsa
 Zubel
 Zubiri

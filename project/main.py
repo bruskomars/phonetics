@@ -36,7 +36,7 @@ EspeakWrapper.set_library(_ESPEAK_LIBRARY)
 # b = 'en-us'
 #
 #
-# no_dup = list(set(name))
+# no_dup = list(name)
 # no_dup.sort()
 #
 # ##FOR IPA
@@ -48,14 +48,16 @@ EspeakWrapper.set_library(_ESPEAK_LIBRARY)
 # df = pd.DataFrame(phonetics_ipa, columns=['phonemizer'])
 # df.to_csv('name-IPA.txt', index=False, sep='\t')
 #
-# ##FOR phonemizer
+# # ##FOR phonemizer
 # # phonetics = phonemize(no_dup, language=b, backend='espeak')
 # #
 # # df = pd.DataFrame(phonetics, columns=['phonemizer'])
 # # df.to_csv('name-phonemizer-en-us.txt', index=False, sep='\t')
 #
 # ##NAME FILE
-# # df = pd.DataFrame(no_dup, columns=['name'])
-# # df.to_csv('name.txt', index=False, sep='\t')
+# df = pd.DataFrame(no_dup, columns=['name'])
+# df.to_csv('nameIPA.txt', index=False, sep='\t')
+#
+# # print(phonemize("True", language='en-us', backend='espeak'))
 
-print(phonemize("street", language='en-us', backend='espeak'))
+print(ipa.convert("and"))
