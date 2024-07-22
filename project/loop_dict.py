@@ -1,11 +1,11 @@
 import pandas as pd
 import csv
 
-my_dic = pd.read_excel('for_dict_IPA.xlsx', index_col=0).to_dict()
+my_dic = pd.read_excel('for_dict.xlsx', index_col=0).to_dict()
 dict2 = my_dic['phonetics']
 # print(my_dic)
 
-with open('name_list.csv', 'r') as file:
+with open('name_list_SFPF.csv', 'r') as file:
 
     data = csv.reader(file)
     name_list = []
@@ -27,4 +27,4 @@ with open('name_list.csv', 'r') as file:
         name_list.append(name)
 
 df = pd.DataFrame(name_list, columns=['phonetics'])
-df.to_csv('phonetics_map_name_IPA.txt', index=False, sep='\t')
+df.to_csv('phonetics_map_SFPF.txt', index=False, sep='\t')
